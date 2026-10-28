@@ -1,0 +1,7 @@
+numpy
+pyspark
+tensorflow
+tensorflow-recommenders
+kafka-python
+redis
+cassandra-driver
