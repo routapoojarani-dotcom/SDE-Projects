@@ -1,0 +1,18 @@
+\doxysection{logger.\+h}
+\hypertarget{logger_8h_source}{}\label{logger_8h_source}\index{include/logger.h@{include/logger.h}}
+
+\begin{DoxyCode}{0}
+\DoxyCodeLine{00001\ \textcolor{preprocessor}{\#ifndef\ LOGGER\_H}}
+\DoxyCodeLine{00002\ \textcolor{preprocessor}{\#define\ LOGGER\_H}}
+\DoxyCodeLine{00003\ }
+\DoxyCodeLine{00008\ \textcolor{keywordtype}{void}\ logger\_init(\textcolor{keyword}{const}\ \textcolor{keywordtype}{char}\ *ecu\_name);}
+\DoxyCodeLine{00009\ }
+\DoxyCodeLine{00016\ \textcolor{keywordtype}{void}\ logger\_log\_tx(\textcolor{keywordtype}{unsigned}\ \textcolor{keywordtype}{int}\ \textcolor{keywordtype}{id},\ \textcolor{keywordtype}{unsigned}\ \textcolor{keywordtype}{char}\ *data,\ \textcolor{keywordtype}{unsigned}\ \textcolor{keywordtype}{char}\ len);}
+\DoxyCodeLine{00017\ }
+\DoxyCodeLine{00024\ \textcolor{keywordtype}{void}\ logger\_log\_rx(\textcolor{keywordtype}{unsigned}\ \textcolor{keywordtype}{int}\ \textcolor{keywordtype}{id},\ \textcolor{keywordtype}{unsigned}\ \textcolor{keywordtype}{char}\ *data,\ \textcolor{keywordtype}{unsigned}\ \textcolor{keywordtype}{char}\ len);}
+\DoxyCodeLine{00025\ }
+\DoxyCodeLine{00027\ \textcolor{keywordtype}{void}\ logger\_close(\textcolor{keywordtype}{void});}
+\DoxyCodeLine{00028\ }
+\DoxyCodeLine{00029\ \textcolor{preprocessor}{\#endif}}
+
+\end{DoxyCode}

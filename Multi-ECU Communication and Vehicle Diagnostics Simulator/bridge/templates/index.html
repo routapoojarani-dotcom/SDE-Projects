@@ -1,0 +1,601 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>CAN Bus Car Simulator</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/socket.io/4.7.2/socket.io.min.js"></script>
+    <style>
+        html, body {
+            margin: 0;
+            padding: 0;
+            background: #0d1117;
+            height: 100%;
+            overflow: hidden;
+            font-family: -apple-system, sans-serif;
+        }
+        #scene {
+            display: block;
+            margin: 0 auto;
+        }
+        #hud {
+            position: fixed;
+            top: 10px;
+            right: 20px;
+            width: 190px;
+            box-sizing: border-box;
+            color: #e8e8e8;
+            font-size: 15px;
+            line-height: 1.8;
+            background: rgba(0,0,0,0.4);
+            padding: 14px 18px;
+            border-radius: 8px;
+        }
+        #hud .row { display: flex; justify-content: space-between; }
+        #hud .value {
+            color: #f4c430;
+            font-weight: bold;
+            font-variant-numeric: tabular-nums;
+            display: inline-block;
+            min-width: 50px;
+            text-align: right;
+        }
+        .controls-group {
+            position: fixed;
+            transform: translateY(-50%);
+            display: flex;
+            flex-direction: column;
+            gap: 12px;
+            align-items: center;
+        }
+        .ctrl-btn {
+            padding: 14px 20px;
+            font-size: 15px;
+            font-weight: bold;
+            border: none;
+            border-radius: 8px;
+            cursor: pointer;
+            color: white;
+            background: #2f6fc4;
+            transition: transform 0.1s;
+            width: 100px;
+        }
+        .ctrl-btn:active { transform: scale(0.95); }
+        .ctrl-btn.active { background: #f4c430; color: #1a1a1a; }
+        #btn-brake.active { background: #e63946; color: white; }
+        .ctrl-btn.small { padding: 10px 14px; font-size: 13px; background: #444; width: 60px; }
+        .ctrl-btn.small.active { background: #ffa500; color: #1a1a1a; }
+        .ctrl-btn.hazard { background: #555; }
+        .ctrl-btn.hazard.active { background: #ff3b3b; color: white; }
+        .start-stop {
+            position: fixed;
+            width: auto;
+            padding: 10px 24px;
+            font-size: 14px;
+            background: #2f6fc4;
+        }
+        .start-stop.stopped {
+            background: #3a3f47;
+            color: #f4c430;
+        }
+    </style>
+</head>
+<body>
+    <canvas id="scene"></canvas>
+    <button id="btn-startstop" class="ctrl-btn start-stop">Pause</button>
+
+    <div id="hud">
+        <div class="row"><span>RPM</span><span class="value" id="hud-rpm">0</span></div>
+        <div class="row"><span>Speed</span><span class="value" id="hud-speed">0 km/h</span></div>
+        <div class="row"><span>Fuel</span><span class="value" id="hud-fuel">0%</span></div>
+    </div>
+
+    <div id="controls-left" class="controls-group">
+        <button id="btn-accel" class="ctrl-btn">Accelerate</button>
+        <button id="btn-brake" class="ctrl-btn">Brake</button>
+    </div>
+
+    <div id="controls-right" class="controls-group">
+        <button id="btn-left" class="ctrl-btn small">◀</button>
+        <button id="btn-right" class="ctrl-btn small">▶</button>
+        <button id="btn-hazard" class="ctrl-btn small hazard">⚠</button>
+    </div>
+
+    <script>
+        const canvas = document.getElementById("scene");
+        const ctx = canvas.getContext("2d");
+        const controlsLeft = document.getElementById("controls-left");
+        const controlsRight = document.getElementById("controls-right");
+        const btnStartStop = document.getElementById("btn-startstop");
+
+        function resizeCanvas() {
+            canvas.height = window.innerHeight - 20;
+            canvas.width = Math.min(window.innerWidth - 20, 500);
+        }
+
+        function updateControlPositions() {
+            const rect = canvas.getBoundingClientRect();
+            const verticalCenter = rect.top + rect.height / 2;
+
+            controlsLeft.style.top = verticalCenter + "px";
+            controlsLeft.style.left = Math.max(10, rect.left - 120) + "px";
+
+            controlsRight.style.top = verticalCenter + "px";
+            controlsRight.style.left = Math.min(window.innerWidth - 80, rect.right + 20) + "px";
+
+            btnStartStop.style.left = (rect.left + rect.width / 2) + "px";
+            btnStartStop.style.top = Math.max(4, rect.top - 4) + "px";
+            btnStartStop.style.transform = "translateX(-50%)";
+        }
+
+        function handleResize() {
+            resizeCanvas();
+            updateControlPositions();
+        }
+        window.addEventListener("resize", handleResize);
+        resizeCanvas();
+        updateControlPositions();
+
+        const LANE_COUNT = 3;
+
+        let carLane = 1;
+        let carLaneAnimated = 1;
+        let carRotation = 0;
+
+        const state = {
+            rpm: 800,
+            speed: 0,
+            fuel: 100,
+            brakeOn: false,
+            turnSignal: 0,
+        };
+
+        let previousTurnSignal = 0;
+
+        let blinkOn = false;
+        setInterval(() => { blinkOn = !blinkOn; }, 400);
+
+        let brakeGlowPhase = 0;
+        setInterval(() => { brakeGlowPhase = (brakeGlowPhase + 1) % 40; }, 50);
+
+        let roadScrollOffset = 0;
+
+        const IDLE_CREEP = 8;
+
+        const OBSTACLE_MAX = 6;
+        const BUMP_SAFE_SPEED = 60;
+        const PIT_SAFE_SPEED = 40;
+
+        let obstacles = [];
+        let obstacleIdCounter = 0;
+        let spawnTimer = 2.0;
+
+        let speedPenalty = 0;
+        let bumpImpulse = 0;
+
+        let toast = { text: "", timer: 0 };
+        let running = true;
+
+        function showToast(text, seconds) {
+            toast.text = text;
+            toast.timer = seconds;
+        }
+
+        function spawnObstacleMaybe(dt) {
+            spawnTimer -= dt;
+            if (spawnTimer <= 0 && obstacles.length < OBSTACLE_MAX) {
+                const lane = Math.floor(Math.random() * LANE_COUNT);
+                const type = Math.random() < 0.6 ? "bump" : "pit";
+                obstacles.push({ id: obstacleIdCounter++, lane, y: -40, type, hit: false });
+                spawnTimer = 1.8 + Math.random() * 1.4;
+            }
+        }
+
+        function updateObstacles(dt, effectiveSpeed) {
+            obstacles.forEach(o => { o.y += effectiveSpeed * dt * 2.2; });
+            obstacles = obstacles.filter(o => o.y < canvas.height + 60);
+        }
+
+        function checkCollisions(carCenterY, carHalfHeight) {
+            const laneNow = Math.round(carLaneAnimated);
+            obstacles.forEach(o => {
+                if (o.hit) return;
+                if (o.lane !== laneNow) return;
+                if (o.y > carCenterY - carHalfHeight && o.y < carCenterY + carHalfHeight) {
+                    o.hit = true;
+                    handleImpact(o);
+                }
+            });
+        }
+
+        function handleImpact(o) {
+            const safeSpeed = (o.type === "pit") ? PIT_SAFE_SPEED : BUMP_SAFE_SPEED;
+            if (state.speed > safeSpeed) {
+                const severity = (o.type === "pit") ? 0.35 : 0.2;
+                speedPenalty = Math.min(0.8, speedPenalty + severity);
+                bumpImpulse = (o.type === "pit") ? 0.22 : 0.14;
+                showToast(o.type === "pit" ? "Hit a pothole — slow down next time!" : "Speed bump — ease off next time", 1.8);
+            } else {
+                bumpImpulse = 0.05;
+                showToast(o.type === "pit" ? "Pit crossed carefully" : "Bump crossed smoothly", 1.2);
+            }
+        }
+
+        const socket = io();
+        socket.on("can_frame", (data) => {
+            switch (data.signal) {
+                case "rpm": state.rpm = data.value; break;
+                case "speed": state.speed = data.value; break;
+                case "fuel": state.fuel = data.value; break;
+                case "brake": state.brakeOn = (data.value === 1); break;
+                case "turn_signal": handleTurnSignal(data.value); break;
+            }
+            updateHud();
+        });
+
+        function handleTurnSignal(value) {
+            if (value !== previousTurnSignal) {
+                if (value === 1 && carLane > 0) {
+                    carLane -= 1;
+                } else if (value === 2 && carLane < LANE_COUNT - 1) {
+                    carLane += 1;
+                }
+            }
+            previousTurnSignal = value;
+            state.turnSignal = value;
+
+            btnLeft.classList.toggle("active", value === 1);
+            btnRight.classList.toggle("active", value === 2);
+            btnHazard.classList.toggle("active", value === 3);
+        }
+
+        function updateHud() {
+            document.getElementById("hud-rpm").textContent = state.rpm;
+            document.getElementById("hud-speed").textContent = state.speed + " km/h";
+            document.getElementById("hud-fuel").textContent = state.fuel + "%";
+        }
+
+        function laneCenterX(laneIndex, roadX, roadWidth) {
+            const laneWidth = roadWidth / LANE_COUNT;
+            return roadX + laneWidth * laneIndex + laneWidth / 2;
+        }
+
+        function drawRoad(roadX, roadWidth) {
+            ctx.fillStyle = "#1b3a1b";
+            ctx.fillRect(0, 0, canvas.width, canvas.height);
+
+            const roadGradient = ctx.createLinearGradient(0, 0, 0, canvas.height);
+            roadGradient.addColorStop(0, "#3a3f47");
+            roadGradient.addColorStop(1, "#22262b");
+            ctx.fillStyle = roadGradient;
+            ctx.fillRect(roadX, 0, roadWidth, canvas.height);
+
+            ctx.strokeStyle = "#f4c430";
+            ctx.lineWidth = 4;
+            ctx.beginPath();
+            ctx.moveTo(roadX, 0);
+            ctx.lineTo(roadX, canvas.height);
+            ctx.moveTo(roadX + roadWidth, 0);
+            ctx.lineTo(roadX + roadWidth, canvas.height);
+            ctx.stroke();
+
+            const laneWidth = roadWidth / LANE_COUNT;
+            const dashLength = 26, gapLength = 22, period = dashLength + gapLength;
+            const offset = roadScrollOffset % period;
+
+            ctx.strokeStyle = "#e8e8e8";
+            ctx.lineWidth = 3;
+            ctx.setLineDash([dashLength, gapLength]);
+            ctx.lineDashOffset = -offset;
+
+            for (let i = 1; i < LANE_COUNT; i++) {
+                const x = roadX + laneWidth * i;
+                ctx.beginPath();
+                ctx.moveTo(x, 0);
+                ctx.lineTo(x, canvas.height);
+                ctx.stroke();
+            }
+            ctx.setLineDash([]);
+        }
+
+        function drawObstacles(roadX, roadWidth) {
+            const laneWidth = roadWidth / LANE_COUNT;
+
+            obstacles.forEach(o => {
+                const x = laneCenterX(o.lane, roadX, roadWidth);
+
+                if (o.type === "bump") {
+                    const w = laneWidth * 0.7;
+                    const h = 16;
+
+                    ctx.save();
+                    const grad = ctx.createLinearGradient(0, o.y - h / 2, 0, o.y + h / 2);
+                    grad.addColorStop(0, "#f4c430");
+                    grad.addColorStop(1, "#c99a1e");
+                    ctx.fillStyle = grad;
+                    ctx.beginPath();
+                    ctx.roundRect(x - w / 2, o.y - h / 2, w, h, 6);
+                    ctx.fill();
+
+                    ctx.strokeStyle = "rgba(0,0,0,0.35)";
+                    ctx.lineWidth = 3;
+                    for (let i = -w / 2 + 8; i < w / 2; i += 14) {
+                        ctx.beginPath();
+                        ctx.moveTo(x + i, o.y - h / 2);
+                        ctx.lineTo(x + i + 6, o.y + h / 2);
+                        ctx.stroke();
+                    }
+                    ctx.restore();
+                } else {
+                    const w = laneWidth * 0.55;
+                    const hgt = 22;
+
+                    ctx.save();
+                    const grad = ctx.createRadialGradient(x, o.y, 2, x, o.y, w / 2);
+                    grad.addColorStop(0, "#050505");
+                    grad.addColorStop(0.7, "#1a1a1a");
+                    grad.addColorStop(1, "#3a3a3a");
+                    ctx.fillStyle = grad;
+                    ctx.beginPath();
+                    ctx.ellipse(x, o.y, w / 2, hgt / 2, 0, 0, Math.PI * 2);
+                    ctx.fill();
+
+                    ctx.strokeStyle = "#000";
+                    ctx.lineWidth = 2;
+                    ctx.stroke();
+                    ctx.restore();
+                }
+            });
+        }
+
+        function roundedRect(x, y, w, h, r) {
+            ctx.beginPath();
+            ctx.moveTo(x + r, y);
+            ctx.arcTo(x + w, y, x + w, y + h, r);
+            ctx.arcTo(x + w, y + h, x, y + h, r);
+            ctx.arcTo(x, y + h, x, y, r);
+            ctx.arcTo(x, y, x + w, y, r);
+            ctx.closePath();
+        }
+
+        function drawBrakeGroundGlow(centerX, rearY, width) {
+            const fadeAmount = 0.25 + 0.35 * Math.abs(Math.sin(brakeGlowPhase / 40 * Math.PI));
+            ctx.save();
+            ctx.fillStyle = `rgba(255, 30, 30, ${fadeAmount})`;
+
+            ctx.beginPath();
+            ctx.moveTo(centerX - width / 2 + 8, rearY);
+            ctx.lineTo(centerX - width / 2 - 10, rearY + 34);
+            ctx.lineTo(centerX - width / 2 + 22, rearY + 34);
+            ctx.closePath();
+            ctx.fill();
+
+            ctx.beginPath();
+            ctx.moveTo(centerX + width / 2 - 8, rearY);
+            ctx.lineTo(centerX + width / 2 + 10, rearY + 34);
+            ctx.lineTo(centerX + width / 2 - 22, rearY + 34);
+            ctx.closePath();
+            ctx.fill();
+
+            ctx.restore();
+        }
+
+        function drawCar(centerX, centerY, rotation, tilt) {
+            const width = 56;
+            const height = 100;
+
+            ctx.save();
+            ctx.translate(centerX, centerY);
+            ctx.rotate(rotation);
+            ctx.scale(1, 1 + tilt);
+
+            const x = -width / 2;
+            const y = -height / 2;
+
+            ctx.fillStyle = "rgba(0,0,0,0.35)";
+            ctx.beginPath();
+            ctx.ellipse(0, y + height + 4, width * 0.5, 8, 0, 0, Math.PI * 2);
+            ctx.fill();
+
+            if (state.brakeOn) {
+                drawBrakeGroundGlow(0, y + height, width);
+            }
+
+            const bodyGradient = ctx.createLinearGradient(x, y, x + width, y);
+            bodyGradient.addColorStop(0, "#4a90e2");
+            bodyGradient.addColorStop(0.5, "#2f6fc4");
+            bodyGradient.addColorStop(1, "#1f5296");
+            ctx.fillStyle = bodyGradient;
+            roundedRect(x, y, width, height, 14);
+            ctx.fill();
+
+            ctx.fillStyle = "#153a6e";
+            roundedRect(x + 8, y + 22, width - 16, height * 0.45, 8);
+            ctx.fill();
+
+            ctx.fillStyle = "#a8dadc";
+            roundedRect(x + 11, y + 26, width - 22, 16, 4);
+            ctx.fill();
+
+            ctx.fillStyle = "#7fb8bb";
+            roundedRect(x + 11, y + height * 0.45 + 18, width - 22, 14, 4);
+            ctx.fill();
+
+            ctx.fillStyle = "#fff6cc";
+            roundedRect(x + 4, y + 4, 12, 7, 3);
+            ctx.fill();
+            roundedRect(x + width - 16, y + 4, 12, 7, 3);
+            ctx.fill();
+
+            ctx.fillStyle = state.brakeOn ? "#ff1a1a" : "#5a0a0a";
+            if (state.brakeOn) {
+                ctx.shadowColor = "#ff1a1a";
+                ctx.shadowBlur = 12;
+            }
+            roundedRect(x + 4, y + height - 11, 12, 7, 3);
+            ctx.fill();
+            roundedRect(x + width - 16, y + height - 11, 12, 7, 3);
+            ctx.fill();
+            ctx.shadowBlur = 0;
+
+            const showLeft = (state.turnSignal === 1 || state.turnSignal === 3) && blinkOn;
+            const showRight = (state.turnSignal === 2 || state.turnSignal === 3) && blinkOn;
+
+            if (showLeft) {
+                ctx.fillStyle = "#ffa500";
+                ctx.shadowColor = "#ffa500";
+                ctx.shadowBlur = 10;
+                roundedRect(x - 6, y + 3, 9, 9, 3);
+                ctx.fill();
+                ctx.shadowBlur = 0;
+            }
+            if (showRight) {
+                ctx.fillStyle = "#ffa500";
+                ctx.shadowColor = "#ffa500";
+                ctx.shadowBlur = 10;
+                roundedRect(x + width - 3, y + 3, 9, 9, 3);
+                ctx.fill();
+                ctx.shadowBlur = 0;
+            }
+
+            ctx.restore();
+        }
+
+        function drawToast() {
+            if (toast.timer <= 0) return;
+            const alpha = Math.min(1, toast.timer);
+            ctx.save();
+            ctx.globalAlpha = alpha;
+            ctx.font = "bold 15px -apple-system, sans-serif";
+            const textWidth = ctx.measureText(toast.text).width;
+            ctx.fillStyle = "rgba(0,0,0,0.55)";
+            ctx.beginPath();
+            ctx.roundRect(canvas.width / 2 - textWidth / 2 - 14, 16, textWidth + 28, 32, 8);
+            ctx.fill();
+            ctx.fillStyle = "#f4c430";
+            ctx.textAlign = "center";
+            ctx.fillText(toast.text, canvas.width / 2, 37);
+            ctx.restore();
+        }
+
+        let lastFrameTime = performance.now();
+
+        function tick(now) {
+            const dt = Math.min((now - lastFrameTime) / 1000, 0.1);
+            lastFrameTime = now;
+
+            if (running) {
+                const laneDiff = carLane - carLaneAnimated;
+                carLaneAnimated += laneDiff * Math.min(dt * 2.2, 1);
+
+                const laneSpeed = laneDiff * 2.2;
+                const targetRotation = Math.max(-0.5, Math.min(0.5, laneSpeed * 0.22));
+                carRotation += (targetRotation - carRotation) * Math.min(dt * 5, 1);
+
+                let targetTilt = 0;
+                if (state.brakeOn) targetTilt = -0.035;
+
+                speedPenalty = Math.max(0, speedPenalty - dt * 0.15);
+                bumpImpulse = Math.max(0, bumpImpulse - dt * 0.6);
+
+                toast.timer = Math.max(0, toast.timer - dt);
+
+                const effectiveSpeed = Math.max(state.speed, IDLE_CREEP) * (1 - speedPenalty);
+                roadScrollOffset += effectiveSpeed * dt * 2.2;
+
+                spawnObstacleMaybe(dt);
+                updateObstacles(dt, effectiveSpeed);
+
+                const carCenterY = canvas.height - 130;
+                checkCollisions(carCenterY, 50);
+
+                render(targetTilt + bumpImpulse);
+            }
+
+            requestAnimationFrame(tick);
+        }
+
+        function render(tilt) {
+            const roadWidth = canvas.width * 0.7;
+            const roadX = (canvas.width - roadWidth) / 2;
+
+            drawRoad(roadX, roadWidth);
+            drawObstacles(roadX, roadWidth);
+
+            const centerX = laneCenterX(carLaneAnimated, roadX, roadWidth);
+            const centerY = canvas.height - 130;
+            drawCar(centerX, centerY, carRotation, tilt || 0);
+
+            drawToast();
+        }
+
+        requestAnimationFrame(tick);
+
+        // --- Button controls ---
+        let accelActive = false;
+        let brakeActive = false;
+
+        function sendControl(path) {
+            fetch(path).catch((err) => console.error("Control request failed:", err));
+        }
+
+        const btnAccel = document.getElementById("btn-accel");
+        const btnBrake = document.getElementById("btn-brake");
+        const btnLeft = document.getElementById("btn-left");
+        const btnRight = document.getElementById("btn-right");
+        const btnHazard = document.getElementById("btn-hazard");
+
+        btnAccel.addEventListener("mousedown", () => {
+            accelActive = true;
+            btnAccel.classList.add("active");
+            sendControl("/control/accelerator/1");
+        });
+        btnAccel.addEventListener("mouseup", () => {
+            accelActive = false;
+            btnAccel.classList.remove("active");
+            sendControl("/control/accelerator/0");
+        });
+        btnAccel.addEventListener("mouseleave", () => {
+            if (accelActive) {
+                accelActive = false;
+                btnAccel.classList.remove("active");
+                sendControl("/control/accelerator/0");
+            }
+        });
+
+        btnBrake.addEventListener("mousedown", () => {
+            brakeActive = true;
+            btnBrake.classList.add("active");
+            sendControl("/control/brake/1");
+        });
+        btnBrake.addEventListener("mouseup", () => {
+            brakeActive = false;
+            btnBrake.classList.remove("active");
+            sendControl("/control/brake/0");
+        });
+        btnBrake.addEventListener("mouseleave", () => {
+            if (brakeActive) {
+                brakeActive = false;
+                btnBrake.classList.remove("active");
+                sendControl("/control/brake/0");
+            }
+        });
+
+        let activeTurn = 0;
+
+        function setTurn(value) {
+            const newValue = (activeTurn === value) ? 0 : value;
+            activeTurn = newValue;
+            sendControl(`/control/turn/${newValue}`);
+        }
+
+        btnLeft.addEventListener("click", () => setTurn(1));
+        btnRight.addEventListener("click", () => setTurn(2));
+        btnHazard.addEventListener("click", () => setTurn(3));
+
+        btnStartStop.addEventListener("click", () => {
+            running = !running;
+            btnStartStop.textContent = running ? "Pause" : "Resume";
+            btnStartStop.classList.toggle("stopped", !running);
+        });
+    </script>
+</body>
+</html>

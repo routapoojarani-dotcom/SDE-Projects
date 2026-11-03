@@ -1,0 +1,6653 @@
+Dashboard ECU started. Listening on vcan0...
+[Dashboard] RPM: 938
+[Dashboard] Speed: 8 km/h
+[Dashboard] Fuel: 88%
+[Dashboard] RPM: 742
+[Dashboard] Speed: 6 km/h
+[Dashboard] Engine Temp: 88 C
+[Dashboard] Fuel: 100%
+[Dashboard] RPM: 794
+[Dashboard] Speed: 2 km/h
+[Dashboard] Engine Temp: 23 C
+[Dashboard] Fuel: 100%
+[Dashboard] RPM: 881
+[Dashboard] Speed: 4 km/h
+[Dashboard] Engine Temp: 90 C
+[Dashboard] Speed: 2 km/h
+[Dashboard] Engine Temp: 25 C
+[Dashboard] RPM: 1226
+[Dashboard] Fuel: 86%
+[Dashboard] RPM: 1335
+[Dashboard] Speed: 0 km/h
+[Dashboard] Engine Temp: 26 C
+[Dashboard] Fuel: 99%
+[Dashboard] RPM: 711
+[Dashboard] Speed: 0 km/h
+[Dashboard] Engine Temp: 27 C
+[Dashboard] Fuel: 99%
+[Dashboard] RPM: 700
+[Dashboard] Speed: 0 km/h
+[Dashboard] Engine Temp: 28 C
+[Dashboard] Fuel: 99%
+[Dashboard] RPM: 1229
+[Dashboard] Speed: 14 km/h
+[Dashboard] Engine Temp: 89 C
+[Dashboard] Fuel: 85%
+[Dashboard] Speed: 4 km/h
+[Dashboard] Engine Temp: 29 C
+[Dashboard] RPM: 1348
+[Dashboard] Engine Temp: 33 C
+[Dashboard] RPM: 1294
+[Dashboard] Speed: 14 km/h
+[Dashboard] Fuel: 85%
+[Dashboard] RPM: 1025
+[Dashboard] Speed: 8 km/h
+[Dashboard] Engine Temp: 31 C
+[Dashboard] Fuel: 98%
+[Dashboard] RPM: 1301
+[Dashboard] Speed: 15 km/h
+[Dashboard] Engine Temp: 33 C
+[Dashboard] Fuel: 98%
+[Dashboard] RPM: 1400
+[Dashboard] Speed: 17 km/h
+[Dashboard] Engine Temp: 90 C
+[Dashboard] Fuel: 85%
+[Dashboard] RPM: 1278
+[Dashboard] Speed: 15 km/h
+[Dashboard] Engine Temp: 89 C
+[Dashboard] Fuel: 85%
+[Dashboard] RPM: 1289
+[Dashboard] Speed: 14 km/h
+[Dashboard] Engine Temp: 90 C
+[Dashboard] RPM: 1305
+[Dashboard] Speed: 15 km/h
+[Dashboard] Engine Temp: 37 C
+[Dashboard] Fuel: 97%
+[Dashboard] RPM: 1121
+[Dashboard] Speed: 10 km/h
+[Dashboard] Engine Temp: 90 C
+[Dashboard] Fuel: 97%
+[Dashboard] RPM: 1525
+[Dashboard] Engine Temp: 39 C
+[Dashboard] Speed: 11 km/h
+[Dashboard] RPM: 1488
+[Dashboard] Engine Temp: 40 C
+[Dashboard] Fuel: 97%
+[Dashboard] RPM: 26314
+[Dashboard] Speed: 13 km/h
+[Dashboard] Engine Temp: 92 C
+[Dashboard] Fuel: 96%
+[Dashboard] RPM: 1305
+[Dashboard] Speed: 18 km/h
+[Dashboard] Engine Temp: 42 C
+[Dashboard] Fuel: 85%
+[Dashboard] Fuel: 95%
+[Dashboard] RPM: 1503
+[Dashboard] Speed: 20 km/h
+[Dashboard] Engine Temp: 43 C
+[Dashboard] Speed: 21 km/h
+[Dashboard] Engine Temp: 44 C
+[Dashboard] RPM: 1441
+[Dashboard] Fuel: 84%
+[Dashboard] Speed: 22 km/h
+[Dashboard] RPM: 1589
+[Dashboard] Engine Temp: 45 C
+[Dashboard] RPM: 1694
+[Dashboard] Speed: 24 km/h
+[Dashboard] Engine Temp: 213 C
+[Dashboard] Fuel: 83%
+[Dashboard] Speed: 23 km/h
+[Dashboard] RPM: 1585
+[Dashboard] Engine Temp: 47 C
+[Dashboard] Fuel: 94%
+[Dashboard] Speed: 20 km/h
+[Dashboard] RPM: 1968
+[Dashboard] Engine Temp: 48 C
+[Dashboard] RPM: 1438
+[Dashboard] Speed: 18 km/h
+[Dashboard] Fuel: 94%
+[Dashboard] Engine Temp: 91 C
+[Dashboard] RPM: 25817
+[Dashboard] Speed: 32 km/h
+[Dashboard] Engine Temp: 92 C
+[Dashboard] Fuel: 83%
+[Dashboard] Speed: 17 km/h
+[Dashboard] Engine Temp: 50 C
+[Dashboard] RPM: 1414
+[Dashboard] Speed: 17 km/h
+[Dashboard] Engine Temp: 51 C
+[Dashboard] Fuel: 93%
+[Dashboard] RPM: 1436
+[Dashboard] Speed: 37 km/h
+[Dashboard] Engine Temp: 92 C
+[Dashboard] Fuel: 83%
+[Dashboard] RPM: 1309
+[Dashboard] Speed: 15 km/h
+[Dashboard] Engine Temp: 52 C
+[Dashboard] Fuel: 92%
+[Dashboard] Engine Temp: 93 C
+[Dashboard] Fuel: 82%
+[Dashboard] RPM: 1372
+[Dashboard] Speed: 16 km/h
+[Dashboard] RPM: 1608
+[Dashboard] Speed: 22 km/h
+[Dashboard] Engine Temp: 54 C
+[Dashboard] Speed: 20 km/h
+[Dashboard] Engine Temp: 55 C
+[Dashboard] RPM: 2233
+[Dashboard] Fuel: 82%
+[Dashboard] Fuel: 91%
+[Dashboard] RPM: 2301
+[Dashboard] Speed: 40 km/h
+[Dashboard] Engine Temp: 90 C
+[Dashboard] RPM: 1602
+[Dashboard] Speed: 22 km/h
+[Dashboard] Engine Temp: 57 C
+[Dashboard] Fuel: 91%
+[Dashboard] RPM: 2236
+[Dashboard] Speed: 38 km/h
+[Dashboard] Fuel: 82%
+[Dashboard] RPM: 2093
+[Dashboard] Speed: 34 km/h
+[Dashboard] Engine Temp: 89 C
+[Dashboard] Fuel: 81%
+[Dashboard] RPM: 2054
+[Dashboard] Speed: 33 km/h
+[Dashboard] Engine Temp: 90 C
+[Dashboard] Fuel: 81%
+[Dashboard] RPM: 1373
+[Dashboard] Speed: 16 km/h
+[Dashboard] Engine Temp: 61 C
+[Dashboard] RPM: 2115
+[Dashboard] Speed: 35 km/h
+[Dashboard] Engine Temp: 90 C
+[Dashboard] Fuel: 80%
+[Dashboard] Engine Temp: 62 C
+[Dashboard] RPM: 2272
+[Dashboard] Speed: 39 km/h
+[Dashboard] Fuel: 80%
+[Dashboard] RPM: 2172
+[Dashboard] Speed: 36 km/h
+[Dashboard] Engine Temp: 63 C
+[Dashboard] Fuel: 89%
+[Dashboard] RPM: 2214
+[Dashboard] Speed: 37 km/h
+[Dashboard] Engine Temp: 91 C
+[Dashboard] Fuel: 80%
+[Dashboard] RPM: 1499
+[Dashboard] Speed: 41 km/h
+[Dashboard] Engine Temp: 91 C
+[Dashboard] RPM: 2298
+[Dashboard] Speed: 39 km/h
+[Dashboard] Engine Temp: 92 C
+[Dashboard] Fuel: 80%
+[Dashboard] RPM: 1598
+[Dashboard] Speed: 22 km/h
+[Dashboard] Engine Temp: 68 C
+[Dashboard] Fuel: 88%
+[Dashboard] RPM: 2162
+[Dashboard] Speed: 36 km/h
+[Dashboard] Engine Temp: 92 C
+[Dashboard] Fuel: 80%
+[Dashboard] RPM: 1652
+[Dashboard] Fuel: 88%
+[Dashboard] Speed: 41 km/h
+[Dashboard] Engine Temp: 91 C
+[Dashboard] RPM: 1604
+[Dashboard] Speed: 22 km/h
+[Dashboard] Engine Temp: 71 C
+[Dashboard] Fuel: 80%
+[Dashboard] RPM: 2273
+[Dashboard] Speed: 22 km/h
+[Dashboard] Engine Temp: 72 C
+[Dashboard] Fuel: 87%
+[Dashboard] Speed: 39 km/h
+[Dashboard] Engine Temp: 90 C
+[Dashboard] RPM: 1583
+[Dashboard] Fuel: 87%
+[Dashboard] RPM: 2364
+[Dashboard] Speed: 41 km/h
+[Dashboard] Engine Temp: 89 C
+[Dashboard] Fuel: 80%
+[Dashboard] Fuel: 80%
+[Dashboard] RPM: 1677
+[Dashboard] Speed: 24 km/h
+[Dashboard] Engine Temp: 74 C
+[Dashboard] RPM: 1597
+[Dashboard] Speed: 22 km/h
+[Dashboard] Engine Temp: 75 C
+[Dashboard] Fuel: 87%
+[Dashboard] RPM: 1542
+[Dashboard] Speed: 21 km/h
+[Dashboard] Engine Temp: 76 C
+[Dashboard] Fuel: 145%
+[Dashboard] RPM: 2442
+[Dashboard] Speed: 43 km/h
+[Dashboard] Engine Temp: 91 C
+[Dashboard] Fuel: 79%
+[Dashboard] RPM: 2402
+[Dashboard] Speed: 42 km/h
+[Dashboard] Engine Temp: 90 C
+[Dashboard] Fuel: 79%
+[Dashboard] RPM: 1590
+[Dashboard] Speed: 22 km/h
+[Dashboard] Engine Temp: 90 C
+[Dashboard] Fuel: 78%
+[Dashboard] RPM: 2475
+[Dashboard] Engine Temp: 78 C
+[Dashboard] Fuel: 87%
+[Dashboard] RPM: 2380
+[Dashboard] Speed: 42 km/h
+[Dashboard] Engine Temp: 89 C
+[Dashboard] Fuel: 78%
+[Dashboard] Speed: 21 km/h
+[Dashboard] Engine Temp: 79 C
+[Dashboard] Fuel: 87%
+[Dashboard] RPM: 2304
+[Dashboard] RPM: 2295
+[Dashboard] Speed: 22 km/h
+[Dashboard] Engine Temp: 80 C
+[Dashboard] Fuel: 87%
+[Dashboard] Fuel: 87%
+[Dashboard] RPM: 1650
+[Dashboard] Speed: 38 km/h
+[Dashboard] Engine Temp: 90 C
+[Dashboard] Speed: 26 km/h
+[Dashboard] Engine Temp: 82 C
+[Dashboard] RPM: 2229
+[Dashboard] Fuel: 77%
+[Dashboard] RPM: 2178
+[Dashboard] Speed: 36 km/h
+[Dashboard] Engine Temp: 90 C
+[Dashboard] Fuel: 77%
+[Dashboard] RPM: 1721
+[Dashboard] Speed: 25 km/h
+[Dashboard] Speed: 46 km/h
+[Dashboard] Engine Temp: 90 C
+[Dashboard] RPM: 20458
+[Dashboard] Fuel: 87%
+[Dashboard] RPM: 1659
+[Dashboard] Speed: 23 km/h
+[Dashboard] Engine Temp: 86 C
+[Dashboard] Fuel: 76%
+[Dashboard] RPM: 2589
+[Dashboard] Speed: 47 km/h
+[Dashboard] Engine Temp: 90 C
+[Dashboard] RPM: 1643
+[Dashboard] Speed: 23 km/h
+[Dashboard] Fuel: 86%
+[Dashboard] RPM: 2589
+[Dashboard] Speed: 47 km/h
+[Dashboard] Engine Temp: 89 C
+[Dashboard] Fuel: 76%
+[Dashboard] RPM: 2520
+[Dashboard] Speed: 201 km/h
+[Dashboard] Engine Temp: 89 C
+[Dashboard] Fuel: 76%
+[Dashboard] RPM: 2575
+[Dashboard] Speed: 46 km/h
+[Dashboard] Engine Temp: 90 C
+[Dashboard] Fuel: 86%
+[Dashboard] RPM: 1921
+[Dashboard] Speed: 30 km/h
+[Dashboard] Engine Temp: 90 C
+[Dashboard] Fuel: 76%
+[Dashboard] Speed: 48 km/h
+[Dashboard] Engine Temp: 91 C
+[Dashboard] Fuel: 76%
+[Dashboard] RPM: 2585
+[Dashboard] RPM: 1995
+[Dashboard] Speed: 32 km/h
+[Dashboard] Engine Temp: 90 C
+[Dashboard] Fuel: 86%
+[Dashboard] Speed: 29 km/h
+[Dashboard] Engine Temp: 92 C
+[Dashboard] Fuel: 86%
+[Dashboard] RPM: 1918
+[Dashboard] Speed: 30 km/h
+[Dashboard] Engine Temp: 91 C
+[Dashboard] Fuel: 76%
+[Dashboard] RPM: 2679
+[Dashboard] Speed: 47 km/h
+[Dashboard] Engine Temp: 89 C
+[Dashboard] Fuel: 175%
+[Dashboard] RPM: 57795
+[Dashboard] Speed: 32 km/h
+[Dashboard] Engine Temp: 89 C
+[Dashboard] Fuel: 85%
+[Dashboard] RPM: 2061
+[Dashboard] Speed: 34 km/h
+[Dashboard] Engine Temp: 90 C
+[Dashboard] Fuel: 75%
+[Dashboard] RPM: 2326
+[Dashboard] Speed: 37 km/h
+[Dashboard] Engine Temp: 91 C
+[Dashboard] Fuel: 84%
+[Dashboard] RPM: 2287
+[Dashboard] Speed: 39 km/h
+[Dashboard] Engine Temp: 90 C
+[Dashboard] Speed: 40 km/h
+[Dashboard] RPM: 2395
+[Dashboard] Engine Temp: 89 C
+[Dashboard] Fuel: 84%
+[Dashboard] RPM: 2064
+[Dashboard] Speed: 34 km/h
+[Dashboard] Engine Temp: 90 C
+[Dashboard] Fuel: 84%
+[Dashboard] Speed: 36 km/h
+[Dashboard] Fuel: 74%
+[Dashboard] RPM: 1901
+[Dashboard] Engine Temp: 90 C
+[Dashboard] RPM: 1881
+[Dashboard] Speed: 29 km/h
+[Dashboard] Engine Temp: 90 C
+[Dashboard] Fuel: 74%
+[Dashboard] RPM: 1970
+[Dashboard] Fuel: 84%
+[Dashboard] Speed: 33 km/h
+[Dashboard] Engine Temp: 91 C
+[Dashboard] RPM: 1925
+[Dashboard] Speed: 30 km/h
+[Dashboard] Engine Temp: 90 C
+[Dashboard] Fuel: 83%
+[Dashboard] RPM: 2257
+[Dashboard] Speed: 40 km/h
+[Dashboard] Engine Temp: 90 C
+[Dashboard] Fuel: 73%
+[Dashboard] RPM: 1952
+[Dashboard] Speed: 31 km/h
+[Dashboard] Engine Temp: 90 C
+[Dashboard] Engine Temp: 90 C
+[Dashboard] RPM: 2313
+[Dashboard] Speed: 40 km/h
+[Dashboard] Fuel: 83%
+[Dashboard] Fuel: 72%
+[Dashboard] RPM: 1851
+[Dashboard] Speed: 37 km/h
+[Dashboard] Engine Temp: 91 C
+[Dashboard] RPM: 2208
+[Dashboard] Speed: 37 km/h
+[Dashboard] Engine Temp: 91 C
+[Dashboard] Fuel: 82%
+[Dashboard] RPM: 1800
+[Dashboard] Speed: 27 km/h
+[Dashboard] Engine Temp: 92 C
+[Dashboard] Fuel: 82%
+[Dashboard] RPM: 2348
+[Dashboard] Speed: 41 km/h
+[Dashboard] Engine Temp: 90 C
+[Dashboard] Fuel: 82%
+[Dashboard] RPM: 2440
+[Dashboard] Engine Temp: 123 C
+[Dashboard] Speed: 24 km/h
+[Dashboard] Fuel: 71%
+[Dashboard] RPM: 1732
+[Dashboard] Speed: 118 km/h
+[Dashboard] Engine Temp: 90 C
+[Dashboard] Fuel: 70%
+[Dashboard] Speed: 25 km/h
+[Dashboard] Engine Temp: 94 C
+[Dashboard] Fuel: 82%
+[Dashboard] RPM: 2445
+[Dashboard] Speed: 43 km/h
+[Dashboard] Fuel: 70%
+[Dashboard] RPM: 1398
+[Dashboard] Engine Temp: 92 C
+[Dashboard] RPM: 2272
+[Dashboard] Speed: 17 km/h
+[Dashboard] Engine Temp: 94 C
+[Dashboard] Fuel: 70%
+[Dashboard] RPM: 2303
+[Dashboard] Speed: 40 km/h
+[Dashboard] Engine Temp: 93 C
+[Dashboard] Fuel: 70%
+[Dashboard] Speed: 13 km/h
+[Dashboard] RPM: 2389
+[Dashboard] Engine Temp: 94 C
+[Dashboard] Fuel: 70%
+[Dashboard] Engine Temp: 95 C
+[Dashboard] RPM: 2427
+[Dashboard] Speed: 43 km/h
+[Dashboard] Fuel: 82%
+[Dashboard] Fuel: 69%
+[Dashboard] RPM: 1256
+[Dashboard] Speed: 13 km/h
+[Dashboard] Engine Temp: 95 C
+[Dashboard] RPM: 1304
+[Dashboard] Speed: 15 km/h
+[Dashboard] Engine Temp: 95 C
+[Dashboard] Fuel: 82%
+[Dashboard] RPM: 2525
+[Dashboard] Speed: 17 km/h
+[Dashboard] Fuel: 82%
+[Dashboard] Engine Temp: 95 C
+[Dashboard] RPM: 2734
+[Dashboard] RPM: 1256
+[Dashboard] Speed: 13 km/h
+[Dashboard] Engine Temp: 97 C
+[Dashboard] Fuel: 68%
+[Dashboard] RPM: 2802
+[Dashboard] Speed: 100 km/h
+[Dashboard] Engine Temp: 96 C
+[Dashboard] Fuel: 81%
+[Dashboard] Speed: 10 km/h
+[Dashboard] Engine Temp: 95 C
+[Dashboard] Fuel: 67%
+[Dashboard] RPM: 2748
+[Dashboard] RPM: 1197
+[Dashboard] Fuel: 81%
+[Dashboard] RPM: 2600
+[Dashboard] Engine Temp: 96 C
+[Dashboard] Speed: 12 km/h
+[Dashboard] Speed: 45 km/h
+[Dashboard] RPM: 1246
+[Dashboard] Engine Temp: 97 C
+[Dashboard] Fuel: 81%
+[Dashboard] Speed: 42 km/h
+[Dashboard] Engine Temp: 96 C
+[Dashboard] RPM: 1202
+[Dashboard] RPM: 1207
+[Dashboard] Speed: 44 km/h
+[Dashboard] Engine Temp: 96 C
+[Dashboard] Fuel: 67%
+[Dashboard] Speed: 12 km/h
+[Dashboard] RPM: 2435
+[Dashboard] Engine Temp: 97 C
+[Dashboard] Fuel: 67%
+[Dashboard] Engine Temp: 97 C
+[Dashboard] Fuel: 81%
+[Dashboard] RPM: 2555
+[Dashboard] Speed: 15 km/h
+[Dashboard] RPM: 1209
+[Dashboard] Speed: 12 km/h
+[Dashboard] Engine Temp: 97 C
+[Dashboard] Fuel: 81%
+[Dashboard] RPM: 2485
+[Dashboard] Speed: 44 km/h
+[Dashboard] Engine Temp: 96 C
+[Dashboard] Fuel: 67%
+[Dashboard] RPM: 1314
+[Dashboard] Speed: 15 km/h
+[Dashboard] Engine Temp: 97 C
+[Dashboard] Engine Temp: 98 C
+[Dashboard] RPM: 1372
+[Dashboard] Speed: 16 km/h
+[Dashboard] Engine Temp: 99 C
+[Dashboard] Fuel: 67%
+[Dashboard] RPM: 2579
+[Dashboard] Speed: 18 km/h
+[Dashboard] Speed: 46 km/h
+[Dashboard] Engine Temp: 100 C
+[Dashboard] Fuel: 67%
+[Dashboard] RPM: 1489
+[Dashboard] Speed: 49 km/h
+[Dashboard] Engine Temp: 99 C
+[Dashboard] Fuel: 67%
+[Dashboard] RPM: 2605
+[Dashboard] Speed: 47 km/h
+[Dashboard] Engine Temp: 100 C
+[Dashboard] Fuel: 80%
+[Dashboard] RPM: 2668
+[Dashboard] Engine Temp: 93 C
+[Dashboard] Speed: 49 km/h
+[Dashboard] RPM: 1588
+[Dashboard] Fuel: 80%
+[Dashboard] RPM: 2691
+[Dashboard] Speed: 49 km/h
+[Dashboard] Engine Temp: 99 C
+[Dashboard] Fuel: 67%
+[Dashboard] RPM: 1462
+[Dashboard] Speed: 19 km/h
+[Dashboard] Engine Temp: 92 C
+[Dashboard] Fuel: 80%
+[Dashboard] Speed: 18 km/h
+[Dashboard] RPM: 2783
+[Dashboard] Engine Temp: 100 C
+[Dashboard] Fuel: 67%
+[Dashboard] RPM: 1325
+[Dashboard] Speed: 47 km/h
+[Dashboard] Engine Temp: 92 C
+[Dashboard] Fuel: 67%
+[Dashboard] Fuel: 79%
+[Dashboard] RPM: 2633
+[Dashboard] Speed: 15 km/h
+[Dashboard] Engine Temp: 91 C
+[Dashboard] RPM: 1159
+[Dashboard] Speed: 22 km/h
+[Dashboard] Engine Temp: 90 C
+[Dashboard] Fuel: 67%
+[Dashboard] RPM: 1173
+[Dashboard] Speed: 11 km/h
+[Dashboard] Engine Temp: 91 C
+[Dashboard] RPM: 1142
+[Dashboard] Engine Temp: 92 C
+[Dashboard] Fuel: 78%
+[Dashboard] Speed: 51 km/h
+[Dashboard] Speed: 8 km/h
+[Dashboard] RPM: 2955
+[Dashboard] Engine Temp: 99 C
+[Dashboard] Fuel: 78%
+[Dashboard] RPM: 2998
+[Dashboard] Speed: 11 km/h
+[Dashboard] Engine Temp: 98 C
+[Dashboard] Fuel: 67%
+[Dashboard] Fuel: 78%
+[Dashboard] RPM: 1050
+[Dashboard] Speed: 49 km/h
+[Dashboard] Engine Temp: 97 C
+[Dashboard] RPM: 2637
+[Dashboard] Speed: 48 km/h
+[Dashboard] Engine Temp: 98 C
+[Dashboard] Fuel: 78%
+[Dashboard] RPM: 1078
+[Dashboard] Speed: 9 km/h
+[Dashboard] Engine Temp: 94 C
+[Dashboard] Fuel: 77%
+[Dashboard] RPM: 984
+[Dashboard] Speed: 7 km/h
+[Dashboard] Engine Temp: 98 C
+[Dashboard] RPM: 2618
+[Dashboard] Engine Temp: 99 C
+[Dashboard] Fuel: 67%
+[Dashboard] Speed: 5 km/h
+[Dashboard] RPM: 916
+[Dashboard] Speed: 7 km/h
+[Dashboard] Engine Temp: 92 C
+[Dashboard] Fuel: 67%
+[Dashboard] Fuel: 76%
+[Dashboard] RPM: 2369
+[Dashboard] Speed: 41 km/h
+[Dashboard] Engine Temp: 98 C
+[Dashboard] RPM: 1017
+[Dashboard] Speed: 7 km/h
+[Dashboard] Fuel: 75%
+[Dashboard] RPM: 2379
+[Dashboard] Speed: 41 km/h
+[Dashboard] Engine Temp: 100 C
+[Dashboard] Fuel: 67%
+[Dashboard] RPM: 2301
+[Dashboard] Speed: 40 km/h
+[Dashboard] Engine Temp: 101 C
+[Dashboard] Fuel: 85%
+[Dashboard] RPM: 822
+[Dashboard] RPM: 911
+[Dashboard] Speed: 5 km/h
+[Dashboard] Engine Temp: 93 C
+[Dashboard] Fuel: 66%
+[Dashboard] RPM: 2282
+[Dashboard] Speed: 39 km/h
+[Dashboard] Engine Temp: 100 C
+[Dashboard] Fuel: 66%
+[Dashboard] RPM: 862
+[Dashboard] Speed: 4 km/h
+[Dashboard] Fuel: 75%
+[Dashboard] Engine Temp: 93 C
+[Dashboard] RPM: 2393
+[Dashboard] Speed: 42 km/h
+[Dashboard] Engine Temp: 101 C
+[Dashboard] Fuel: 66%
+[Dashboard] RPM: 31306
+[Dashboard] Speed: 3 km/h
+[Dashboard] Engine Temp: 93 C
+[Dashboard] Fuel: 75%
+[Dashboard] RPM: 2353
+[Dashboard] Speed: 41 km/h
+[Dashboard] Engine Temp: 99 C
+[Dashboard] Fuel: 75%
+[Dashboard] RPM: 2343
+[Dashboard] Speed: 41 km/h
+[Dashboard] Engine Temp: 99 C
+[Dashboard] Fuel: 65%
+[Dashboard] Fuel: 74%
+[Dashboard] RPM: 2382
+[Dashboard] Speed: 42 km/h
+[Dashboard] Engine Temp: 99 C
+[Dashboard] Speed: 0 km/h
+[Dashboard] RPM: 2502
+[Dashboard] Engine Temp: 98 C
+[Dashboard] Fuel: 65%
+[Dashboard] RPM: 874
+[Dashboard] Speed: 3 km/h
+[Dashboard] Engine Temp: 90 C
+[Dashboard] Fuel: 73%
+[Dashboard] RPM: 1057
+[Dashboard] Speed: 8 km/h
+[Dashboard] Engine Temp: 90 C
+[Dashboard] Fuel: 73%
+[Dashboard] RPM: 2484
+[Dashboard] Speed: 44 km/h
+[Dashboard] Engine Temp: 52 C
+[Dashboard] Fuel: 73%
+[Dashboard] Speed: 46 km/h
+[Dashboard] Engine Temp: 97 C
+[Dashboard] RPM: 1170
+[Dashboard] Fuel: 73%
+[Dashboard] Speed: 47 km/h
+[Dashboard] Engine Temp: 98 C
+[Dashboard] RPM: 1252
+[Dashboard] Fuel: 64%
+[Dashboard] RPM: 2531
+[Dashboard] Speed: 45 km/h
+[Dashboard] Engine Temp: 100 C
+[Dashboard] Fuel: 64%
+[Dashboard] Speed: 184 km/h
+[Dashboard] RPM: 2524
+[Dashboard] Engine Temp: 100 C
+[Dashboard] Fuel: 64%
+[Dashboard] Speed: 43 km/h
+[Dashboard] Engine Temp: 91 C
+[Dashboard] RPM: 1296
+[Dashboard] RPM: 2430
+[Dashboard] Speed: 43 km/h
+[Dashboard] Engine Temp: 99 C
+[Dashboard] Fuel: 64%
+[Dashboard] RPM: 1210
+[Dashboard] Speed: 12 km/h
+[Dashboard] Engine Temp: 91 C
+[Dashboard] Engine Temp: 92 C
+[Dashboard] Fuel: 72%
+[Dashboard] RPM: 2446
+[Dashboard] Speed: 43 km/h
+[Dashboard] Speed: 9 km/h
+[Dashboard] Engine Temp: 90 C
+[Dashboard] RPM: 2370
+[Dashboard] Fuel: 64%
+[Dashboard] RPM: 1134
+[Dashboard] Speed: 10 km/h
+[Dashboard] Engine Temp: 90 C
+[Dashboard] Fuel: 64%
+[Dashboard] Fuel: 71%
+[Dashboard] RPM: 2235
+[Dashboard] Speed: 38 km/h
+[Dashboard] Engine Temp: 97 C
+[Dashboard] Fuel: 70%
+[Dashboard] Fuel: 64%
+[Dashboard] RPM: 1312
+[Dashboard] Speed: 39 km/h
+[Dashboard] Engine Temp: 97 C
+[Dashboard] Speed: 15 km/h
+[Dashboard] Fuel: 69%
+[Dashboard] RPM: 2255
+[Dashboard] Engine Temp: 96 C
+[Dashboard] RPM: 2484
+[Dashboard] Speed: 44 km/h
+[Dashboard] Engine Temp: 93 C
+[Dashboard] Fuel: 69%
+[Dashboard] Engine Temp: 94 C
+[Dashboard] Speed: 45 km/h
+[Dashboard] RPM: 2488
+[Dashboard] Engine Temp: 95 C
+[Dashboard] Fuel: 69%
+[Dashboard] Speed: 44 km/h
+[Dashboard] RPM: 1512
+[Dashboard] Engine Temp: 94 C
+[Dashboard] Fuel: 69%
+[Dashboard] Engine Temp: 97 C
+[Dashboard] Fuel: 63%
+[Dashboard] RPM: 910
+[Dashboard] Speed: 24 km/h
+[Dashboard] Speed: 31 km/h
+[Dashboard] RPM: 2031
+[Dashboard] Speed: 33 km/h
+[Dashboard] Fuel: 68%
+[Dashboard] Engine Temp: 98 C
+[Dashboard] Engine Temp: 99 C
+[Dashboard] Fuel: 63%
+[Dashboard] RPM: 2696
+[Dashboard] Speed: 49 km/h
+[Dashboard] RPM: 2132
+[Dashboard] Speed: 35 km/h
+[Dashboard] Engine Temp: 95 C
+[Dashboard] Fuel: 68%
+[Dashboard] RPM: 2038
+[Dashboard] Speed: 46 km/h
+[Dashboard] Engine Temp: 99 C
+[Dashboard] Fuel: 62%
+[Dashboard] Speed: 33 km/h
+[Dashboard] Engine Temp: 97 C
+[Dashboard] Fuel: 68%
+[Dashboard] RPM: 2510
+[Dashboard] Speed: 31 km/h
+[Dashboard] Engine Temp: 97 C
+[Dashboard] RPM: 2031
+[Dashboard] Fuel: 62%
+[Dashboard] RPM: 2562
+[Dashboard] Speed: 46 km/h
+[Dashboard] Engine Temp: 100 C
+[Dashboard] Fuel: 62%
+[Dashboard] RPM: 1835
+[Dashboard] Speed: 28 km/h
+[Dashboard] Engine Temp: 97 C
+[Dashboard] RPM: 1780
+[Dashboard] Speed: 27 km/h
+[Dashboard] Engine Temp: 96 C
+[Dashboard] Fuel: 68%
+[Dashboard] RPM: 1804
+[Dashboard] Speed: 48 km/h
+[Dashboard] Engine Temp: 101 C
+[Dashboard] Speed: 27 km/h
+[Dashboard] Engine Temp: 97 C
+[Dashboard] Fuel: 63%
+[Dashboard] RPM: 1824
+[Dashboard] Speed: 28 km/h
+[Dashboard] Engine Temp: 98 C
+[Dashboard] Fuel: 67%
+[Dashboard] RPM: 1837
+[Dashboard] Speed: 48 km/h
+[Dashboard] Engine Temp: 101 C
+[Dashboard] Fuel: 61%
+[Dashboard] RPM: 2698
+[Dashboard] Speed: 49 km/h
+[Dashboard] Engine Temp: 100 C
+[Dashboard] Fuel: 67%
+[Dashboard] RPM: 1682
+[Dashboard] Speed: 24 km/h
+[Dashboard] Engine Temp: 100 C
+[Dashboard] Fuel: 67%
+[Dashboard] Fuel: 59%
+[Dashboard] RPM: 2454
+[Dashboard] Speed: 43 km/h
+[Dashboard] Engine Temp: 101 C
+[Dashboard] RPM: 2655
+[Dashboard] Speed: 48 km/h
+[Dashboard] Engine Temp: 101 C
+[Dashboard] Engine Temp: 98 C
+[Dashboard] RPM: 2723
+[Dashboard] Speed: 134 km/h
+[Dashboard] Fuel: 59%
+[Dashboard] Speed: 52 km/h
+[Dashboard] RPM: 1557
+[Dashboard] Engine Temp: 98 C
+[Dashboard] Fuel: 67%
+[Dashboard] RPM: 1652
+[Dashboard] Speed: 23 km/h
+[Dashboard] Engine Temp: 99 C
+[Dashboard] RPM: 2519
+[Dashboard] Speed: 45 km/h
+[Dashboard] Engine Temp: 102 C
+[Dashboard] Fuel: 59%
+[Dashboard] Speed: 16 km/h
+[Dashboard] RPM: 2413
+[Dashboard] Engine Temp: 99 C
+[Dashboard] Fuel: 59%
+[Dashboard] Speed: 14 km/h
+[Dashboard] RPM: 2410
+[Dashboard] Engine Temp: 104 C
+[Dashboard] RPM: 2380
+[Dashboard] Speed: 41 km/h
+[Dashboard] Engine Temp: 103 C
+[Dashboard] Fuel: 59%
+[Dashboard] Fuel: 66%
+[Dashboard] RPM: 2335
+[Dashboard] Speed: 40 km/h
+[Dashboard] Engine Temp: 99 C
+[Dashboard] RPM: 2261
+[Dashboard] Speed: 39 km/h
+[Dashboard] Engine Temp: 88 C
+[Dashboard] Fuel: 59%
+[Dashboard] RPM: 1143
+[Dashboard] Speed: 10 km/h
+[Dashboard] Engine Temp: 97 C
+[Dashboard] RPM: 1239
+[Dashboard] Speed: 13 km/h
+[Dashboard] Engine Temp: 98 C
+[Dashboard] Fuel: 66%
+[Dashboard] RPM: 2145
+[Dashboard] Speed: 36 km/h
+[Dashboard] Engine Temp: 101 C
+[Dashboard] Fuel: 59%
+[Dashboard] Engine Temp: 97 C
+[Dashboard] Fuel: 66%
+[Dashboard] Speed: 34 km/h
+[Dashboard] RPM: 2091
+[Dashboard] Speed: 123 km/h
+[Dashboard] RPM: 1603
+[Dashboard] Engine Temp: 101 C
+[Dashboard] RPM: 1369
+[Dashboard] Speed: 16 km/h
+[Dashboard] Engine Temp: 101 C
+[Dashboard] Fuel: 65%
+[Dashboard] RPM: 1729
+[Dashboard] Speed: 25 km/h
+[Dashboard] Engine Temp: 99 C
+[Dashboard] Fuel: 59%
+[Dashboard] Speed: 23 km/h
+[Dashboard] RPM: 1613
+[Dashboard] Engine Temp: 101 C
+[Dashboard] Fuel: 58%
+[Dashboard] RPM: 1434
+[Dashboard] Speed: 18 km/h
+[Dashboard] Engine Temp: 97 C
+[Dashboard] Fuel: 65%
+[Dashboard] Engine Temp: 102 C
+[Dashboard] Fuel: 57%
+[Dashboard] RPM: 1505
+[Dashboard] Speed: 20 km/h
+[Dashboard] RPM: 1552
+[Dashboard] Speed: 21 km/h
+[Dashboard] Engine Temp: 95 C
+[Dashboard] Fuel: 65%
+[Dashboard] RPM: 1594
+[Dashboard] Speed: 22 km/h
+[Dashboard] Engine Temp: 94 C
+[Dashboard] Fuel: 65%
+[Dashboard] Fuel: 57%
+[Dashboard] RPM: 1730
+[Dashboard] Speed: 33 km/h
+[Dashboard] Engine Temp: 101 C
+[Dashboard] RPM: 1729
+[Dashboard] Speed: 27 km/h
+[Dashboard] Engine Temp: 100 C
+[Dashboard] Fuel: 57%
+[Dashboard] RPM: 1460
+[Dashboard] Speed: 19 km/h
+[Dashboard] Engine Temp: 95 C
+[Dashboard] Fuel: 65%
+[Dashboard] RPM: 1236
+[Dashboard] Engine Temp: 95 C
+[Dashboard] Fuel: 65%
+[Dashboard] Speed: 24 km/h
+[Dashboard] RPM: 1842
+[Dashboard] Speed: 28 km/h
+[Dashboard] Engine Temp: 101 C
+[Dashboard] Fuel: 65%
+[Dashboard] Fuel: 57%
+[Dashboard] RPM: 1335
+[Dashboard] Speed: 13 km/h
+[Dashboard] Engine Temp: 95 C
+[Dashboard] RPM: 1958
+[Dashboard] Speed: 31 km/h
+[Dashboard] Engine Temp: 102 C
+[Dashboard] Fuel: 57%
+[Dashboard] RPM: 1881
+[Dashboard] Speed: 29 km/h
+[Dashboard] Engine Temp: 101 C
+[Dashboard] Fuel: 57%
+[Dashboard] RPM: 2005
+[Dashboard] Speed: 12 km/h
+[Dashboard] Engine Temp: 96 C
+[Dashboard] Fuel: 57%
+[Dashboard] RPM: 1400
+[Dashboard] Speed: 17 km/h
+[Dashboard] Engine Temp: 96 C
+[Dashboard] RPM: 2038
+[Dashboard] Speed: 33 km/h
+[Dashboard] Fuel: 57%
+[Dashboard] Engine Temp: 97 C
+[Dashboard] RPM: 2135
+[Dashboard] Speed: 10 km/h
+[Dashboard] Engine Temp: 98 C
+[Dashboard] Fuel: 57%
+[Dashboard] RPM: 2115
+[Dashboard] Speed: 34 km/h
+[Dashboard] RPM: 2188
+[Dashboard] Speed: 37 km/h
+[Dashboard] Engine Temp: 101 C
+[Dashboard] RPM: 1109
+[Dashboard] Speed: 10 km/h
+[Dashboard] Engine Temp: 96 C
+[Dashboard] Fuel: 65%
+[Dashboard] Speed: 8 km/h
+[Dashboard] RPM: 962
+[Dashboard] Engine Temp: 102 C
+[Dashboard] Fuel: 55%
+[Dashboard] Engine Temp: 96 C
+[Dashboard] RPM: 1801
+[Dashboard] Speed: 27 km/h
+[Dashboard] Fuel: 65%
+[Dashboard] Speed: 7 km/h
+[Dashboard] RPM: 1814
+[Dashboard] Engine Temp: 96 C
+[Dashboard] Fuel: 65%
+[Dashboard] RPM: 1717
+[Dashboard] Speed: 25 km/h
+[Dashboard] Engine Temp: 101 C
+[Dashboard] RPM: 1051
+[Dashboard] Speed: 8 km/h
+[Dashboard] Engine Temp: 101 C
+[Dashboard] Fuel: 55%
+[Dashboard] RPM: 1792
+[Dashboard] Speed: 27 km/h
+[Dashboard] Engine Temp: 100 C
+[Dashboard] Fuel: 55%
+[Dashboard] RPM: 1065
+[Dashboard] Speed: 9 km/h
+[Dashboard] Engine Temp: 100 C
+[Dashboard] Engine Temp: 101 C
+[Dashboard] RPM: 1086
+[Dashboard] Speed: 27 km/h
+[Dashboard] Fuel: 55%
+[Dashboard] RPM: 1821
+[Dashboard] Speed: 28 km/h
+[Dashboard] Engine Temp: 103 C
+[Dashboard] Fuel: 64%
+[Dashboard] RPM: 1209
+[Dashboard] Speed: 12 km/h
+[Dashboard] Engine Temp: 100 C
+[Dashboard] Fuel: 64%
+[Dashboard] RPM: 1746
+[Dashboard] Speed: 9 km/h
+[Dashboard] Engine Temp: 100 C
+[Dashboard] Fuel: 64%
+[Dashboard] RPM: 1128
+[Dashboard] Speed: 10 km/h
+[Dashboard] Engine Temp: 101 C
+[Dashboard] RPM: 1058
+[Dashboard] Engine Temp: 98 C
+[Dashboard] Fuel: 64%
+[Dashboard] Speed: 22 km/h
+[Dashboard] RPM: 1533
+[Dashboard] Speed: 22 km/h
+[Dashboard] Engine Temp: 101 C
+[Dashboard] Fuel: 55%
+[Dashboard] RPM: 1666
+[Dashboard] Speed: 24 km/h
+[Dashboard] Fuel: 55%
+[Dashboard] Engine Temp: 99 C
+[Dashboard] RPM: 1080
+[Dashboard] Speed: 9 km/h
+[Dashboard] Engine Temp: 98 C
+[Dashboard] Fuel: 63%
+[Dashboard] RPM: 1171
+[Dashboard] Speed: 11 km/h
+[Dashboard] Engine Temp: 99 C
+[Dashboard] RPM: 1653
+[Dashboard] Speed: 23 km/h
+[Dashboard] Engine Temp: 99 C
+[Dashboard] Fuel: 55%
+[Dashboard] Fuel: 55%
+[Dashboard] RPM: 1530
+[Dashboard] Speed: 83 km/h
+[Dashboard] Engine Temp: 99 C
+[Dashboard] RPM: 1255
+[Dashboard] Speed: 13 km/h
+[Dashboard] Engine Temp: 99 C
+[Dashboard] Fuel: 55%
+[Dashboard] RPM: 1651
+[Dashboard] Speed: 23 km/h
+[Dashboard] Engine Temp: 98 C
+[Dashboard] Fuel: 63%
+[Dashboard] RPM: 1584
+[Dashboard] Speed: 22 km/h
+[Dashboard] Engine Temp: 98 C
+[Dashboard] Fuel: 55%
+[Dashboard] RPM: 1314
+[Dashboard] Speed: 20 km/h
+[Dashboard] Engine Temp: 133 C
+[Dashboard] Fuel: 55%
+[Dashboard] RPM: 1066
+[Dashboard] Speed: 9 km/h
+[Dashboard] Engine Temp: 97 C
+[Dashboard] Engine Temp: 98 C
+[Dashboard] RPM: 1115
+[Dashboard] Speed: 10 km/h
+[Dashboard] Fuel: 63%
+[Dashboard] RPM: 1849
+[Dashboard] Speed: 28 km/h
+[Dashboard] Engine Temp: 97 C
+[Dashboard] Fuel: 63%
+[Dashboard] Speed: 27 km/h
+[Dashboard] Engine Temp: 95 C
+[Dashboard] RPM: 1728
+[Dashboard] Speed: 25 km/h
+[Dashboard] Engine Temp: 96 C
+[Dashboard] Fuel: 62%
+[Dashboard] RPM: 1015
+[Dashboard] Speed: 7 km/h
+[Dashboard] Engine Temp: 96 C
+[Dashboard] Fuel: 53%
+[Dashboard] RPM: 1925
+[Dashboard] Speed: 29 km/h
+[Dashboard] Fuel: 61%
+[Dashboard] Engine Temp: 148 C
+[Dashboard] RPM: 950
+[Dashboard] Speed: 6 km/h
+[Dashboard] Engine Temp: 96 C
+[Dashboard] Fuel: 53%
+[Dashboard] RPM: 1736
+[Dashboard] Engine Temp: 96 C
+[Dashboard] Fuel: 53%
+[Dashboard] Speed: 27 km/h
+[Dashboard] RPM: 1874
+[Dashboard] Speed: 29 km/h
+[Dashboard] Engine Temp: 97 C
+[Dashboard] Fuel: 53%
+[Dashboard] Speed: 7 km/h
+[Dashboard] Engine Temp: 97 C
+[Dashboard] RPM: 1920
+[Dashboard] Fuel: 52%
+[Dashboard] RPM: 1901
+[Dashboard] Speed: 30 km/h
+[Dashboard] Engine Temp: 97 C
+[Dashboard] Fuel: 52%
+[Dashboard] RPM: 1338
+[Dashboard] Speed: 15 km/h
+[Dashboard] Engine Temp: 96 C
+[Dashboard] RPM: 1303
+[Dashboard] Speed: 15 km/h
+[Dashboard] Engine Temp: 97 C
+[Dashboard] Fuel: 61%
+[Dashboard] RPM: 2019
+[Dashboard] Speed: 32 km/h
+[Dashboard] Engine Temp: 96 C
+[Dashboard] Fuel: 61%
+[Dashboard] Engine Temp: 98 C
+[Dashboard] Fuel: 52%
+[Dashboard] RPM: 2060
+[Dashboard] Speed: 103 km/h
+[Dashboard] RPM: 1357
+[Dashboard] Speed: 16 km/h
+[Dashboard] Engine Temp: 97 C
+[Dashboard] Fuel: 52%
+[Dashboard] RPM: 2233
+[Dashboard] Speed: 0 km/h
+[Dashboard] Engine Temp: 96 C
+[Dashboard] Speed: 38 km/h
+[Dashboard] Engine Temp: 216 C
+[Dashboard] RPM: 1170
+[Dashboard] Speed: 11 km/h
+[Dashboard] Engine Temp: 95 C
+[Dashboard] Fuel: 61%
+[Dashboard] RPM: 2214
+[Dashboard] RPM: 2206
+[Dashboard] Speed: 10 km/h
+[Dashboard] Engine Temp: 94 C
+[Dashboard] Fuel: 51%
+[Dashboard] RPM: 2137
+[Dashboard] RPM: 1195
+[Dashboard] Speed: 12 km/h
+[Dashboard] Engine Temp: 95 C
+[Dashboard] Fuel: 61%
+[Dashboard] RPM: 1037
+[Dashboard] Speed: 35 km/h
+[Dashboard] Fuel: 50%
+[Dashboard] RPM: 874
+[Dashboard] Speed: 4 km/h
+[Dashboard] Engine Temp: 96 C
+[Dashboard] Fuel: 50%
+[Dashboard] RPM: 2066
+[Dashboard] Speed: 34 km/h
+[Dashboard] Engine Temp: 99 C
+[Dashboard] Fuel: 212%
+[Dashboard] RPM: 2025
+[Dashboard] Speed: 33 km/h
+[Dashboard] Engine Temp: 99 C
+[Dashboard] Fuel: 49%
+[Dashboard] RPM: 1809
+[Dashboard] Speed: 27 km/h
+[Dashboard] Engine Temp: 98 C
+[Dashboard] RPM: 787
+[Dashboard] Speed: 3 km/h
+[Dashboard] Engine Temp: 98 C
+[Dashboard] Fuel: 61%
+[Dashboard] RPM: 913
+[Dashboard] Speed: 29 km/h
+[Dashboard] Engine Temp: 99 C
+[Dashboard] Fuel: 61%
+[Dashboard] RPM: 1892
+[Dashboard] Speed: 8 km/h
+[Dashboard] Engine Temp: 98 C
+[Dashboard] Fuel: 48%
+[Dashboard] RPM: 1910
+[Dashboard] RPM: 1861
+[Dashboard] Speed: 29 km/h
+[Dashboard] Fuel: 60%
+[Dashboard] Engine Temp: 97 C
+[Dashboard] RPM: 1788
+[Dashboard] Speed: 27 km/h
+[Dashboard] Engine Temp: 97 C
+[Dashboard] RPM: 1953
+[Dashboard] Speed: 31 km/h
+[Dashboard] Engine Temp: 97 C
+[Dashboard] Speed: 39 km/h
+[Dashboard] Fuel: 47%
+[Dashboard] RPM: 1060
+[Dashboard] Engine Temp: 95 C
+[Dashboard] RPM: 801
+[Dashboard] Speed: 2 km/h
+[Dashboard] Engine Temp: 94 C
+[Dashboard] Fuel: 60%
+[Dashboard] RPM: 1995
+[Dashboard] Speed: 32 km/h
+[Dashboard] Engine Temp: 98 C
+[Dashboard] RPM: 2083
+[Dashboard] Speed: 34 km/h
+[Dashboard] Engine Temp: 97 C
+[Dashboard] Fuel: 46%
+[Dashboard] RPM: 990
+[Dashboard] Speed: 32 km/h
+[Dashboard] Engine Temp: 96 C
+[Dashboard] Fuel: 59%
+[Dashboard] RPM: 1881
+[Dashboard] Speed: 29 km/h
+[Dashboard] Engine Temp: 95 C
+[Dashboard] RPM: 763
+[Dashboard] Speed: 241 km/h
+[Dashboard] Engine Temp: 93 C
+[Dashboard] Fuel: 59%
+[Dashboard] RPM: 748
+[Dashboard] Speed: 1 km/h
+[Dashboard] Engine Temp: 94 C
+[Dashboard] Fuel: 45%
+[Dashboard] Speed: 32 km/h
+[Dashboard] RPM: 2000
+[Dashboard] Engine Temp: 93 C
+[Dashboard] Speed: 1 km/h
+[Dashboard] RPM: 1809
+[Dashboard] Engine Temp: 92 C
+[Dashboard] Fuel: 59%
+[Dashboard] Speed: 3 km/h
+[Dashboard] RPM: 2035
+[Dashboard] Engine Temp: 93 C
+[Dashboard] RPM: 906
+[Dashboard] Speed: 5 km/h
+[Dashboard] RPM: 981
+[Dashboard] Speed: 35 km/h
+[Dashboard] Engine Temp: 93 C
+[Dashboard] Fuel: 45%
+[Dashboard] RPM: 1054
+[Dashboard] Speed: 8 km/h
+[Dashboard] Engine Temp: 94 C
+[Dashboard] Fuel: 59%
+[Dashboard] RPM: 1114
+[Dashboard] Speed: 10 km/h
+[Dashboard] Engine Temp: 94 C
+[Dashboard] RPM: 2165
+[Dashboard] Speed: 36 km/h
+[Dashboard] Engine Temp: 93 C
+[Dashboard] Fuel: 59%
+[Dashboard] Engine Temp: 94 C
+[Dashboard] Fuel: 45%
+[Dashboard] RPM: 1268
+[Dashboard] Speed: 14 km/h
+[Dashboard] RPM: 1202
+[Dashboard] Speed: 12 km/h
+[Dashboard] Engine Temp: 92 C
+[Dashboard] Fuel: 59%
+[Dashboard] RPM: 1952
+[Dashboard] Speed: 31 km/h
+[Dashboard] Engine Temp: 96 C
+[Dashboard] RPM: 990
+[Dashboard] Speed: 7 km/h
+[Dashboard] Fuel: 58%
+[Dashboard] RPM: 2006
+[Dashboard] Speed: 5 km/h
+[Dashboard] Engine Temp: 91 C
+[Dashboard] Fuel: 58%
+[Dashboard] RPM: 1959
+[Dashboard] Speed: 31 km/h
+[Dashboard] Engine Temp: 97 C
+[Dashboard] RPM: 1944
+[Dashboard] Speed: 31 km/h
+[Dashboard] Engine Temp: 96 C
+[Dashboard] Fuel: 45%
+[Dashboard] RPM: 992
+[Dashboard] Speed: 7 km/h
+[Dashboard] Engine Temp: 92 C
+[Dashboard] Fuel: 45%
+[Dashboard] RPM: 1902
+[Dashboard] Speed: 30 km/h
+[Dashboard] RPM: 1772
+[Dashboard] Speed: 10 km/h
+[Dashboard] Engine Temp: 93 C
+[Dashboard] Fuel: 45%
+[Dashboard] RPM: 1165
+[Dashboard] Speed: 197 km/h
+[Dashboard] Engine Temp: 92 C
+[Dashboard] Fuel: 58%
+[Dashboard] RPM: 1926
+[Dashboard] Speed: 6 km/h
+[Dashboard] RPM: 847
+[Dashboard] Speed: 3 km/h
+[Dashboard] Engine Temp: 93 C
+[Dashboard] Fuel: 58%
+[Dashboard] RPM: 2171
+[Dashboard] Speed: 36 km/h
+[Dashboard] Engine Temp: 86 C
+[Dashboard] Fuel: 44%
+[Dashboard] RPM: 2118
+[Dashboard] Engine Temp: 95 C
+[Dashboard] Speed: 9 km/h
+[Dashboard] Fuel: 43%
+[Dashboard] RPM: 1014
+[Dashboard] Engine Temp: 91 C
+[Dashboard] Speed: 32 km/h
+[Dashboard] RPM: 923
+[Dashboard] Speed: 5 km/h
+[Dashboard] Engine Temp: 95 C
+[Dashboard] RPM: 1007
+[Dashboard] Speed: 7 km/h
+[Dashboard] Fuel: 58%
+[Dashboard] RPM: 1013
+[Dashboard] Speed: 7 km/h
+[Dashboard] Engine Temp: 90 C
+[Dashboard] Fuel: 58%
+[Dashboard] RPM: 1953
+[Dashboard] Speed: 30 km/h
+[Dashboard] Engine Temp: 94 C
+[Dashboard] Fuel: 43%
+[Dashboard] Speed: 2 km/h
+[Dashboard] Engine Temp: 91 C
+[Dashboard] Fuel: 58%
+[Dashboard] RPM: 1959
+[Dashboard] RPM: 901
+[Dashboard] Speed: 28 km/h
+[Dashboard] Engine Temp: 90 C
+[Dashboard] Fuel: 57%
+[Dashboard] RPM: 1935
+[Dashboard] Speed: 30 km/h
+[Dashboard] Engine Temp: 95 C
+[Dashboard] Engine Temp: 89 C
+[Dashboard] RPM: 2001
+[Dashboard] Speed: 5 km/h
+[Dashboard] Fuel: 56%
+[Dashboard] RPM: 1813
+[Dashboard] Speed: 27 km/h
+[Dashboard] Engine Temp: 93 C
+[Dashboard] Fuel: 41%
+[Dashboard] RPM: 1884
+[Dashboard] Speed: 29 km/h
+[Dashboard] Engine Temp: 92 C
+[Dashboard] RPM: 1965
+[Dashboard] Speed: 6 km/h
+[Dashboard] Fuel: 55%
+[Dashboard] Engine Temp: 93 C
+[Dashboard] RPM: 930
+[Dashboard] Engine Temp: 92 C
+[Dashboard] Speed: 6 km/h
+[Dashboard] Fuel: 40%
+[Dashboard] RPM: 1751
+[Dashboard] Speed: 26 km/h
+[Dashboard] Engine Temp: 92 C
+[Dashboard] Fuel: 55%
+[Dashboard] Speed: 10 km/h
+[Dashboard] RPM: 1137
+[Dashboard] Engine Temp: 191 C
+[Dashboard] RPM: 1472
+[Dashboard] Speed: 11 km/h
+[Dashboard] Engine Temp: 91 C
+[Dashboard] Fuel: 55%
+[Dashboard] RPM: 1442
+[Dashboard] Speed: 18 km/h
+[Dashboard] RPM: 1355
+[Dashboard] Speed: 16 km/h
+[Dashboard] Engine Temp: 92 C
+[Dashboard] Fuel: 55%
+[Dashboard] RPM: 1070
+[Dashboard] Speed: 9 km/h
+[Dashboard] Engine Temp: 92 C
+[Dashboard] Fuel: 55%
+[Dashboard] RPM: 1126
+[Dashboard] Speed: 18 km/h
+[Dashboard] Engine Temp: 93 C
+[Dashboard] Fuel: 39%
+[Dashboard] RPM: 1527
+[Dashboard] Speed: 20 km/h
+[Dashboard] Engine Temp: 92 C
+[Dashboard] Fuel: 55%
+[Dashboard] RPM: 1096
+[Dashboard] Speed: 9 km/h
+[Dashboard] Engine Temp: 91 C
+[Dashboard] Fuel: 54%
+[Dashboard] RPM: 1815
+[Dashboard] Speed: 19 km/h
+[Dashboard] Engine Temp: 92 C
+[Dashboard] RPM: 1543
+[Dashboard] Engine Temp: 92 C
+[Dashboard] Fuel: 95%
+[Dashboard] Speed: 28 km/h
+[Dashboard] RPM: 1794
+[Dashboard] RPM: 1443
+[Dashboard] Speed: 53 km/h
+[Dashboard] Engine Temp: 93 C
+[Dashboard] Fuel: 54%
+[Dashboard] RPM: 1792
+[Dashboard] Engine Temp: 91 C
+[Dashboard] Fuel: 93%
+[Dashboard] Speed: 18 km/h
+[Dashboard] RPM: 1720
+[Dashboard] Speed: 25 km/h
+[Dashboard] Engine Temp: 90 C
+[Dashboard] Fuel: 39%
+[Dashboard] RPM: 1670
+[Dashboard] Speed: 82 km/h
+[Dashboard] Engine Temp: 89 C
+[Dashboard] Fuel: 39%
+[Dashboard] RPM: 1783
+[Dashboard] Speed: 27 km/h
+[Dashboard] Engine Temp: 90 C
+[Dashboard] Fuel: 39%
+[Dashboard] RPM: 1775
+[Dashboard] Speed: 26 km/h
+[Dashboard] Engine Temp: 91 C
+[Dashboard] Fuel: 39%
+[Dashboard] RPM: 1713
+[Dashboard] Speed: 25 km/h
+[Dashboard] Engine Temp: 209 C
+[Dashboard] Fuel: 39%
+[Dashboard] RPM: 1854
+[Dashboard] Speed: 19 km/h
+[Dashboard] Engine Temp: 91 C
+[Dashboard] Fuel: 54%
+[Dashboard] RPM: 1486
+[Dashboard] Engine Temp: 91 C
+[Dashboard] Fuel: 53%
+[Dashboard] Speed: 30 km/h
+[Dashboard] RPM: 1872
+[Dashboard] Speed: 29 km/h
+[Dashboard] Fuel: 39%
+[Dashboard] Engine Temp: 91 C
+[Dashboard] RPM: 1844
+[Dashboard] Speed: 28 km/h
+[Dashboard] Engine Temp: 90 C
+[Dashboard] Fuel: 39%
+[Dashboard] Engine Temp: 92 C
+[Dashboard] Fuel: 53%
+[Dashboard] RPM: 1924
+[Dashboard] Speed: 30 km/h
+[Dashboard] RPM: 1935
+[Dashboard] Speed: 30 km/h
+[Dashboard] Engine Temp: 90 C
+[Dashboard] Fuel: 53%
+[Dashboard] RPM: 1481
+[Dashboard] RPM: 1881
+[Dashboard] Speed: 29 km/h
+[Dashboard] Engine Temp: 90 C
+[Dashboard] Fuel: 53%
+[Dashboard] RPM: 1238
+[Dashboard] Speed: 13 km/h
+[Dashboard] Engine Temp: 90 C
+[Dashboard] Fuel: 53%
+[Dashboard] RPM: 2008
+[Dashboard] Speed: 16 km/h
+[Dashboard] Engine Temp: 96 C
+[Dashboard] Fuel: 94%
+[Dashboard] RPM: 1442
+[Dashboard] Speed: 18 km/h
+[Dashboard] Engine Temp: 39 C
+[Dashboard] Fuel: 53%
+[Dashboard] RPM: 1396
+[Dashboard] Speed: 31 km/h
+[Dashboard] Engine Temp: 90 C
+[Dashboard] Fuel: 52%
+[Dashboard] Speed: 29 km/h
+[Dashboard] Fuel: 38%
+[Dashboard] RPM: 1332
+[Dashboard] Engine Temp: 99 C
+[Dashboard] RPM: 1910
+[Dashboard] Speed: 30 km/h
+[Dashboard] Engine Temp: 92 C
+[Dashboard] Fuel: 52%
+[Dashboard] RPM: 2068
+[Dashboard] Engine Temp: 91 C
+[Dashboard] Speed: 17 km/h
+[Dashboard] Fuel: 52%
+[Dashboard] RPM: 2087
+[Dashboard] Speed: 34 km/h
+[Dashboard] Engine Temp: 92 C
+[Dashboard] Fuel: 158%
+[Dashboard] RPM: 1526
+[Dashboard] Speed: 30 km/h
+[Dashboard] Engine Temp: 93 C
+[Dashboard] RPM: 1514
+[Dashboard] RPM: 1884
+[Dashboard] Speed: 29 km/h
+[Dashboard] Engine Temp: 99 C
+[Dashboard] Fuel: 52%
+[Dashboard] RPM: 1803
+[Dashboard] Speed: 19 km/h
+[Dashboard] Engine Temp: 98 C
+[Dashboard] Fuel: 38%
+[Dashboard] RPM: 1539
+[Dashboard] Speed: 20 km/h
+[Dashboard] Engine Temp: 98 C
+[Dashboard] Fuel: 38%
+[Dashboard] RPM: 1358
+[Dashboard] Speed: 16 km/h
+[Dashboard] Engine Temp: 99 C
+[Dashboard] Fuel: 52%
+[Dashboard] RPM: 22515
+[Dashboard] Speed: 31 km/h
+[Dashboard] Engine Temp: 96 C
+[Dashboard] RPM: 1976
+[Dashboard] Speed: 31 km/h
+[Dashboard] Engine Temp: 96 C
+[Dashboard] Fuel: 37%
+[Dashboard] RPM: 1336
+[Dashboard] Speed: 15 km/h
+[Dashboard] Engine Temp: 98 C
+[Dashboard] RPM: 1931
+[Dashboard] Speed: 30 km/h
+[Dashboard] Engine Temp: 95 C
+[Dashboard] Fuel: 36%
+[Dashboard] RPM: 1292
+[Dashboard] Speed: 71 km/h
+[Dashboard] Engine Temp: 100 C
+[Dashboard] Fuel: 51%
+[Dashboard] RPM: 1765
+[Dashboard] Speed: 26 km/h
+[Dashboard] Engine Temp: 95 C
+[Dashboard] Fuel: 35%
+[Dashboard] RPM: 1414
+[Dashboard] Speed: 17 km/h
+[Dashboard] Engine Temp: 100 C
+[Dashboard] Fuel: 51%
+[Dashboard] RPM: 1983
+[Dashboard] Speed: 32 km/h
+[Dashboard] Engine Temp: 84 C
+[Dashboard] Fuel: 35%
+[Dashboard] RPM: 1413
+[Dashboard] Speed: 17 km/h
+[Dashboard] Engine Temp: 17 C
+[Dashboard] Fuel: 35%
+[Dashboard] RPM: 2143
+[Dashboard] Speed: 36 km/h
+[Dashboard] RPM: 2217
+[Dashboard] Engine Temp: 92 C
+[Dashboard] Fuel: 35%
+[Dashboard] Speed: 16 km/h
+[Dashboard] RPM: 2125
+[Dashboard] Speed: 35 km/h
+[Dashboard] Engine Temp: 92 C
+[Dashboard] Fuel: 35%
+[Dashboard] RPM: 1152
+[Dashboard] Speed: 11 km/h
+[Dashboard] Engine Temp: 99 C
+[Dashboard] Fuel: 35%
+[Dashboard] RPM: 1251
+[Dashboard] Speed: 13 km/h
+[Dashboard] RPM: 1181
+[Dashboard] Speed: 12 km/h
+[Dashboard] Engine Temp: 98 C
+[Dashboard] Fuel: 48%
+[Dashboard] RPM: 2090
+[Dashboard] Speed: 34 km/h
+[Dashboard] Engine Temp: 90 C
+[Dashboard] Fuel: 35%
+[Dashboard] RPM: 2381
+[Dashboard] Speed: 8 km/h
+[Dashboard] Engine Temp: 100 C
+[Dashboard] Fuel: 35%
+[Dashboard] RPM: 1060
+[Dashboard] Speed: 9 km/h
+[Dashboard] Engine Temp: 91 C
+[Dashboard] Fuel: 48%
+[Dashboard] Fuel: 35%
+[Dashboard] RPM: 2288
+[Dashboard] Speed: 39 km/h
+[Dashboard] Engine Temp: 90 C
+[Dashboard] Speed: 9 km/h
+[Dashboard] RPM: 1151
+[Dashboard] Engine Temp: 89 C
+[Dashboard] Fuel: 48%
+[Dashboard] RPM: 1276
+[Dashboard] Speed: 40 km/h
+[Dashboard] RPM: 1245
+[Dashboard] Speed: 13 km/h
+[Dashboard] Engine Temp: 100 C
+[Dashboard] Fuel: 35%
+[Dashboard] RPM: 1415
+[Dashboard] Speed: 17 km/h
+[Dashboard] Engine Temp: 99 C
+[Dashboard] Fuel: 48%
+[Dashboard] RPM: 1342
+[Dashboard] Speed: 16 km/h
+[Dashboard] Engine Temp: 99 C
+[Dashboard] Fuel: 47%
+[Dashboard] RPM: 1367
+[Dashboard] Speed: 16 km/h
+[Dashboard] Engine Temp: 90 C
+[Dashboard] Fuel: 35%
+[Dashboard] RPM: 2255
+[Dashboard] Engine Temp: 98 C
+[Dashboard] Speed: 41 km/h
+[Dashboard] Fuel: 47%
+[Dashboard] RPM: 2668
+[Dashboard] Engine Temp: 90 C
+[Dashboard] Speed: 204 km/h
+[Dashboard] Fuel: 47%
+[Dashboard] Speed: 13 km/h
+[Dashboard] RPM: 2740
+[Dashboard] Engine Temp: 97 C
+[Dashboard] Fuel: 47%
+[Dashboard] Speed: 51 km/h
+[Dashboard] Engine Temp: 89 C
+[Dashboard] Fuel: 35%
+[Dashboard] RPM: 1176
+[Dashboard] RPM: 1352
+[Dashboard] Speed: 16 km/h
+[Dashboard] Engine Temp: 98 C
+[Dashboard] RPM: 1276
+[Dashboard] Speed: 14 km/h
+[Dashboard] Engine Temp: 98 C
+[Dashboard] Fuel: 47%
+[Dashboard] RPM: 1333
+[Dashboard] Speed: 15 km/h
+[Dashboard] Engine Temp: 98 C
+[Dashboard] RPM: 3100
+[Dashboard] Speed: 60 km/h
+[Dashboard] Engine Temp: 91 C
+[Dashboard] Fuel: 46%
+[Dashboard] Speed: 60 km/h
+[Dashboard] RPM: 1164
+[Dashboard] Engine Temp: 96 C
+[Dashboard] Fuel: 35%
+[Dashboard] RPM: 3031
+[Dashboard] Speed: 7 km/h
+[Dashboard] Engine Temp: 97 C
+[Dashboard] Speed: 58 km/h
+[Dashboard] Engine Temp: 129 C
+[Dashboard] RPM: 815
+[Dashboard] Fuel: 45%
+[Dashboard] Fuel: 35%
+[Dashboard] RPM: 3107
+[Dashboard] Speed: 60 km/h
+[Dashboard] Engine Temp: 92 C
+[Dashboard] RPM: 700
+[Dashboard] Engine Temp: 83 C
+[Dashboard] Fuel: 45%
+[Dashboard] Speed: 61 km/h
+[Dashboard] RPM: 3087
+[Dashboard] Speed: 74 km/h
+[Dashboard] Engine Temp: 93 C
+[Dashboard] Fuel: 34%
+[Dashboard] Fuel: 45%
+[Dashboard] RPM: 3122
+[Dashboard] Speed: 60 km/h
+[Dashboard] Engine Temp: 94 C
+[Dashboard] RPM: 766
+[Dashboard] Speed: 1 km/h
+[Dashboard] RPM: 60685
+[Dashboard] Speed: 53 km/h
+[Dashboard] Engine Temp: 93 C
+[Dashboard] Fuel: 44%
+[Dashboard] Fuel: 34%
+[Dashboard] Engine Temp: 93 C
+[Dashboard] RPM: 772
+[Dashboard] Speed: 1 km/h
+[Dashboard] RPM: 700
+[Dashboard] Speed: 0 km/h
+[Dashboard] Engine Temp: 98 C
+[Dashboard] Fuel: 33%
+[Dashboard] RPM: 705
+[Dashboard] Speed: 0 km/h
+[Dashboard] Engine Temp: 117 C
+[Dashboard] Fuel: 43%
+[Dashboard] RPM: 803
+[Dashboard] Speed: 2 km/h
+[Dashboard] Engine Temp: 98 C
+[Dashboard] Fuel: 43%
+[Dashboard] RPM: 1027
+[Dashboard] Speed: 8 km/h
+[Dashboard] Engine Temp: 99 C
+[Dashboard] Fuel: 42%
+[Dashboard] RPM: 2929
+[Dashboard] Speed: 55 km/h
+[Dashboard] Engine Temp: 93 C
+[Dashboard] Speed: 52 km/h
+[Dashboard] RPM: 879
+[Dashboard] Fuel: 42%
+[Dashboard] RPM: 883
+[Dashboard] Speed: 49 km/h
+[Dashboard] Engine Temp: 92 C
+[Dashboard] Fuel: 33%
+[Dashboard] Speed: 2 km/h
+[Dashboard] Engine Temp: 98 C
+[Dashboard] Fuel: 41%
+[Dashboard] RPM: 2568
+[Dashboard] RPM: 2637
+[Dashboard] Speed: 48 km/h
+[Dashboard] Engine Temp: 93 C
+[Dashboard] RPM: 2606
+[Dashboard] Speed: 47 km/h
+[Dashboard] Engine Temp: 93 C
+[Dashboard] Fuel: 41%
+[Dashboard] Fuel: 41%
+[Dashboard] RPM: 2564
+[Dashboard] Speed: 46 km/h
+[Dashboard] Engine Temp: 94 C
+[Dashboard] RPM: 2494
+[Dashboard] Speed: 44 km/h
+[Dashboard] Engine Temp: 97 C
+[Dashboard] Fuel: 41%
+[Dashboard] RPM: 2502
+[Dashboard] Speed: 45 km/h
+[Dashboard] Engine Temp: 94 C
+[Dashboard] Fuel: 31%
+[Dashboard] RPM: 2482
+[Dashboard] Speed: 44 km/h
+[Dashboard] Engine Temp: 94 C
+[Dashboard] Fuel: 41%
+[Dashboard] RPM: 757
+[Dashboard] Speed: 1 km/h
+[Dashboard] Engine Temp: 95 C
+[Dashboard] RPM: 700
+[Dashboard] Speed: 0 km/h
+[Dashboard] Engine Temp: 95 C
+[Dashboard] Fuel: 41%
+[Dashboard] Engine Temp: 94 C
+[Dashboard] Fuel: 31%
+[Dashboard] RPM: 700
+[Dashboard] Speed: 0 km/h
+[Dashboard] RPM: 2266
+[Dashboard] Engine Temp: 96 C
+[Dashboard] Speed: 39 km/h
+[Dashboard] Engine Temp: 95 C
+[Dashboard] RPM: 631
+[Dashboard] Fuel: 41%
+[Dashboard] RPM: 700
+[Dashboard] Speed: 0 km/h
+[Dashboard] Engine Temp: 95 C
+[Dashboard] Speed: 38 km/h
+[Dashboard] RPM: 700
+[Dashboard] Engine Temp: 94 C
+[Dashboard] Fuel: 41%
+[Dashboard] RPM: 2320
+[Dashboard] Speed: 40 km/h
+[Dashboard] Engine Temp: 97 C
+[Dashboard] Fuel: 31%
+[Dashboard] RPM: 31048
+[Dashboard] Speed: 41 km/h
+[Dashboard] Engine Temp: 97 C
+[Dashboard] Fuel: 41%
+[Dashboard] RPM: 828
+[Dashboard] Speed: 3 km/h
+[Dashboard] Engine Temp: 95 C
+[Dashboard] RPM: 748
+[Dashboard] Speed: 1 km/h
+[Dashboard] Engine Temp: 222 C
+[Dashboard] Fuel: 41%
+[Dashboard] RPM: 2602
+[Dashboard] Speed: 218 km/h
+[Dashboard] Engine Temp: 96 C
+[Dashboard] Fuel: 74%
+[Dashboard] Speed: 46 km/h
+[Dashboard] RPM: 2517
+[Dashboard] Engine Temp: 97 C
+[Dashboard] Fuel: 40%
+[Dashboard] RPM: 801
+[Dashboard] Speed: 2 km/h
+[Dashboard] Engine Temp: 94 C
+[Dashboard] Fuel: 242%
+[Dashboard] RPM: 2455
+[Dashboard] Speed: 43 km/h
+[Dashboard] Engine Temp: 98 C
+[Dashboard] Fuel: 31%
+[Dashboard] RPM: 863
+[Dashboard] Speed: 4 km/h
+[Dashboard] RPM: 2472
+[Dashboard] Speed: 44 km/h
+[Dashboard] Engine Temp: 97 C
+[Dashboard] Fuel: 31%
+[Dashboard] Engine Temp: 68 C
+[Dashboard] Fuel: 40%
+[Dashboard] RPM: 730
+[Dashboard] Speed: 0 km/h
+[Dashboard] RPM: 2464
+[Dashboard] Speed: 44 km/h
+[Dashboard] Engine Temp: 98 C
+[Dashboard] Fuel: 31%
+[Dashboard] RPM: 2368
+[Dashboard] Speed: 41 km/h
+[Dashboard] RPM: 2391
+[Dashboard] Speed: 42 km/h
+[Dashboard] Engine Temp: 99 C
+[Dashboard] Fuel: 31%
+[Dashboard] RPM: 809
+[Dashboard] Speed: 2 km/h
+[Dashboard] Engine Temp: 100 C
+[Dashboard] RPM: 808
+[Dashboard] Speed: 230 km/h
+[Dashboard] Engine Temp: 101 C
+[Dashboard] Fuel: 30%
+[Dashboard] Speed: 46 km/h
+[Dashboard] Engine Temp: 101 C
+[Dashboard] RPM: 895
+[Dashboard] Fuel: 30%
+[Dashboard] RPM: 2356
+[Dashboard] Speed: 41 km/h
+[Dashboard] Engine Temp: 101 C
+[Dashboard] Fuel: 30%
+[Dashboard] RPM: 2089
+[Dashboard] Speed: 4 km/h
+[Dashboard] Fuel: 38%
+[Dashboard] Engine Temp: 97 C
+[Dashboard] RPM: 832
+[Dashboard] Engine Temp: 96 C
+[Dashboard] Fuel: 38%
+[Dashboard] Speed: 35 km/h
+[Dashboard] Fuel: 30%
+[Dashboard] RPM: 2148
+[Dashboard] Speed: 36 km/h
+[Dashboard] Engine Temp: 101 C
+[Dashboard] RPM: 1072
+[Dashboard] Speed: 32 km/h
+[Dashboard] Engine Temp: 102 C
+[Dashboard] Fuel: 29%
+[Dashboard] Speed: 9 km/h
+[Dashboard] RPM: 48628
+[Dashboard] Engine Temp: 101 C
+[Dashboard] Fuel: 29%
+[Dashboard] RPM: 30221
+[Dashboard] Speed: 8 km/h
+[Dashboard] Engine Temp: 96 C
+[Dashboard] Fuel: 37%
+[Dashboard] Fuel: 29%
+[Dashboard] RPM: 1076
+[Dashboard] Speed: 123 km/h
+[Dashboard] Engine Temp: 97 C
+[Dashboard] Fuel: 37%
+[Dashboard] RPM: 959
+[Dashboard] Speed: 6 km/h
+[Dashboard] Fuel: 37%
+[Dashboard] Engine Temp: 103 C
+[Dashboard] RPM: 2093
+[Dashboard] Speed: 5 km/h
+[Dashboard] Engine Temp: 102 C
+[Dashboard] Fuel: 29%
+[Dashboard] Engine Temp: 98 C
+[Dashboard] RPM: 2035
+[Dashboard] Speed: 33 km/h
+[Dashboard] Fuel: 37%
+[Dashboard] RPM: 2022
+[Dashboard] Speed: 33 km/h
+[Dashboard] Engine Temp: 104 C
+[Dashboard] Fuel: 29%
+[Dashboard] RPM: 863
+[Dashboard] Engine Temp: 99 C
+[Dashboard] Speed: 34 km/h
+[Dashboard] Fuel: 29%
+[Dashboard] RPM: 2220
+[Dashboard] Engine Temp: 104 C
+[Dashboard] Speed: 2 km/h
+[Dashboard] Fuel: 29%
+[Dashboard] RPM: 2199
+[Dashboard] Speed: 37 km/h
+[Dashboard] Engine Temp: 104 C
+[Dashboard] RPM: 2212
+[Dashboard] Speed: 2 km/h
+[Dashboard] Engine Temp: 100 C
+[Dashboard] Fuel: 37%
+[Dashboard] RPM: 2397
+[Dashboard] Speed: 42 km/h
+[Dashboard] Engine Temp: 101 C
+[Dashboard] Fuel: 37%
+[Dashboard] RPM: 2456
+[Dashboard] Speed: 43 km/h
+[Dashboard] Engine Temp: 104 C
+[Dashboard] Fuel: 29%
+[Dashboard] RPM: 914
+[Dashboard] Speed: 198 km/h
+[Dashboard] Engine Temp: 104 C
+[Dashboard] Fuel: 28%
+[Dashboard] RPM: 2609
+[Dashboard] Speed: 49 km/h
+[Dashboard] Engine Temp: 103 C
+[Dashboard] Fuel: 28%
+[Dashboard] RPM: 909
+[Dashboard] Speed: 5 km/h
+[Dashboard] Engine Temp: 99 C
+[Dashboard] Fuel: 37%
+[Dashboard] RPM: 839
+[Dashboard] Speed: 3 km/h
+[Dashboard] Engine Temp: 98 C
+[Dashboard] Fuel: 27%
+[Dashboard] RPM: 2573
+[Dashboard] Speed: 46 km/h
+[Dashboard] Engine Temp: 103 C
+[Dashboard] Fuel: 27%
+[Dashboard] RPM: 903
+[Dashboard] Speed: 5 km/h
+[Dashboard] Engine Temp: 97 C
+[Dashboard] Fuel: 37%
+[Dashboard] RPM: 2732
+[Dashboard] Speed: 8 km/h
+[Dashboard] Engine Temp: 97 C
+[Dashboard] Fuel: 37%
+[Dashboard] RPM: 2777
+[Dashboard] Speed: 10 km/h
+[Dashboard] Engine Temp: 104 C
+[Dashboard] Fuel: 27%
+[Dashboard] RPM: 2838
+[Dashboard] Speed: 53 km/h
+[Dashboard] Engine Temp: 105 C
+[Dashboard] Fuel: 27%
+[Dashboard] Speed: 50 km/h
+[Dashboard] RPM: 1060
+[Dashboard] Engine Temp: 97 C
+[Dashboard] Fuel: 36%
+[Dashboard] Speed: 51 km/h
+[Dashboard] Engine Temp: 104 C
+[Dashboard] RPM: 1118
+[Dashboard] Speed: 10 km/h
+[Dashboard] RPM: 2722
+[Dashboard] Engine Temp: 104 C
+[Dashboard] Fuel: 27%
+[Dashboard] Engine Temp: 97 C
+[Dashboard] RPM: 2807
+[Dashboard] Speed: 52 km/h
+[Dashboard] Fuel: 27%
+[Dashboard] RPM: 2742
+[Dashboard] Speed: 51 km/h
+[Dashboard] Engine Temp: 106 C
+[Dashboard] Fuel: 27%
+[Dashboard] RPM: 2646
+[Dashboard] Speed: 48 km/h
+[Dashboard] Engine Temp: 97 C
+[Dashboard] Fuel: 36%
+[Dashboard] RPM: 2757
+[Dashboard] Speed: 51 km/h
+[Dashboard] Engine Temp: 108 C
+[Dashboard] RPM: 1186
+[Dashboard] Speed: 12 km/h
+[Dashboard] Fuel: 36%
+[Dashboard] Engine Temp: 108 C
+[Dashboard] RPM: 2754
+[Dashboard] Engine Temp: 107 C
+[Dashboard] Fuel: 27%
+[Dashboard] Speed: 9 km/h
+[Dashboard] RPM: 2716
+[Dashboard] Speed: 11 km/h
+[Dashboard] Engine Temp: 98 C
+[Dashboard] Fuel: 36%
+[Dashboard] RPM: 1039
+[Dashboard] Speed: 8 km/h
+[Dashboard] Engine Temp: 98 C
+[Dashboard] Fuel: 35%
+[Dashboard] RPM: 2581
+[Dashboard] Speed: 47 km/h
+[Dashboard] Engine Temp: 107 C
+[Dashboard] Fuel: 27%
+[Dashboard] Fuel: 35%
+[Dashboard] RPM: 2604
+[Dashboard] Speed: 47 km/h
+[Dashboard] Engine Temp: 106 C
+[Dashboard] Fuel: 35%
+[Dashboard] RPM: 2576
+[Dashboard] Speed: 46 km/h
+[Dashboard] Engine Temp: 107 C
+[Dashboard] RPM: 2496
+[Dashboard] Speed: 44 km/h
+[Dashboard] Engine Temp: 108 C
+[Dashboard] Fuel: 27%
+[Dashboard] RPM: 2519
+[Dashboard] Speed: 45 km/h
+[Dashboard] Fuel: 27%
+[Dashboard] Engine Temp: 98 C
+[Dashboard] RPM: 994
+[Dashboard] Speed: 7 km/h
+[Dashboard] Fuel: 26%
+[Dashboard] Speed: 43 km/h
+[Dashboard] Engine Temp: 107 C
+[Dashboard] Fuel: 34%
+[Dashboard] RPM: 1009
+[Dashboard] Speed: 45 km/h
+[Dashboard] Engine Temp: 107 C
+[Dashboard] RPM: 869
+[Dashboard] RPM: 832
+[Dashboard] Speed: 3 km/h
+[Dashboard] Engine Temp: 97 C
+[Dashboard] Fuel: 25%
+[Dashboard] RPM: 916
+[Dashboard] Speed: 5 km/h
+[Dashboard] Engine Temp: 96 C
+[Dashboard] Fuel: 33%
+[Dashboard] RPM: 773
+[Dashboard] Speed: 5 km/h
+[Dashboard] Engine Temp: 95 C
+[Dashboard] Fuel: 25%
+[Dashboard] RPM: 2370
+[Dashboard] Speed: 41 km/h
+[Dashboard] Engine Temp: 96 C
+[Dashboard] Fuel: 33%
+[Dashboard] RPM: 783
+[Dashboard] Engine Temp: 107 C
+[Dashboard] Fuel: 24%
+[Dashboard] Speed: 43 km/h
+[Dashboard] Speed: 2 km/h
+[Dashboard] Engine Temp: 97 C
+[Dashboard] RPM: 17440
+[Dashboard] Fuel: 24%
+[Dashboard] Engine Temp: 96 C
+[Dashboard] RPM: 816
+[Dashboard] Speed: 2 km/h
+[Dashboard] RPM: 60412
+[Dashboard] Speed: 46 km/h
+[Dashboard] Engine Temp: 107 C
+[Dashboard] Fuel: 24%
+[Dashboard] Speed: 46 km/h
+[Dashboard] Engine Temp: 108 C
+[Dashboard] Fuel: 24%
+[Dashboard] RPM: 887
+[Dashboard] RPM: 2320
+[Dashboard] Speed: 40 km/h
+[Dashboard] Engine Temp: 109 C
+[Dashboard] Fuel: 32%
+[Dashboard] RPM: 950
+[Dashboard] Speed: 6 km/h
+[Dashboard] Engine Temp: 97 C
+[Dashboard] Fuel: 32%
+[Dashboard] Fuel: 23%
+[Dashboard] RPM: 890
+[Dashboard] Engine Temp: 97 C
+[Dashboard] Fuel: 32%
+[Dashboard] RPM: 2253
+[Dashboard] Speed: 3 km/h
+[Dashboard] Engine Temp: 96 C
+[Dashboard] RPM: 2346
+[Dashboard] Speed: 6 km/h
+[Dashboard] Engine Temp: 96 C
+[Dashboard] Fuel: 31%
+[Dashboard] RPM: 1051
+[Dashboard] Speed: 8 km/h
+[Dashboard] Engine Temp: 95 C
+[Dashboard] Engine Temp: 105 C
+[Dashboard] RPM: 2554
+[Dashboard] RPM: 2458
+[Dashboard] Speed: 43 km/h
+[Dashboard] Engine Temp: 105 C
+[Dashboard] Fuel: 23%
+[Dashboard] RPM: 2492
+[Dashboard] Speed: 44 km/h
+[Dashboard] Engine Temp: 105 C
+[Dashboard] Fuel: 167%
+[Dashboard] Speed: 7 km/h
+[Dashboard] RPM: 887
+[Dashboard] Engine Temp: 94 C
+[Dashboard] Fuel: 30%
+[Dashboard] RPM: 718
+[Dashboard] Speed: 0 km/h
+[Dashboard] Engine Temp: 94 C
+[Dashboard] Fuel: 30%
+[Dashboard] RPM: 2247
+[Dashboard] Speed: 38 km/h
+[Dashboard] Engine Temp: 104 C
+[Dashboard] Fuel: 30%
+[Dashboard] RPM: 946
+[Dashboard] Speed: 34 km/h
+[Dashboard] Engine Temp: 102 C
+[Dashboard] Speed: 6 km/h
+[Dashboard] RPM: 2158
+[Dashboard] Engine Temp: 102 C
+[Dashboard] Fuel: 196%
+[Dashboard] RPM: 2160
+[Dashboard] Speed: 36 km/h
+[Dashboard] Engine Temp: 102 C
+[Dashboard] Fuel: 30%
+[Dashboard] RPM: 2182
+[Dashboard] Speed: 37 km/h
+[Dashboard] Engine Temp: 102 C
+[Dashboard] Fuel: 22%
+[Dashboard] RPM: 2180
+[Dashboard] Speed: 37 km/h
+[Dashboard] Engine Temp: 101 C
+[Dashboard] Fuel: 22%
+[Dashboard] RPM: 2207
+[Dashboard] Speed: 37 km/h
+[Dashboard] Engine Temp: 101 C
+[Dashboard] Fuel: 30%
+[Dashboard] RPM: 794
+[Dashboard] Speed: 2 km/h
+[Dashboard] Engine Temp: 94 C
+[Dashboard] Fuel: 30%
+[Dashboard] Engine Temp: 102 C
+[Dashboard] Fuel: 22%
+[Dashboard] RPM: 2199
+[Dashboard] Speed: 37 km/h
+[Dashboard] Speed: 36 km/h
+[Dashboard] RPM: 809
+[Dashboard] Engine Temp: 228 C
+[Dashboard] Fuel: 29%
+[Dashboard] RPM: 2239
+[Dashboard] Speed: 38 km/h
+[Dashboard] Engine Temp: 102 C
+[Dashboard] Fuel: 20%
+[Dashboard] RPM: 2234
+[Dashboard] Speed: 38 km/h
+[Dashboard] Engine Temp: 103 C
+[Dashboard] Fuel: 20%
+[Dashboard] Engine Temp: 104 C
+[Dashboard] RPM: 2169
+[Dashboard] Speed: 7 km/h
+[Dashboard] Fuel: 20%
+[Dashboard] Engine Temp: 105 C
+[Dashboard] RPM: 1151
+[Dashboard] Speed: 31 km/h
+[Dashboard] RPM: 1251
+[Dashboard] Engine Temp: 92 C
+[Dashboard] Speed: 17 km/h
+[Dashboard] Fuel: 20%
+[Dashboard] RPM: 1373
+[Dashboard] Engine Temp: 91 C
+[Dashboard] RPM: 1465
+[Dashboard] Speed: 19 km/h
+[Dashboard] Engine Temp: 90 C
+[Dashboard] Fuel: 28%
+[Dashboard] RPM: 1742
+[Dashboard] Speed: 16 km/h
+[Dashboard] Engine Temp: 104 C
+[Dashboard] Fuel: 20%
+[Dashboard] RPM: 1665
+[Dashboard] Engine Temp: 185 C
+[Dashboard] Speed: 15 km/h
+[Dashboard] Fuel: 20%
+[Dashboard] RPM: 1353
+[Dashboard] Speed: 22 km/h
+[Dashboard] Engine Temp: 105 C
+[Dashboard] Speed: 16 km/h
+[Dashboard] Engine Temp: 92 C
+[Dashboard] RPM: 1414
+[Dashboard] Fuel: 20%
+[Dashboard] RPM: 1634
+[Dashboard] Speed: 23 km/h
+[Dashboard] Engine Temp: 105 C
+[Dashboard] Speed: 26 km/h
+[Dashboard] RPM: 1401
+[Dashboard] Engine Temp: 93 C
+[Dashboard] Fuel: 20%
+[Dashboard] RPM: 1412
+[Dashboard] Engine Temp: 92 C
+[Dashboard] Speed: 15 km/h
+[Dashboard] RPM: 1700
+[Dashboard] Speed: 25 km/h
+[Dashboard] Engine Temp: 106 C
+[Dashboard] Fuel: 20%
+[Dashboard] RPM: 1273
+[Dashboard] Speed: 14 km/h
+[Dashboard] Engine Temp: 90 C
+[Dashboard] RPM: 1309
+[Dashboard] Speed: 15 km/h
+[Dashboard] Fuel: 28%
+[Dashboard] Engine Temp: 107 C
+[Dashboard] RPM: 1360
+[Dashboard] Speed: 16 km/h
+[Dashboard] Engine Temp: 89 C
+[Dashboard] Fuel: 28%
+[Dashboard] RPM: 1286
+[Dashboard] Speed: 14 km/h
+[Dashboard] Engine Temp: 90 C
+[Dashboard] RPM: 1588
+[Dashboard] Speed: 22 km/h
+[Dashboard] Engine Temp: 106 C
+[Dashboard] Fuel: 28%
+[Dashboard] RPM: 1613
+[Dashboard] Speed: 21 km/h
+[Dashboard] Engine Temp: 89 C
+[Dashboard] RPM: 1524
+[Dashboard] Speed: 25 km/h
+[Dashboard] Engine Temp: 209 C
+[Dashboard] Fuel: 18%
+[Dashboard] RPM: 1654
+[Dashboard] Speed: 23 km/h
+[Dashboard] Engine Temp: 89 C
+[Dashboard] Fuel: 186%
+[Dashboard] RPM: 1617
+[Dashboard] Speed: 22 km/h
+[Dashboard] Engine Temp: 90 C
+[Dashboard] Fuel: 26%
+[Dashboard] RPM: 1454
+[Dashboard] Speed: 18 km/h
+[Dashboard] Engine Temp: 89 C
+[Dashboard] Fuel: 26%
+[Dashboard] Fuel: 17%
+[Dashboard] RPM: 1400
+[Dashboard] Speed: 165 km/h
+[Dashboard] Engine Temp: 103 C
+[Dashboard] Speed: 91 km/h
+[Dashboard] RPM: 44291
+[Dashboard] Engine Temp: 89 C
+[Dashboard] Fuel: 26%
+[Dashboard] RPM: 1459
+[Dashboard] Speed: 18 km/h
+[Dashboard] Engine Temp: 103 C
+[Dashboard] Fuel: 17%
+[Dashboard] Speed: 10 km/h
+[Dashboard] RPM: 1585
+[Dashboard] Engine Temp: 91 C
+[Dashboard] Fuel: 17%
+[Dashboard] RPM: 1525
+[Dashboard] Speed: 20 km/h
+[Dashboard] Engine Temp: 92 C
+[Dashboard] RPM: 1428
+[Dashboard] Speed: 18 km/h
+[Dashboard] Fuel: 26%
+[Dashboard] RPM: 1512
+[Dashboard] Speed: 20 km/h
+[Dashboard] Engine Temp: 91 C
+[Dashboard] Fuel: 25%
+[Dashboard] RPM: 1414
+[Dashboard] Speed: 17 km/h
+[Dashboard] Engine Temp: 90 C
+[Dashboard] Engine Temp: 105 C
+[Dashboard] RPM: 1393
+[Dashboard] Speed: 17 km/h
+[Dashboard] Fuel: 25%
+[Dashboard] RPM: 1707
+[Dashboard] Speed: 25 km/h
+[Dashboard] Engine Temp: 105 C
+[Dashboard] Fuel: 17%
+[Dashboard] RPM: 1641
+[Dashboard] Speed: 23 km/h
+[Dashboard] Fuel: 17%
+[Dashboard] Engine Temp: 91 C
+[Dashboard] RPM: 1803
+[Dashboard] Speed: 27 km/h
+[Dashboard] Engine Temp: 106 C
+[Dashboard] Fuel: 17%
+[Dashboard] Speed: 27 km/h
+[Dashboard] RPM: 1438
+[Dashboard] Engine Temp: 91 C
+[Dashboard] Fuel: 25%
+[Dashboard] RPM: 1345
+[Dashboard] Speed: 16 km/h
+[Dashboard] Engine Temp: 90 C
+[Dashboard] RPM: 1759
+[Dashboard] Fuel: 25%
+[Dashboard] Speed: 15 km/h
+[Dashboard] Speed: 25 km/h
+[Dashboard] Engine Temp: 108 C
+[Dashboard] RPM: 1146
+[Dashboard] RPM: 1643
+[Dashboard] Speed: 23 km/h
+[Dashboard] Engine Temp: 107 C
+[Dashboard] Fuel: 17%
+[Dashboard] RPM: 1110
+[Dashboard] Engine Temp: 90 C
+[Dashboard] Fuel: 25%
+[Dashboard] Speed: 224 km/h
+[Dashboard] RPM: 1011
+[Dashboard] Speed: 7 km/h
+[Dashboard] Engine Temp: 90 C
+[Dashboard] Fuel: 17%
+[Dashboard] Speed: 18 km/h
+[Dashboard] RPM: 847
+[Dashboard] Engine Temp: 90 C
+[Dashboard] Fuel: 23%
+[Dashboard] RPM: 937
+[Dashboard] Engine Temp: 89 C
+[Dashboard] Speed: 21 km/h
+[Dashboard] RPM: 707
+[Dashboard] Fuel: 15%
+[Dashboard] Engine Temp: 90 C
+[Dashboard] RPM: 909
+[Dashboard] Speed: 5 km/h
+[Dashboard] Engine Temp: 89 C
+[Dashboard] Fuel: 14%
+[Dashboard] RPM: 913
+[Dashboard] Speed: 5 km/h
+[Dashboard] Engine Temp: 127 C
+[Dashboard] RPM: 1712
+[Dashboard] Speed: 25 km/h
+[Dashboard] Engine Temp: 107 C
+[Dashboard] Fuel: 13%
+[Dashboard] RPM: 1837
+[Dashboard] Speed: 28 km/h
+[Dashboard] Engine Temp: 91 C
+[Dashboard] Fuel: 60%
+[Dashboard] RPM: 1889
+[Dashboard] Speed: 29 km/h
+[Dashboard] Engine Temp: 108 C
+[Dashboard] Speed: 2 km/h
+[Dashboard] Engine Temp: 92 C
+[Dashboard] RPM: 1843
+[Dashboard] Fuel: 13%
+[Dashboard] RPM: 1722
+[Dashboard] Speed: 2 km/h
+[Dashboard] Engine Temp: 93 C
+[Dashboard] Fuel: 22%
+[Dashboard] Speed: 27 km/h
+[Dashboard] Engine Temp: 110 C
+[Dashboard] Fuel: 13%
+[Dashboard] RPM: 770
+[Dashboard] RPM: 835
+[Dashboard] Speed: 3 km/h
+[Dashboard] Fuel: 22%
+[Dashboard] Engine Temp: 92 C
+[Dashboard] RPM: 1713
+[Dashboard] Speed: 25 km/h
+[Dashboard] Engine Temp: 111 C
+[Dashboard] Fuel: 12%
+[Dashboard] RPM: 1859
+[Dashboard] Speed: 28 km/h
+[Dashboard] Engine Temp: 201 C
+[Dashboard] Fuel: 12%
+[Dashboard] RPM: 1838
+[Dashboard] Speed: 28 km/h
+[Dashboard] Engine Temp: 112 C
+[Dashboard] Fuel: 22%
+[Dashboard] RPM: 795
+[Dashboard] Speed: 2 km/h
+[Dashboard] Engine Temp: 92 C
+[Dashboard] Fuel: 22%
+[Dashboard] RPM: 1838
+[Dashboard] Speed: 3 km/h
+[Dashboard] Engine Temp: 112 C
+[Dashboard] RPM: 1845
+[Dashboard] Speed: 28 km/h
+[Dashboard] Engine Temp: 92 C
+[Dashboard] Fuel: 22%
+[Dashboard] RPM: 930
+[Dashboard] Speed: 5 km/h
+[Dashboard] RPM: 1752
+[Dashboard] Fuel: 177%
+[Dashboard] Speed: 7 km/h
+[Dashboard] Engine Temp: 92 C
+[Dashboard] Speed: 26 km/h
+[Dashboard] Engine Temp: 112 C
+[Dashboard] Fuel: 22%
+[Dashboard] RPM: 991
+[Dashboard] RPM: 1045
+[Dashboard] Speed: 8 km/h
+[Dashboard] Engine Temp: 92 C
+[Dashboard] Fuel: 22%
+[Dashboard] RPM: 934
+[Dashboard] Speed: 5 km/h
+[Dashboard] Engine Temp: 91 C
+[Dashboard] Fuel: 22%
+[Dashboard] RPM: 938
+[Dashboard] Speed: 5 km/h
+[Dashboard] Engine Temp: 92 C
+[Dashboard] RPM: 1328
+[Dashboard] Speed: 15 km/h
+[Dashboard] Engine Temp: 110 C
+[Dashboard] Fuel: 11%
+[Dashboard] RPM: 919
+[Dashboard] Speed: 5 km/h
+[Dashboard] Engine Temp: 92 C
+[Dashboard] Speed: 16 km/h
+[Dashboard] Engine Temp: 91 C
+[Dashboard] Fuel: 22%
+[Dashboard] RPM: 1440
+[Dashboard] RPM: 940
+[Dashboard] Speed: 6 km/h
+[Dashboard] Engine Temp: 23 C
+[Dashboard] Fuel: 22%
+[Dashboard] RPM: 1023
+[Dashboard] Speed: 8 km/h
+[Dashboard] Engine Temp: 92 C
+[Dashboard] Fuel: 22%
+[Dashboard] RPM: 1624
+[Dashboard] Speed: 23 km/h
+[Dashboard] Engine Temp: 111 C
+[Dashboard] Fuel: 22%
+[Dashboard] RPM: 1723
+[Dashboard] Fuel: 168%
+[Dashboard] Speed: 7 km/h
+[Dashboard] Engine Temp: 92 C
+[Dashboard] RPM: 901
+[Dashboard] Speed: 5 km/h
+[Dashboard] Engine Temp: 91 C
+[Dashboard] Fuel: 22%
+[Dashboard] RPM: 1021
+[Dashboard] Speed: 8 km/h
+[Dashboard] Engine Temp: 90 C
+[Dashboard] Fuel: 22%
+[Dashboard] RPM: 918
+[Dashboard] Speed: 5 km/h
+[Dashboard] Engine Temp: 90 C
+[Dashboard] Fuel: 21%
+[Dashboard] RPM: 1662
+[Dashboard] Speed: 112 km/h
+[Dashboard] Engine Temp: 115 C
+[Dashboard] Fuel: 11%
+[Dashboard] Speed: 27 km/h
+[Dashboard] Engine Temp: 114 C
+[Dashboard] Fuel: 20%
+[Dashboard] RPM: 1178
+[Dashboard] RPM: 1806
+[Dashboard] Speed: 27 km/h
+[Dashboard] Engine Temp: 114 C
+[Dashboard] Fuel: 10%
+[Dashboard] RPM: 1900
+[Dashboard] Speed: 30 km/h
+[Dashboard] Engine Temp: 114 C
+[Dashboard] Speed: 15 km/h
+[Dashboard] RPM: 1388
+[Dashboard] Fuel: 20%
+[Dashboard] RPM: 1307
+[Dashboard] Speed: 15 km/h
+[Dashboard] Engine Temp: 142 C
+[Dashboard] Fuel: 20%
+[Dashboard] Speed: 27 km/h
+[Dashboard] Engine Temp: 114 C
+[Dashboard] RPM: 1266
+[Dashboard] Fuel: 9%
+[Dashboard] Engine Temp: 91 C
+[Dashboard] RPM: 1302
+[Dashboard] Speed: 15 km/h
+[Dashboard] Fuel: 8%
+[Dashboard] RPM: 1747
+[Dashboard] Speed: 26 km/h
+[Dashboard] Engine Temp: 113 C
+[Dashboard] Fuel: 19%
+[Dashboard] RPM: 1175
+[Dashboard] Speed: 11 km/h
+[Dashboard] Speed: 24 km/h
+[Dashboard] Engine Temp: 113 C
+[Dashboard] RPM: 1618
+[Dashboard] Fuel: 8%
+[Dashboard] RPM: 1103
+[Dashboard] Speed: 10 km/h
+[Dashboard] Engine Temp: 93 C
+[Dashboard] Fuel: 8%
+[Dashboard] Speed: 8 km/h
+[Dashboard] RPM: 1357
+[Dashboard] Engine Temp: 93 C
+[Dashboard] Fuel: 19%
+[Dashboard] Engine Temp: 115 C
+[Dashboard] RPM: 1687
+[Dashboard] Speed: 24 km/h
+[Dashboard] RPM: 978
+[Dashboard] Engine Temp: 92 C
+[Dashboard] Fuel: 19%
+[Dashboard] RPM: 954
+[Dashboard] Engine Temp: 114 C
+[Dashboard] Fuel: 19%
+[Dashboard] Fuel: 8%
+[Dashboard] RPM: 767
+[Dashboard] Speed: 21 km/h
+[Dashboard] Engine Temp: 113 C
+[Dashboard] RPM: 1533
+[Dashboard] Speed: 20 km/h
+[Dashboard] Engine Temp: 113 C
+[Dashboard] Fuel: 8%
+[Dashboard] RPM: 1525
+[Dashboard] Speed: 20 km/h
+[Dashboard] Engine Temp: 114 C
+[Dashboard] Fuel: 8%
+[Dashboard] RPM: 778
+[Dashboard] Speed: 1 km/h
+[Dashboard] Engine Temp: 115 C
+[Dashboard] RPM: 836
+[Dashboard] Speed: 3 km/h
+[Dashboard] Fuel: 17%
+[Dashboard] RPM: 700
+[Dashboard] Engine Temp: 93 C
+[Dashboard] Speed: 21 km/h
+[Dashboard] Fuel: 17%
+[Dashboard] RPM: 1599
+[Dashboard] Speed: 22 km/h
+[Dashboard] Engine Temp: 159 C
+[Dashboard] Fuel: 7%
+[Dashboard] RPM: 1705
+[Dashboard] Speed: 0 km/h
+[Dashboard] Engine Temp: 92 C
+[Dashboard] Fuel: 17%
+[Dashboard] RPM: 736
+[Dashboard] Speed: 0 km/h
+[Dashboard] Engine Temp: 92 C
+[Dashboard] Fuel: 7%
+[Dashboard] RPM: 705
+[Dashboard] Engine Temp: 93 C
+[Dashboard] Speed: 0 km/h
+[Dashboard] RPM: 48500
+[Dashboard] Speed: 4 km/h
+[Dashboard] Engine Temp: 116 C
+[Dashboard] Fuel: 7%
+[Dashboard] RPM: 790
+[Dashboard] Speed: 2 km/h
+[Dashboard] Engine Temp: 91 C
+[Dashboard] Fuel: 7%
+[Dashboard] RPM: 850
+[Dashboard] Speed: 3 km/h
+[Dashboard] Engine Temp: 117 C
+[Dashboard] RPM: 1313
+[Dashboard] Speed: 15 km/h
+[Dashboard] Engine Temp: 118 C
+[Dashboard] RPM: 1052
+[Dashboard] Speed: 8 km/h
+[Dashboard] Engine Temp: 92 C
+[Dashboard] Fuel: 16%
+[Dashboard] RPM: 753
+[Dashboard] Engine Temp: 92 C
+[Dashboard] Speed: 3 km/h
+[Dashboard] Fuel: 16%
+[Dashboard] RPM: 988
+[Dashboard] Engine Temp: 116 C
+[Dashboard] Speed: 14 km/h
+[Dashboard] Engine Temp: 194 C
+[Dashboard] RPM: 1131
+[Dashboard] Speed: 8 km/h
+[Dashboard] Fuel: 16%
+[Dashboard] RPM: 744
+[Dashboard] Fuel: 7%
+[Dashboard] RPM: 700
+[Dashboard] Speed: 0 km/h
+[Dashboard] Engine Temp: 92 C
+[Dashboard] RPM: 700
+[Dashboard] Speed: 0 km/h
+[Dashboard] Engine Temp: 93 C
+[Dashboard] Fuel: 6%
+[Dashboard] RPM: 1064
+[Dashboard] Speed: 9 km/h
+[Dashboard] Engine Temp: 117 C
+[Dashboard] Fuel: 6%
+[Dashboard] RPM: 944
+[Dashboard] Speed: 6 km/h
+[Dashboard] Engine Temp: 118 C
+[Dashboard] Fuel: 16%
+[Dashboard] Fuel: 6%
+[Dashboard] Speed: 2 km/h
+[Dashboard] Engine Temp: 92 C
+[Dashboard] RPM: 871
+[Dashboard] RPM: 774
+[Dashboard] Fuel: 76%
+[Dashboard] Speed: 1 km/h
+[Dashboard] Engine Temp: 92 C
+[Dashboard] Speed: 1 km/h
+[Dashboard] Engine Temp: 118 C
+[Dashboard] Fuel: 6%
+[Dashboard] RPM: 904
+[Dashboard] Engine Temp: 116 C
+[Dashboard] RPM: 988
+[Dashboard] Speed: 7 km/h
+[Dashboard] RPM: 971
+[Dashboard] Speed: 6 km/h
+[Dashboard] Engine Temp: 91 C
+[Dashboard] Fuel: 15%
+[Dashboard] RPM: 29962
+[Dashboard] Speed: 3 km/h
+[Dashboard] Engine Temp: 91 C
+[Dashboard] Engine Temp: 114 C
+[Dashboard] Fuel: 240%
+[Dashboard] RPM: 883
+[Dashboard] Speed: 1 km/h
+[Dashboard] Speed: 4 km/h
+[Dashboard] Engine Temp: 114 C
+[Dashboard] Fuel: 4%
+[Dashboard] RPM: 815
+[Dashboard] RPM: 786
+[Dashboard] Speed: 2 km/h
+[Dashboard] Engine Temp: 113 C
+[Dashboard] RPM: 804
+[Dashboard] Speed: 2 km/h
+[Dashboard] Engine Temp: 90 C
+[Dashboard] Fuel: 13%
+[Dashboard] Speed: 2 km/h
+[Dashboard] RPM: 700
+[Dashboard] Engine Temp: 113 C
+[Dashboard] Fuel: 13%
+[Dashboard] Fuel: 4%
+[Dashboard] RPM: 955
+[Dashboard] Speed: 6 km/h
+[Dashboard] Engine Temp: 90 C
+[Dashboard] RPM: 700
+[Dashboard] Speed: 0 km/h
+[Dashboard] Engine Temp: 190 C
+[Dashboard] Fuel: 4%
+[Dashboard] RPM: 744
+[Dashboard] Speed: 6 km/h
+[Dashboard] Engine Temp: 92 C
+[Dashboard] Fuel: 12%
+[Dashboard] Engine Temp: 113 C
+[Dashboard] RPM: 700
+[Dashboard] Speed: 34 km/h
+[Dashboard] Fuel: 119%
+[Dashboard] Fuel: 12%
+[Dashboard] RPM: 741
+[Dashboard] Speed: 1 km/h
+[Dashboard] Engine Temp: 90 C
+[Dashboard] RPM: 785
+[Dashboard] Speed: 2 km/h
+[Dashboard] Engine Temp: 91 C
+[Dashboard] Fuel: 4%
+[Dashboard] RPM: 769
+[Dashboard] Speed: 1 km/h
+[Dashboard] Engine Temp: 114 C
+[Dashboard] Fuel: 4%
+[Dashboard] RPM: 793
+[Dashboard] Speed: 254 km/h
+[Dashboard] Engine Temp: 115 C
+[Dashboard] RPM: 855
+[Dashboard] Engine Temp: 90 C
+[Dashboard] Speed: 5 km/h
+[Dashboard] Fuel: 137%
+[Dashboard] RPM: 827
+[Dashboard] Speed: 3 km/h
+[Dashboard] Engine Temp: 91 C
+[Dashboard] Fuel: 11%
+[Dashboard] RPM: 952
+[Dashboard] Speed: 6 km/h
+[Dashboard] Engine Temp: 115 C
+[Dashboard] Fuel: 11%
+[Dashboard] Fuel: 4%
+[Dashboard] RPM: 725
+[Dashboard] Speed: 0 km/h
+[Dashboard] Engine Temp: 92 C
+[Dashboard] RPM: 700
+[Dashboard] Speed: 0 km/h
+[Dashboard] Engine Temp: 71 C
+[Dashboard] Fuel: 4%
+[Dashboard] RPM: 962
+[Dashboard] Speed: 6 km/h
+[Dashboard] Engine Temp: 58 C
+[Dashboard] Fuel: 11%
+[Dashboard] Engine Temp: 116 C
+[Dashboard] RPM: 803
+[Dashboard] Speed: 2 km/h
+[Dashboard] Fuel: 4%
+[Dashboard] Engine Temp: 92 C
+[Dashboard] RPM: 956
+[Dashboard] Speed: 1 km/h
+[Dashboard] RPM: 942
+[Dashboard] Speed: 6 km/h
+[Dashboard] Engine Temp: 93 C
+[Dashboard] Fuel: 4%
+[Dashboard] Fuel: 10%
+[Dashboard] RPM: 785
+[Dashboard] Speed: 162 km/h
+[Dashboard] Engine Temp: 92 C
+[Dashboard] RPM: 808
+[Dashboard] Speed: 2 km/h
+[Dashboard] Engine Temp: 115 C
+[Dashboard] Fuel: 3%
+[Dashboard] RPM: 880
+[Dashboard] Speed: 4 km/h
+[Dashboard] Engine Temp: 91 C
+[Dashboard] RPM: 847
+[Dashboard] Speed: 7 km/h
+[Dashboard] Engine Temp: 116 C
+[Dashboard] Fuel: 10%
+[Dashboard] RPM: 1100
+[Dashboard] Speed: 10 km/h
+[Dashboard] Engine Temp: 90 C
+[Dashboard] RPM: 1152
+[Dashboard] Speed: 11 km/h
+[Dashboard] Engine Temp: 117 C
+[Dashboard] Fuel: 3%
+[Dashboard] Engine Temp: 89 C
+[Dashboard] RPM: 1150
+[Dashboard] Speed: 11 km/h
+[Dashboard] Fuel: 3%
+[Dashboard] RPM: 1148
+[Dashboard] Speed: 11 km/h
+[Dashboard] Engine Temp: 116 C
+[Dashboard] Fuel: 8%
+[Dashboard] RPM: 735
+[Dashboard] Speed: 0 km/h
+[Dashboard] Engine Temp: 90 C
+[Dashboard] Fuel: 2%
+[Dashboard] RPM: 868
+[Dashboard] Engine Temp: 91 C
+[Dashboard] Speed: 6 km/h
+[Dashboard] Engine Temp: 115 C
+[Dashboard] Fuel: 2%
+[Dashboard] RPM: 877
+[Dashboard] RPM: 889
+[Dashboard] Engine Temp: 115 C
+[Dashboard] Speed: 5 km/h
+[Dashboard] Fuel: 2%
+[Dashboard] Engine Temp: 89 C
+[Dashboard] RPM: 962
+[Dashboard] Speed: 6 km/h
+[Dashboard] RPM: 981
+[Dashboard] Engine Temp: 90 C
+[Dashboard] Fuel: 7%
+[Dashboard] Speed: 4 km/h
+[Dashboard] RPM: 982
+[Dashboard] Speed: 7 km/h
+[Dashboard] Engine Temp: 115 C
+[Dashboard] Fuel: 1%
+[Dashboard] RPM: 1113
+[Dashboard] Speed: 3 km/h
+[Dashboard] Engine Temp: 90 C
+[Dashboard] Fuel: 1%
+[Dashboard] RPM: 878
+[Dashboard] Speed: 4 km/h
+[Dashboard] Engine Temp: 89 C
+[Dashboard] Fuel: 6%
+[Dashboard] RPM: 1189
+[Dashboard] Speed: 12 km/h
+[Dashboard] Engine Temp: 115 C
+[Dashboard] Fuel: 5%
+[Dashboard] RPM: 1114
+[Dashboard] Fuel: 1%
+[Dashboard] Speed: 5 km/h
+[Dashboard] RPM: 944
+[Dashboard] Speed: 6 km/h
+[Dashboard] Engine Temp: 90 C
+[Dashboard] Fuel: 5%
+[Dashboard] RPM: 830
+[Dashboard] Speed: 3 km/h
+[Dashboard] Engine Temp: 90 C
+[Dashboard] Fuel: 5%
+[Dashboard] RPM: 797
+[Dashboard] Speed: 2 km/h
+[Dashboard] Fuel: 5%
+[Dashboard] Engine Temp: 113 C
+[Dashboard] RPM: 1090
+[Dashboard] Speed: 9 km/h
+[Dashboard] Engine Temp: 114 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 713
+[Dashboard] Speed: 7 km/h
+[Dashboard] Engine Temp: 113 C
+[Dashboard] Fuel: 0%
+[Dashboard] Speed: 155 km/h
+[Dashboard] Engine Temp: 90 C
+[Dashboard] RPM: 1043
+[Dashboard] Fuel: 0%
+[Dashboard] Speed: 0 km/h
+[Dashboard] Engine Temp: 90 C
+[Dashboard] Fuel: 5%
+[Dashboard] RPM: 700
+[Dashboard] RPM: 700
+[Dashboard] Speed: 0 km/h
+[Dashboard] Engine Temp: 90 C
+[Dashboard] Fuel: 5%
+[Dashboard] Speed: 9 km/h
+[Dashboard] Engine Temp: 114 C
+[Dashboard] RPM: 700
+[Dashboard] Fuel: 5%
+[Dashboard] RPM: 1266
+[Dashboard] Speed: 14 km/h
+[Dashboard] Engine Temp: 114 C
+[Dashboard] Fuel: 5%
+[Dashboard] RPM: 1270
+[Dashboard] Speed: 1 km/h
+[Dashboard] Engine Temp: 91 C
+[Dashboard] Fuel: 4%
+[Dashboard] RPM: 780
+[Dashboard] Speed: 14 km/h
+[Dashboard] Engine Temp: 92 C
+[Dashboard] Fuel: 4%
+[Dashboard] RPM: 2068
+[Dashboard] Speed: 2 km/h
+[Dashboard] Engine Temp: 93 C
+[Dashboard] Fuel: 0%
+[Dashboard] Speed: 12 km/h
+[Dashboard] Engine Temp: 115 C
+[Dashboard] RPM: 882
+[Dashboard] Fuel: 3%
+[Dashboard] RPM: 1248
+[Dashboard] Speed: 13 km/h
+[Dashboard] Engine Temp: 93 C
+[Dashboard] Fuel: 3%
+[Dashboard] RPM: 951
+[Dashboard] Speed: 6 km/h
+[Dashboard] Engine Temp: 114 C
+[Dashboard] Fuel: 3%
+[Dashboard] RPM: 1047
+[Dashboard] Speed: 8 km/h
+[Dashboard] Engine Temp: 113 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1318
+[Dashboard] Speed: 11 km/h
+[Dashboard] Engine Temp: 93 C
+[Dashboard] Fuel: 0%
+[Dashboard] Speed: 14 km/h
+[Dashboard] RPM: 1423
+[Dashboard] Engine Temp: 145 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1388
+[Dashboard] Speed: 209 km/h
+[Dashboard] Engine Temp: 113 C
+[Dashboard] Fuel: 2%
+[Dashboard] RPM: 1474
+[Dashboard] Fuel: 103%
+[Dashboard] Speed: 12 km/h
+[Dashboard] Engine Temp: 93 C
+[Dashboard] RPM: 1127
+[Dashboard] Speed: 19 km/h
+[Dashboard] Engine Temp: 114 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1481
+[Dashboard] Speed: 19 km/h
+[Dashboard] Engine Temp: 115 C
+[Dashboard] Fuel: 1%
+[Dashboard] Fuel: 254%
+[Dashboard] RPM: 1117
+[Dashboard] Speed: 10 km/h
+[Dashboard] Engine Temp: 93 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1470
+[Dashboard] Speed: 17 km/h
+[Dashboard] Engine Temp: 115 C
+[Dashboard] RPM: 1337
+[Dashboard] Speed: 11 km/h
+[Dashboard] Engine Temp: 94 C
+[Dashboard] RPM: 56059
+[Dashboard] Speed: 129 km/h
+[Dashboard] Engine Temp: 48 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1250
+[Dashboard] Speed: 13 km/h
+[Dashboard] Engine Temp: 93 C
+[Dashboard] Fuel: 0%
+[Dashboard] Engine Temp: 113 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1200
+[Dashboard] Speed: 12 km/h
+[Dashboard] RPM: 1288
+[Dashboard] Speed: 14 km/h
+[Dashboard] Engine Temp: 92 C
+[Dashboard] Fuel: 0%
+[Dashboard] Engine Temp: 113 C
+[Dashboard] RPM: 988
+[Dashboard] Speed: 7 km/h
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1250
+[Dashboard] Speed: 13 km/h
+[Dashboard] Engine Temp: 115 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1205
+[Dashboard] Speed: 12 km/h
+[Dashboard] Engine Temp: 116 C
+[Dashboard] RPM: 901
+[Dashboard] Speed: 5 km/h
+[Dashboard] Engine Temp: 93 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1085
+[Dashboard] Engine Temp: 114 C
+[Dashboard] Speed: 3 km/h
+[Dashboard] Fuel: 0%
+[Dashboard] Speed: 8 km/h
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 787
+[Dashboard] Engine Temp: 95 C
+[Dashboard] RPM: 1021
+[Dashboard] Speed: 8 km/h
+[Dashboard] Engine Temp: 114 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 806
+[Dashboard] Speed: 2 km/h
+[Dashboard] Engine Temp: 94 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1073
+[Dashboard] Speed: 9 km/h
+[Dashboard] Engine Temp: 114 C
+[Dashboard] RPM: 998
+[Dashboard] Speed: 7 km/h
+[Dashboard] Engine Temp: 183 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 912
+[Dashboard] Speed: 5 km/h
+[Dashboard] Engine Temp: 96 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 848
+[Dashboard] Speed: 3 km/h
+[Dashboard] Engine Temp: 95 C
+[Dashboard] Fuel: 0%
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1003
+[Dashboard] Speed: 7 km/h
+[Dashboard] Engine Temp: 116 C
+[Dashboard] RPM: 886
+[Dashboard] Speed: 4 km/h
+[Dashboard] Engine Temp: 96 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 885
+[Dashboard] Speed: 4 km/h
+[Dashboard] Engine Temp: 116 C
+[Dashboard] Fuel: 0%
+[Dashboard] Engine Temp: 96 C
+[Dashboard] RPM: 952
+[Dashboard] Speed: 6 km/h
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1172
+[Dashboard] Speed: 11 km/h
+[Dashboard] Engine Temp: 115 C
+[Dashboard] Fuel: 0%
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 702
+[Dashboard] Speed: 0 km/h
+[Dashboard] Engine Temp: 96 C
+[Dashboard] Speed: 4 km/h
+[Dashboard] Engine Temp: 172 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1074
+[Dashboard] RPM: 950
+[Dashboard] Speed: 6 km/h
+[Dashboard] Engine Temp: 95 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 34262
+[Dashboard] Speed: 0 km/h
+[Dashboard] Engine Temp: 95 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 715
+[Dashboard] Speed: 0 km/h
+[Dashboard] Engine Temp: 94 C
+[Dashboard] RPM: 902
+[Dashboard] Speed: 5 km/h
+[Dashboard] Engine Temp: 109 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 783
+[Dashboard] Speed: 6 km/h
+[Dashboard] Speed: 0 km/h
+[Dashboard] Engine Temp: 95 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 790
+[Dashboard] Speed: 2 km/h
+[Dashboard] Engine Temp: 96 C
+[Dashboard] RPM: 1122
+[Dashboard] Fuel: 0%
+[Dashboard] Engine Temp: 108 C
+[Dashboard] RPM: 1138
+[Dashboard] Speed: 10 km/h
+[Dashboard] RPM: 1113
+[Dashboard] Speed: 10 km/h
+[Dashboard] Engine Temp: 108 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 790
+[Dashboard] Speed: 2 km/h
+[Dashboard] Engine Temp: 95 C
+[Dashboard] RPM: 1154
+[Dashboard] Speed: 1 km/h
+[Dashboard] Engine Temp: 95 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 777
+[Dashboard] Speed: 1 km/h
+[Dashboard] Engine Temp: 110 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1189
+[Dashboard] Speed: 12 km/h
+[Dashboard] Engine Temp: 109 C
+[Dashboard] Fuel: 0%
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 846
+[Dashboard] Speed: 3 km/h
+[Dashboard] Engine Temp: 97 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 700
+[Dashboard] Speed: 0 km/h
+[Dashboard] Engine Temp: 95 C
+[Dashboard] Speed: 192 km/h
+[Dashboard] RPM: 788
+[Dashboard] Engine Temp: 153 C
+[Dashboard] Fuel: 0%
+[Dashboard] Speed: 2 km/h
+[Dashboard] RPM: 1359
+[Dashboard] Engine Temp: 111 C
+[Dashboard] Speed: 23 km/h
+[Dashboard] RPM: 700
+[Dashboard] Engine Temp: 94 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1889
+[Dashboard] Speed: 29 km/h
+[Dashboard] Engine Temp: 113 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 722
+[Dashboard] Speed: 0 km/h
+[Dashboard] Engine Temp: 113 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1921
+[Dashboard] Engine Temp: 92 C
+[Dashboard] Fuel: 0%
+[Dashboard] Speed: 1 km/h
+[Dashboard] Engine Temp: 112 C
+[Dashboard] RPM: 843
+[Dashboard] Speed: 3 km/h
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 881
+[Dashboard] Speed: 4 km/h
+[Dashboard] Engine Temp: 91 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 830
+[Dashboard] Speed: 3 km/h
+[Dashboard] Engine Temp: 90 C
+[Dashboard] RPM: 874
+[Dashboard] Speed: 4 km/h
+[Dashboard] Fuel: 0%
+[Dashboard] Speed: 3 km/h
+[Dashboard] RPM: 824
+[Dashboard] Engine Temp: 111 C
+[Dashboard] Fuel: 0%
+[Dashboard] Speed: 5 km/h
+[Dashboard] Engine Temp: 90 C
+[Dashboard] RPM: 1825
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1885
+[Dashboard] Speed: 29 km/h
+[Dashboard] Fuel: 0%
+[Dashboard] Engine Temp: 91 C
+[Dashboard] RPM: 1975
+[Dashboard] Speed: 31 km/h
+[Dashboard] Engine Temp: 249 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 2001
+[Dashboard] Speed: 32 km/h
+[Dashboard] Engine Temp: 113 C
+[Dashboard] Engine Temp: 91 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1968
+[Dashboard] Speed: 31 km/h
+[Dashboard] RPM: 798
+[Dashboard] Speed: 2 km/h
+[Dashboard] Engine Temp: 114 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 2006
+[Dashboard] Speed: 0 km/h
+[Dashboard] Engine Temp: 90 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 2102
+[Dashboard] Speed: 35 km/h
+[Dashboard] Engine Temp: 113 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1852
+[Dashboard] Speed: 28 km/h
+[Dashboard] Engine Temp: 112 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 703
+[Dashboard] Speed: 0 km/h
+[Dashboard] Engine Temp: 92 C
+[Dashboard] RPM: 714
+[Dashboard] Speed: 25 km/h
+[Dashboard] Engine Temp: 113 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 17506
+[Dashboard] Speed: 60 km/h
+[Dashboard] Engine Temp: 114 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1560
+[Dashboard] Speed: 21 km/h
+[Dashboard] Engine Temp: 113 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1574
+[Dashboard] Speed: 21 km/h
+[Dashboard] Engine Temp: 112 C
+[Dashboard] Speed: 11 km/h
+[Dashboard] Engine Temp: 94 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1559
+[Dashboard] Speed: 21 km/h
+[Dashboard] Engine Temp: 111 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1602
+[Dashboard] Speed: 22 km/h
+[Dashboard] Engine Temp: 111 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1589
+[Dashboard] Speed: 16 km/h
+[Dashboard] Engine Temp: 233 C
+[Dashboard] Fuel: 0%
+[Dashboard] Speed: 22 km/h
+[Dashboard] RPM: 1349
+[Dashboard] Engine Temp: 92 C
+[Dashboard] Speed: 21 km/h
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1308
+[Dashboard] RPM: 1603
+[Dashboard] Speed: 22 km/h
+[Dashboard] Engine Temp: 111 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1525
+[Dashboard] Speed: 20 km/h
+[Dashboard] Engine Temp: 239 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1528
+[Dashboard] Engine Temp: 113 C
+[Dashboard] Fuel: 0%
+[Dashboard] Speed: 13 km/h
+[Dashboard] RPM: 1558
+[Dashboard] Speed: 21 km/h
+[Dashboard] Engine Temp: 114 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1248
+[Dashboard] Speed: 13 km/h
+[Dashboard] Engine Temp: 91 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1594
+[Dashboard] Speed: 22 km/h
+[Dashboard] Engine Temp: 115 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1326
+[Dashboard] Engine Temp: 116 C
+[Dashboard] Fuel: 0%
+[Dashboard] Speed: 15 km/h
+[Dashboard] Engine Temp: 91 C
+[Dashboard] RPM: 1521
+[Dashboard] Speed: 20 km/h
+[Dashboard] Engine Temp: 115 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1430
+[Dashboard] RPM: 1343
+[Dashboard] Speed: 16 km/h
+[Dashboard] Engine Temp: 115 C
+[Dashboard] Fuel: 0%
+[Dashboard] Speed: 12 km/h
+[Dashboard] RPM: 47323
+[Dashboard] Engine Temp: 89 C
+[Dashboard] RPM: 1092
+[Dashboard] Speed: 9 km/h
+[Dashboard] Engine Temp: 114 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 53333
+[Dashboard] Speed: 10 km/h
+[Dashboard] Engine Temp: 90 C
+[Dashboard] RPM: 1062
+[Dashboard] Fuel: 0%
+[Dashboard] Speed: 74 km/h
+[Dashboard] Engine Temp: 91 C
+[Dashboard] RPM: 1130
+[Dashboard] Speed: 8 km/h
+[Dashboard] Engine Temp: 91 C
+[Dashboard] Fuel: 0%
+[Dashboard] Speed: 9 km/h
+[Dashboard] RPM: 1114
+[Dashboard] Engine Temp: 92 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1227
+[Dashboard] Speed: 13 km/h
+[Dashboard] Engine Temp: 116 C
+[Dashboard] RPM: 1206
+[Dashboard] Speed: 12 km/h
+[Dashboard] Engine Temp: 91 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1153
+[Dashboard] Fuel: 0%
+[Dashboard] Speed: 11 km/h
+[Dashboard] Engine Temp: 92 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1252
+[Dashboard] RPM: 1092
+[Dashboard] Speed: 9 km/h
+[Dashboard] Engine Temp: 117 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1025
+[Dashboard] Speed: 15 km/h
+[Dashboard] Engine Temp: 93 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1034
+[Dashboard] Speed: 8 km/h
+[Dashboard] Engine Temp: 116 C
+[Dashboard] RPM: 1505
+[Dashboard] Speed: 20 km/h
+[Dashboard] Engine Temp: 94 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1202
+[Dashboard] Speed: 12 km/h
+[Dashboard] Engine Temp: 116 C
+[Dashboard] Fuel: 0%
+[Dashboard] Speed: 13 km/h
+[Dashboard] Engine Temp: 115 C
+[Dashboard] RPM: 1351
+[Dashboard] Engine Temp: 95 C
+[Dashboard] RPM: 1392
+[Dashboard] Speed: 187 km/h
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1259
+[Dashboard] Speed: 13 km/h
+[Dashboard] Engine Temp: 94 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1260
+[Dashboard] Speed: 14 km/h
+[Dashboard] Engine Temp: 96 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1565
+[Dashboard] Speed: 21 km/h
+[Dashboard] Engine Temp: 113 C
+[Dashboard] RPM: 1259
+[Dashboard] Speed: 13 km/h
+[Dashboard] Engine Temp: 95 C
+[Dashboard] Fuel: 0%
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1330
+[Dashboard] Speed: 15 km/h
+[Dashboard] Engine Temp: 94 C
+[Dashboard] RPM: 1478
+[Dashboard] Speed: 19 km/h
+[Dashboard] Engine Temp: 113 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1302
+[Dashboard] Engine Temp: 113 C
+[Dashboard] Fuel: 0%
+[Dashboard] Speed: 23 km/h
+[Dashboard] RPM: 1207
+[Dashboard] Speed: 25 km/h
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1286
+[Dashboard] Speed: 14 km/h
+[Dashboard] Engine Temp: 248 C
+[Dashboard] Speed: 13 km/h
+[Dashboard] RPM: 1771
+[Dashboard] Engine Temp: 113 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1735
+[Dashboard] Speed: 25 km/h
+[Dashboard] Engine Temp: 93 C
+[Dashboard] Fuel: 0%
+[Dashboard] Speed: 25 km/h
+[Dashboard] RPM: 1642
+[Dashboard] Engine Temp: 93 C
+[Dashboard] Fuel: 0%
+[Dashboard] Fuel: 0%
+[Dashboard] Speed: 12 km/h
+[Dashboard] Engine Temp: 115 C
+[Dashboard] RPM: 1662
+[Dashboard] RPM: 1642
+[Dashboard] Speed: 23 km/h
+[Dashboard] Engine Temp: 95 C
+[Dashboard] Speed: 9 km/h
+[Dashboard] Engine Temp: 116 C
+[Dashboard] RPM: 1150
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1127
+[Dashboard] Engine Temp: 96 C
+[Dashboard] Speed: 12 km/h
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1100
+[Dashboard] Engine Temp: 113 C
+[Dashboard] Speed: 25 km/h
+[Dashboard] RPM: 1699
+[Dashboard] Speed: 24 km/h
+[Dashboard] Engine Temp: 97 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1785
+[Dashboard] Speed: 27 km/h
+[Dashboard] Engine Temp: 98 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 2035
+[Dashboard] Speed: 4 km/h
+[Dashboard] Engine Temp: 115 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1978
+[Dashboard] Speed: 31 km/h
+[Dashboard] Engine Temp: 98 C
+[Dashboard] RPM: 1780
+[Dashboard] Speed: 27 km/h
+[Dashboard] Engine Temp: 99 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1370
+[Dashboard] Speed: 23 km/h
+[Dashboard] Engine Temp: 99 C
+[Dashboard] RPM: 1591
+[Dashboard] Speed: 16 km/h
+[Dashboard] Engine Temp: 116 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1359
+[Dashboard] Speed: 16 km/h
+[Dashboard] Engine Temp: 117 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1396
+[Dashboard] Speed: 17 km/h
+[Dashboard] Engine Temp: 118 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1350
+[Dashboard] Speed: 16 km/h
+[Dashboard] Engine Temp: 119 C
+[Dashboard] RPM: 1232
+[Dashboard] Speed: 13 km/h
+[Dashboard] Engine Temp: 120 C
+[Dashboard] Fuel: 0%
+[Dashboard] Speed: 11 km/h
+[Dashboard] Engine Temp: 120 C
+[Dashboard] RPM: 1842
+[Dashboard] Fuel: 0%
+[Dashboard] Speed: 9 km/h
+[Dashboard] RPM: 1928
+[Dashboard] Engine Temp: 100 C
+[Dashboard] RPM: 1943
+[Dashboard] Speed: 31 km/h
+[Dashboard] Engine Temp: 101 C
+[Dashboard] Fuel: 0%
+[Dashboard] Speed: 32 km/h
+[Dashboard] RPM: 1103
+[Dashboard] Engine Temp: 121 C
+[Dashboard] RPM: 2132
+[Dashboard] Speed: 191 km/h
+[Dashboard] Engine Temp: 122 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1202
+[Dashboard] Speed: 10 km/h
+[Dashboard] Engine Temp: 121 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 2141
+[Dashboard] Speed: 36 km/h
+[Dashboard] Engine Temp: 103 C
+[Dashboard] Fuel: 0%
+[Dashboard] Speed: 11 km/h
+[Dashboard] RPM: 2125
+[Dashboard] Engine Temp: 104 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1102
+[Dashboard] Speed: 10 km/h
+[Dashboard] Engine Temp: 123 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 928
+[Dashboard] Speed: 5 km/h
+[Dashboard] Engine Temp: 123 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 2322
+[Dashboard] Speed: 40 km/h
+[Dashboard] Engine Temp: 105 C
+[Dashboard] RPM: 1031
+[Dashboard] RPM: 2379
+[Dashboard] Speed: 41 km/h
+[Dashboard] Engine Temp: 105 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 973
+[Dashboard] Speed: 6 km/h
+[Dashboard] Engine Temp: 105 C
+[Dashboard] Fuel: 0%
+[Dashboard] Speed: 41 km/h
+[Dashboard] RPM: 970
+[Dashboard] Engine Temp: 126 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 934
+[Dashboard] Speed: 5 km/h
+[Dashboard] Engine Temp: 125 C
+[Dashboard] RPM: 993
+[Dashboard] Speed: 43 km/h
+[Dashboard] Engine Temp: 106 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 2456
+[Dashboard] Engine Temp: 107 C
+[Dashboard] Speed: 7 km/h
+[Dashboard] Fuel: 0%
+[Dashboard] Speed: 5 km/h
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 2507
+[Dashboard] Speed: 45 km/h
+[Dashboard] Engine Temp: 107 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 2412
+[Dashboard] RPM: 864
+[Dashboard] Speed: 4 km/h
+[Dashboard] Engine Temp: 126 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 2404
+[Dashboard] Speed: 42 km/h
+[Dashboard] Engine Temp: 108 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 2493
+[Dashboard] Speed: 44 km/h
+[Dashboard] Engine Temp: 107 C
+[Dashboard] Fuel: 0%
+[Dashboard] Speed: 44 km/h
+[Dashboard] Engine Temp: 107 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 913
+[Dashboard] RPM: 2569
+[Dashboard] Speed: 46 km/h
+[Dashboard] Engine Temp: 108 C
+[Dashboard] Fuel: 0%
+[Dashboard] Speed: 4 km/h
+[Dashboard] RPM: 2656
+[Dashboard] Speed: 5 km/h
+[Dashboard] Engine Temp: 125 C
+[Dashboard] RPM: 831
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 2831
+[Dashboard] Speed: 53 km/h
+[Dashboard] Engine Temp: 106 C
+[Dashboard] Fuel: 0%
+[Dashboard] Engine Temp: 106 C
+[Dashboard] RPM: 1118
+[Dashboard] Speed: 10 km/h
+[Dashboard] RPM: 1117
+[Dashboard] Speed: 9 km/h
+[Dashboard] Engine Temp: 236 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1211
+[Dashboard] Speed: 53 km/h
+[Dashboard] Engine Temp: 105 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 2737
+[Dashboard] Speed: 50 km/h
+[Dashboard] Engine Temp: 105 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1218
+[Dashboard] Speed: 12 km/h
+[Dashboard] Engine Temp: 127 C
+[Dashboard] Engine Temp: 105 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1126
+[Dashboard] Speed: 10 km/h
+[Dashboard] Engine Temp: 104 C
+[Dashboard] RPM: 1195
+[Dashboard] RPM: 1202
+[Dashboard] Speed: 12 km/h
+[Dashboard] Engine Temp: 129 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1164
+[Dashboard] Speed: 11 km/h
+[Dashboard] Engine Temp: 129 C
+[Dashboard] RPM: 1158
+[Dashboard] Speed: 11 km/h
+[Dashboard] Engine Temp: 130 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 2789
+[Dashboard] Speed: 52 km/h
+[Dashboard] Engine Temp: 104 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1081
+[Dashboard] Speed: 9 km/h
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1138
+[Dashboard] Engine Temp: 105 C
+[Dashboard] Speed: 10 km/h
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 2881
+[Dashboard] Speed: 54 km/h
+[Dashboard] Engine Temp: 105 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 2923
+[Dashboard] Speed: 55 km/h
+[Dashboard] Engine Temp: 104 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 857
+[Dashboard] Speed: 3 km/h
+[Dashboard] Engine Temp: 129 C
+[Dashboard] Fuel: 0%
+[Dashboard] Speed: 56 km/h
+[Dashboard] Engine Temp: 104 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 2988
+[Dashboard] RPM: 837
+[Dashboard] Speed: 3 km/h
+[Dashboard] Engine Temp: 103 C
+[Dashboard] Fuel: 0%
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 3065
+[Dashboard] Speed: 4 km/h
+[Dashboard] Engine Temp: 102 C
+[Dashboard] RPM: 2952
+[Dashboard] Speed: 56 km/h
+[Dashboard] Engine Temp: 103 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 841
+[Dashboard] Speed: 53 km/h
+[Dashboard] Engine Temp: 102 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 2869
+[Dashboard] Speed: 3 km/h
+[Dashboard] Engine Temp: 130 C
+[Dashboard] Fuel: 0%
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 800
+[Dashboard] Speed: 2 km/h
+[Dashboard] Engine Temp: 131 C
+[Dashboard] RPM: 2851
+[Dashboard] Speed: 53 km/h
+[Dashboard] Engine Temp: 100 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1040
+[Dashboard] Speed: 8 km/h
+[Dashboard] Engine Temp: 130 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 2952
+[Dashboard] Speed: 56 km/h
+[Dashboard] Engine Temp: 97 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 3070
+[Dashboard] Speed: 59 km/h
+[Dashboard] Engine Temp: 131 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 974
+[Dashboard] Speed: 6 km/h
+[Dashboard] Engine Temp: 130 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 2995
+[Dashboard] Speed: 57 km/h
+[Dashboard] Engine Temp: 96 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1089
+[Dashboard] Speed: 9 km/h
+[Dashboard] Engine Temp: 128 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1121
+[Dashboard] Speed: 9 km/h
+[Dashboard] Engine Temp: 128 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 3013
+[Dashboard] Speed: 57 km/h
+[Dashboard] Engine Temp: 97 C
+[Dashboard] RPM: 3037
+[Dashboard] Speed: 58 km/h
+[Dashboard] Engine Temp: 97 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1093
+[Dashboard] Speed: 9 km/h
+[Dashboard] Engine Temp: 129 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1115
+[Dashboard] Speed: 10 km/h
+[Dashboard] Engine Temp: 130 C
+[Dashboard] Fuel: 119%
+[Dashboard] RPM: 995
+[Dashboard] Speed: 54 km/h
+[Dashboard] Engine Temp: 97 C
+[Dashboard] Fuel: 42%
+[Dashboard] RPM: 853
+[Dashboard] Speed: 3 km/h
+[Dashboard] Engine Temp: 127 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 2870
+[Dashboard] Speed: 54 km/h
+[Dashboard] Engine Temp: 98 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 752
+[Dashboard] Speed: 1 km/h
+[Dashboard] Engine Temp: 129 C
+[Dashboard] RPM: 3172
+[Dashboard] Speed: 61 km/h
+[Dashboard] Engine Temp: 100 C
+[Dashboard] Fuel: 0%
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 843
+[Dashboard] Speed: 3 km/h
+[Dashboard] Engine Temp: 128 C
+[Dashboard] RPM: 826
+[Dashboard] Speed: 2 km/h
+[Dashboard] Engine Temp: 128 C
+[Dashboard] RPM: 788
+[Dashboard] Fuel: 0%
+[Dashboard] Engine Temp: 99 C
+[Dashboard] Speed: 63 km/h
+[Dashboard] RPM: 700
+[Dashboard] Speed: 0 km/h
+[Dashboard] Engine Temp: 128 C
+[Dashboard] Fuel: 0%
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 3071
+[Dashboard] Speed: 59 km/h
+[Dashboard] Engine Temp: 99 C
+[Dashboard] RPM: 700
+[Dashboard] Speed: 0 km/h
+[Dashboard] Engine Temp: 128 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 3179
+[Dashboard] Speed: 0 km/h
+[Dashboard] Speed: 62 km/h
+[Dashboard] Engine Temp: 100 C
+[Dashboard] RPM: 700
+[Dashboard] RPM: 700
+[Dashboard] Speed: 0 km/h
+[Dashboard] Engine Temp: 131 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 743
+[Dashboard] Speed: 1 km/h
+[Dashboard] Engine Temp: 131 C
+[Dashboard] Fuel: 0%
+[Dashboard] Speed: 60 km/h
+[Dashboard] RPM: 885
+[Dashboard] Engine Temp: 131 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1002
+[Dashboard] Speed: 8 km/h
+[Dashboard] Engine Temp: 132 C
+[Dashboard] RPM: 984
+[Dashboard] Speed: 113 km/h
+[Dashboard] Engine Temp: 132 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1030
+[Dashboard] Speed: 8 km/h
+[Dashboard] Engine Temp: 131 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 3054
+[Dashboard] Speed: 8 km/h
+[Dashboard] Engine Temp: 132 C
+[Dashboard] Fuel: 0%
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 951
+[Dashboard] Speed: 6 km/h
+[Dashboard] Engine Temp: 131 C
+[Dashboard] RPM: 907
+[Dashboard] Speed: 5 km/h
+[Dashboard] Engine Temp: 131 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 621
+[Dashboard] Speed: 55 km/h
+[Dashboard] Engine Temp: 102 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 3015
+[Dashboard] Speed: 57 km/h
+[Dashboard] Engine Temp: 102 C
+[Dashboard] Fuel: 0%
+[Dashboard] Speed: 8 km/h
+[Dashboard] RPM: 1085
+[Dashboard] RPM: 3092
+[Dashboard] Speed: 59 km/h
+[Dashboard] Engine Temp: 103 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 2902
+[Dashboard] Speed: 55 km/h
+[Dashboard] Engine Temp: 104 C
+[Dashboard] RPM: 2813
+[Dashboard] Speed: 52 km/h
+[Dashboard] RPM: 1100
+[Dashboard] Speed: 10 km/h
+[Dashboard] Engine Temp: 132 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1013
+[Dashboard] Fuel: 0%
+[Dashboard] Speed: 7 km/h
+[Dashboard] Engine Temp: 132 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1068
+[Dashboard] Speed: 9 km/h
+[Dashboard] Engine Temp: 133 C
+[Dashboard] RPM: 2816
+[Dashboard] Speed: 52 km/h
+[Dashboard] Engine Temp: 104 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1014
+[Dashboard] Speed: 7 km/h
+[Dashboard] Engine Temp: 133 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 2989
+[Dashboard] Speed: 8 km/h
+[Dashboard] Engine Temp: 132 C
+[Dashboard] Fuel: 0%
+[Dashboard] Engine Temp: 36 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1100
+[Dashboard] Speed: 10 km/h
+[Dashboard] RPM: 1169
+[Dashboard] Speed: 9 km/h
+[Dashboard] Engine Temp: 131 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1018
+[Dashboard] Speed: 7 km/h
+[Dashboard] Fuel: 0%
+[Dashboard] Engine Temp: 105 C
+[Dashboard] RPM: 1178
+[Dashboard] Speed: 11 km/h
+[Dashboard] Engine Temp: 131 C
+[Dashboard] RPM: 2784
+[Dashboard] Speed: 52 km/h
+[Dashboard] Engine Temp: 105 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1219
+[Dashboard] Speed: 54 km/h
+[Dashboard] Engine Temp: 105 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1199
+[Dashboard] Speed: 55 km/h
+[Dashboard] Engine Temp: 106 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1206
+[Dashboard] Speed: 12 km/h
+[Dashboard] Engine Temp: 130 C
+[Dashboard] Fuel: 0%
+[Dashboard] Speed: 13 km/h
+[Dashboard] Engine Temp: 131 C
+[Dashboard] RPM: 2907
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1359
+[Dashboard] Speed: 16 km/h
+[Dashboard] Engine Temp: 132 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1432
+[Dashboard] Speed: 18 km/h
+[Dashboard] Engine Temp: 132 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 2711
+[Dashboard] Speed: 50 km/h
+[Dashboard] Engine Temp: 106 C
+[Dashboard] Fuel: 0%
+[Dashboard] Engine Temp: 133 C
+[Dashboard] RPM: 1642
+[Dashboard] Speed: 23 km/h
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 2584
+[Dashboard] Speed: 47 km/h
+[Dashboard] Engine Temp: 107 C
+[Dashboard] Fuel: 0%
+[Dashboard] Engine Temp: 133 C
+[Dashboard] RPM: 2454
+[Dashboard] Speed: 43 km/h
+[Dashboard] Fuel: 0%
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 2326
+[Dashboard] Speed: 40 km/h
+[Dashboard] Engine Temp: 107 C
+[Dashboard] RPM: 1436
+[Dashboard] Speed: 42 km/h
+[Dashboard] Engine Temp: 106 C
+[Dashboard] Fuel: 247%
+[Dashboard] RPM: 1467
+[Dashboard] Speed: 19 km/h
+[Dashboard] RPM: 1385
+[Dashboard] Speed: 40 km/h
+[Dashboard] Engine Temp: 106 C
+[Dashboard] Fuel: 0%
+[Dashboard] Speed: 18 km/h
+[Dashboard] Engine Temp: 137 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 2480
+[Dashboard] RPM: 1653
+[Dashboard] Speed: 23 km/h
+[Dashboard] Engine Temp: 106 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 2514
+[Dashboard] Speed: 25 km/h
+[Dashboard] Engine Temp: 138 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1703
+[Dashboard] Speed: 25 km/h
+[Dashboard] Engine Temp: 139 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1745
+[Dashboard] RPM: 2448
+[Dashboard] Speed: 26 km/h
+[Dashboard] Engine Temp: 140 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1852
+[Dashboard] Speed: 44 km/h
+[Dashboard] Fuel: 0%
+[Dashboard] Engine Temp: 140 C
+[Dashboard] RPM: 2552
+[Dashboard] Speed: 46 km/h
+[Dashboard] Engine Temp: 141 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 2516
+[Dashboard] Speed: 45 km/h
+[Dashboard] Engine Temp: 104 C
+[Dashboard] RPM: 2512
+[Dashboard] Speed: 45 km/h
+[Dashboard] Engine Temp: 141 C
+[Dashboard] Fuel: 0%
+[Dashboard] Engine Temp: 105 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1923
+[Dashboard] Speed: 30 km/h
+[Dashboard] Engine Temp: 142 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 2487
+[Dashboard] Speed: 189 km/h
+[Dashboard] Engine Temp: 142 C
+[Dashboard] RPM: 1912
+[Dashboard] Speed: 119 km/h
+[Dashboard] Engine Temp: 105 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 2541
+[Dashboard] RPM: 2452
+[Dashboard] Speed: 43 km/h
+[Dashboard] Engine Temp: 251 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 2484
+[Dashboard] Speed: 44 km/h
+[Dashboard] Engine Temp: 104 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1863
+[Dashboard] Speed: 28 km/h
+[Dashboard] Engine Temp: 140 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 2521
+[Dashboard] Speed: 45 km/h
+[Dashboard] Engine Temp: 106 C
+[Dashboard] RPM: 2057
+[Dashboard] Fuel: 0%
+[Dashboard] Speed: 31 km/h
+[Dashboard] Engine Temp: 181 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 2493
+[Dashboard] RPM: 1943
+[Dashboard] Speed: 31 km/h
+[Dashboard] Fuel: 0%
+[Dashboard] Engine Temp: 139 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1905
+[Dashboard] Speed: 30 km/h
+[Dashboard] RPM: 2348
+[Dashboard] Speed: 41 km/h
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1974
+[Dashboard] Speed: 31 km/h
+[Dashboard] Engine Temp: 137 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1956
+[Dashboard] Speed: 42 km/h
+[Dashboard] Engine Temp: 106 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1922
+[Dashboard] Speed: 31 km/h
+[Dashboard] RPM: 2216
+[Dashboard] Engine Temp: 107 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 2269
+[Dashboard] Speed: 40 km/h
+[Dashboard] Engine Temp: 106 C
+[Dashboard] Speed: 41 km/h
+[Dashboard] Engine Temp: 107 C
+[Dashboard] RPM: 1931
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 2041
+[Dashboard] Speed: 33 km/h
+[Dashboard] Engine Temp: 108 C
+[Dashboard] Fuel: 0%
+[Dashboard] Engine Temp: 138 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 2363
+[Dashboard] Speed: 41 km/h
+[Dashboard] RPM: 2370
+[Dashboard] Speed: 41 km/h
+[Dashboard] Engine Temp: 106 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 2047
+[Dashboard] Speed: 8 km/h
+[Dashboard] Engine Temp: 136 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 2441
+[Dashboard] Speed: 43 km/h
+[Dashboard] Engine Temp: 105 C
+[Dashboard] RPM: 2403
+[Dashboard] Speed: 42 km/h
+[Dashboard] Engine Temp: 105 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 2108
+[Dashboard] Speed: 35 km/h
+[Dashboard] Fuel: 0%
+[Dashboard] Engine Temp: 137 C
+[Dashboard] RPM: 2164
+[Dashboard] Speed: 36 km/h
+[Dashboard] Engine Temp: 137 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 2212
+[Dashboard] Speed: 37 km/h
+[Dashboard] Engine Temp: 137 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 2483
+[Dashboard] Speed: 44 km/h
+[Dashboard] Engine Temp: 104 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 2406
+[Dashboard] Speed: 42 km/h
+[Dashboard] Engine Temp: 136 C
+[Dashboard] Fuel: 0%
+[Dashboard] Fuel: 85%
+[Dashboard] Speed: 42 km/h
+[Dashboard] Engine Temp: 135 C
+[Dashboard] RPM: 2144
+[Dashboard] Speed: 36 km/h
+[Dashboard] Engine Temp: 104 C
+[Dashboard] Fuel: 0%
+[Dashboard] Speed: 41 km/h
+[Dashboard] Engine Temp: 135 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 2125
+[Dashboard] Speed: 35 km/h
+[Dashboard] Engine Temp: 103 C
+[Dashboard] RPM: 2292
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 2349
+[Dashboard] Fuel: 0%
+[Dashboard] Speed: 36 km/h
+[Dashboard] Engine Temp: 104 C
+[Dashboard] Fuel: 0%
+[Dashboard] Speed: 41 km/h
+[Dashboard] RPM: 2340
+[Dashboard] RPM: 2399
+[Dashboard] Speed: 42 km/h
+[Dashboard] Engine Temp: 103 C
+[Dashboard] RPM: 2204
+[Dashboard] Speed: 37 km/h
+[Dashboard] Engine Temp: 131 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 2243
+[Dashboard] Speed: 38 km/h
+[Dashboard] Engine Temp: 129 C
+[Dashboard] Fuel: 0%
+[Dashboard] Speed: 40 km/h
+[Dashboard] Engine Temp: 102 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 2171
+[Dashboard] RPM: 2232
+[Dashboard] Speed: 38 km/h
+[Dashboard] Engine Temp: 128 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 2162
+[Dashboard] Speed: 193 km/h
+[Dashboard] Engine Temp: 101 C
+[Dashboard] Fuel: 0%
+[Dashboard] Speed: 44 km/h
+[Dashboard] RPM: 2258
+[Dashboard] Engine Temp: 100 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 2329
+[Dashboard] Fuel: 0%
+[Dashboard] Speed: 41 km/h
+[Dashboard] Engine Temp: 99 C
+[Dashboard] RPM: 2521
+[Dashboard] Speed: 45 km/h
+[Dashboard] Engine Temp: 129 C
+[Dashboard] RPM: 2494
+[Dashboard] Speed: 44 km/h
+[Dashboard] Engine Temp: 128 C
+[Dashboard] Fuel: 0%
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 2525
+[Dashboard] Speed: 42 km/h
+[Dashboard] Engine Temp: 99 C
+[Dashboard] RPM: 2328
+[Dashboard] Speed: 48 km/h
+[Dashboard] Engine Temp: 130 C
+[Dashboard] Fuel: 0%
+[Dashboard] Speed: 48 km/h
+[Dashboard] RPM: 2438
+[Dashboard] Engine Temp: 101 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 2259
+[Dashboard] Speed: 38 km/h
+[Dashboard] Engine Temp: 100 C
+[Dashboard] Fuel: 0%
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 2608
+[Dashboard] Engine Temp: 99 C
+[Dashboard] Speed: 48 km/h
+[Dashboard] RPM: 1974
+[Dashboard] Speed: 31 km/h
+[Dashboard] Engine Temp: 98 C
+[Dashboard] RPM: 2738
+[Dashboard] Speed: 50 km/h
+[Dashboard] Engine Temp: 131 C
+[Dashboard] Fuel: 0%
+[Dashboard] Speed: 55 km/h
+[Dashboard] RPM: 2013
+[Dashboard] Engine Temp: 130 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1877
+[Dashboard] Speed: 29 km/h
+[Dashboard] Engine Temp: 99 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1897
+[Dashboard] Engine Temp: 98 C
+[Dashboard] Speed: 55 km/h
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1954
+[Dashboard] Fuel: 0%
+[Dashboard] Speed: 55 km/h
+[Dashboard] Engine Temp: 131 C
+[Dashboard] Speed: 32 km/h
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 2947
+[Dashboard] Engine Temp: 131 C
+[Dashboard] RPM: 3030
+[Dashboard] Speed: 58 km/h
+[Dashboard] Engine Temp: 131 C
+[Dashboard] Fuel: 0%
+[Dashboard] Engine Temp: 130 C
+[Dashboard] RPM: 3186
+[Dashboard] Speed: 31 km/h
+[Dashboard] Fuel: 0%
+[Dashboard] Engine Temp: 129 C
+[Dashboard] Speed: 56 km/h
+[Dashboard] RPM: 2136
+[Dashboard] Speed: 52 km/h
+[Dashboard] RPM: 2082
+[Dashboard] Engine Temp: 99 C
+[Dashboard] Fuel: 0%
+[Dashboard] Speed: 34 km/h
+[Dashboard] Engine Temp: 100 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 2887
+[Dashboard] RPM: 2175
+[Dashboard] Speed: 36 km/h
+[Dashboard] Engine Temp: 101 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 2903
+[Dashboard] Speed: 36 km/h
+[Dashboard] Engine Temp: 100 C
+[Dashboard] Fuel: 0%
+[Dashboard] Speed: 55 km/h
+[Dashboard] Engine Temp: 129 C
+[Dashboard] RPM: 2993
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 3120
+[Dashboard] Speed: 60 km/h
+[Dashboard] Engine Temp: 129 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 2976
+[Dashboard] Speed: 56 km/h
+[Dashboard] Engine Temp: 130 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 2179
+[Dashboard] Speed: 36 km/h
+[Dashboard] Engine Temp: 101 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 2916
+[Dashboard] RPM: 2202
+[Dashboard] Speed: 50 km/h
+[Dashboard] Engine Temp: 127 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 2638
+[Dashboard] Speed: 42 km/h
+[Dashboard] Engine Temp: 102 C
+[Dashboard] Speed: 48 km/h
+[Dashboard] Engine Temp: 126 C
+[Dashboard] RPM: 2330
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 2526
+[Dashboard] Speed: 45 km/h
+[Dashboard] Engine Temp: 125 C
+[Dashboard] Fuel: 0%
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 2305
+[Dashboard] Speed: 40 km/h
+[Dashboard] Engine Temp: 101 C
+[Dashboard] RPM: 2515
+[Dashboard] Speed: 45 km/h
+[Dashboard] Engine Temp: 127 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 2311
+[Dashboard] Speed: 40 km/h
+[Dashboard] Engine Temp: 101 C
+[Dashboard] RPM: 2389
+[Dashboard] Speed: 49 km/h
+[Dashboard] Engine Temp: 127 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 2557
+[Dashboard] Speed: 46 km/h
+[Dashboard] Engine Temp: 128 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 2458
+[Dashboard] Speed: 43 km/h
+[Dashboard] Engine Temp: 128 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 2455
+[Dashboard] Speed: 45 km/h
+[Dashboard] Engine Temp: 100 C
+[Dashboard] Engine Temp: 128 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 2613
+[Dashboard] Speed: 47 km/h
+[Dashboard] RPM: 2609
+[Dashboard] Speed: 39 km/h
+[Dashboard] Engine Temp: 163 C
+[Dashboard] RPM: 2264
+[Dashboard] Speed: 39 km/h
+[Dashboard] Engine Temp: 99 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 2502
+[Dashboard] Speed: 45 km/h
+[Dashboard] Engine Temp: 129 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 2501
+[Dashboard] Speed: 45 km/h
+[Dashboard] Engine Temp: 130 C
+[Dashboard] RPM: 2042
+[Dashboard] Speed: 33 km/h
+[Dashboard] Engine Temp: 99 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 2014
+[Dashboard] Speed: 32 km/h
+[Dashboard] Engine Temp: 98 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 2371
+[Dashboard] Speed: 41 km/h
+[Dashboard] Engine Temp: 130 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 2379
+[Dashboard] Speed: 30 km/h
+[Dashboard] Engine Temp: 99 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 2277
+[Dashboard] Speed: 39 km/h
+[Dashboard] Engine Temp: 128 C
+[Dashboard] RPM: 2312
+[Dashboard] Speed: 28 km/h
+[Dashboard] Engine Temp: 98 C
+[Dashboard] Fuel: 0%
+[Dashboard] Engine Temp: 129 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1757
+[Dashboard] Speed: 26 km/h
+[Dashboard] RPM: 2206
+[Dashboard] Speed: 29 km/h
+[Dashboard] Engine Temp: 98 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 2171
+[Dashboard] Speed: 36 km/h
+[Dashboard] Engine Temp: 128 C
+[Dashboard] Fuel: 0%
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1716
+[Dashboard] Speed: 25 km/h
+[Dashboard] Engine Temp: 96 C
+[Dashboard] RPM: 2120
+[Dashboard] Speed: 26 km/h
+[Dashboard] Engine Temp: 96 C
+[Dashboard] Fuel: 0%
+[Dashboard] Speed: 35 km/h
+[Dashboard] Engine Temp: 128 C
+[Dashboard] RPM: 1654
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 2144
+[Dashboard] Speed: 36 km/h
+[Dashboard] Engine Temp: 128 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1574
+[Dashboard] Speed: 21 km/h
+[Dashboard] Engine Temp: 97 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1624
+[Dashboard] Speed: 23 km/h
+[Dashboard] Engine Temp: 129 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1671
+[Dashboard] Speed: 42 km/h
+[Dashboard] Engine Temp: 97 C
+[Dashboard] RPM: 1679
+[Dashboard] Speed: 24 km/h
+[Dashboard] Engine Temp: 97 C
+[Dashboard] Fuel: 0%
+[Dashboard] Engine Temp: 131 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1667
+[Dashboard] Speed: 24 km/h
+[Dashboard] RPM: 2507
+[Dashboard] Speed: 144 km/h
+[Dashboard] Engine Temp: 130 C
+[Dashboard] Fuel: 12%
+[Dashboard] RPM: 1589
+[Dashboard] Speed: 22 km/h
+[Dashboard] Engine Temp: 98 C
+[Dashboard] Engine Temp: 130 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1585
+[Dashboard] Speed: 22 km/h
+[Dashboard] Engine Temp: 97 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1508
+[Dashboard] Speed: 20 km/h
+[Dashboard] Engine Temp: 133 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 2473
+[Dashboard] Speed: 44 km/h
+[Dashboard] Engine Temp: 133 C
+[Dashboard] RPM: 1458
+[Dashboard] Speed: 18 km/h
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1342
+[Dashboard] Speed: 16 km/h
+[Dashboard] Engine Temp: 98 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 2307
+[Dashboard] Speed: 40 km/h
+[Dashboard] Engine Temp: 131 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1415
+[Dashboard] Speed: 17 km/h
+[Dashboard] Engine Temp: 98 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 2309
+[Dashboard] Speed: 38 km/h
+[Dashboard] Engine Temp: 129 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1439
+[Dashboard] Speed: 18 km/h
+[Dashboard] RPM: 2189
+[Dashboard] Engine Temp: 129 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 2205
+[Dashboard] Speed: 37 km/h
+[Dashboard] Engine Temp: 130 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 2357
+[Dashboard] Speed: 18 km/h
+[Dashboard] Engine Temp: 100 C
+[Dashboard] Fuel: 0%
+[Dashboard] Speed: 41 km/h
+[Dashboard] RPM: 1521
+[Dashboard] RPM: 1520
+[Dashboard] Speed: 20 km/h
+[Dashboard] Engine Temp: 100 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 2491
+[Dashboard] Speed: 44 km/h
+[Dashboard] Engine Temp: 99 C
+[Dashboard] RPM: 1648
+[Dashboard] Speed: 23 km/h
+[Dashboard] Engine Temp: 99 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1558
+[Dashboard] Engine Temp: 127 C
+[Dashboard] Speed: 21 km/h
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 2540
+[Dashboard] Speed: 51 km/h
+[Dashboard] Engine Temp: 99 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 2806
+[Dashboard] Speed: 47 km/h
+[Dashboard] Engine Temp: 128 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1639
+[Dashboard] Speed: 23 km/h
+[Dashboard] RPM: 2927
+[Dashboard] Speed: 55 km/h
+[Dashboard] Engine Temp: 129 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 2737
+[Dashboard] Speed: 22 km/h
+[Dashboard] Engine Temp: 100 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 2761
+[Dashboard] Speed: 51 km/h
+[Dashboard] Engine Temp: 129 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 2786
+[Dashboard] Speed: 52 km/h
+[Dashboard] Engine Temp: 130 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1758
+[Dashboard] Engine Temp: 129 C
+[Dashboard] Speed: 26 km/h
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 2896
+[Dashboard] Speed: 53 km/h
+[Dashboard] Engine Temp: 130 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1845
+[Dashboard] Speed: 28 km/h
+[Dashboard] Engine Temp: 100 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1663
+[Dashboard] Speed: 56 km/h
+[Dashboard] Engine Temp: 131 C
+[Dashboard] Fuel: 35%
+[Dashboard] RPM: 2846
+[Dashboard] Engine Temp: 132 C
+[Dashboard] Speed: 28 km/h
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 2803
+[Dashboard] Speed: 52 km/h
+[Dashboard] Engine Temp: 133 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1799
+[Dashboard] Speed: 27 km/h
+[Dashboard] RPM: 1800
+[Dashboard] Speed: 27 km/h
+[Dashboard] Engine Temp: 133 C
+[Dashboard] Fuel: 0%
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 2797
+[Dashboard] Speed: 52 km/h
+[Dashboard] Engine Temp: 134 C
+[Dashboard] RPM: 1659
+[Dashboard] Speed: 23 km/h
+[Dashboard] Fuel: 0%
+[Dashboard] Engine Temp: 133 C
+[Dashboard] RPM: 2915
+[Dashboard] Speed: 55 km/h
+[Dashboard] Fuel: 0%
+[Dashboard] Engine Temp: 132 C
+[Dashboard] Engine Temp: 104 C
+[Dashboard] RPM: 2932
+[Dashboard] Speed: 55 km/h
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1480
+[Dashboard] Speed: 19 km/h
+[Dashboard] Engine Temp: 105 C
+[Dashboard] Fuel: 0%
+[Dashboard] Speed: 57 km/h
+[Dashboard] Engine Temp: 131 C
+[Dashboard] RPM: 1310
+[Dashboard] Speed: 57 km/h
+[Dashboard] Engine Temp: 131 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1326
+[Dashboard] Engine Temp: 106 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 2966
+[Dashboard] Speed: 56 km/h
+[Dashboard] Engine Temp: 133 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1294
+[Dashboard] Speed: 14 km/h
+[Dashboard] RPM: 2914
+[Dashboard] Speed: 15 km/h
+[Dashboard] Engine Temp: 106 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 2888
+[Dashboard] Speed: 54 km/h
+[Dashboard] Engine Temp: 134 C
+[Dashboard] RPM: 1432
+[Dashboard] Speed: 57 km/h
+[Dashboard] Engine Temp: 107 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 9701
+[Dashboard] RPM: 1530
+[Dashboard] Engine Temp: 134 C
+[Dashboard] Fuel: 0%
+[Dashboard] Speed: 21 km/h
+[Dashboard] RPM: 1669
+[Dashboard] Speed: 50 km/h
+[Dashboard] Speed: 48 km/h
+[Dashboard] Engine Temp: 135 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 2610
+[Dashboard] RPM: 2690
+[Dashboard] Speed: 49 km/h
+[Dashboard] Engine Temp: 135 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1565
+[Dashboard] Speed: 21 km/h
+[Dashboard] Engine Temp: 109 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 2681
+[Dashboard] Speed: 49 km/h
+[Dashboard] Engine Temp: 136 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 2718
+[Dashboard] Speed: 50 km/h
+[Dashboard] Engine Temp: 137 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1646
+[Dashboard] Speed: 23 km/h
+[Dashboard] Fuel: 0%
+[Dashboard] Engine Temp: 112 C
+[Dashboard] RPM: 1671
+[Dashboard] Speed: 24 km/h
+[Dashboard] Engine Temp: 111 C
+[Dashboard] RPM: 1769
+[Dashboard] Speed: 26 km/h
+[Dashboard] Engine Temp: 110 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 2733
+[Dashboard] Speed: 50 km/h
+[Dashboard] Engine Temp: 136 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 2701
+[Dashboard] Speed: 50 km/h
+[Dashboard] Engine Temp: 136 C
+[Dashboard] Fuel: 0%
+[Dashboard] Speed: 48 km/h
+[Dashboard] Engine Temp: 137 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1653
+[Dashboard] Speed: 23 km/h
+[Dashboard] Engine Temp: 110 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 2726
+[Dashboard] Speed: 50 km/h
+[Dashboard] Engine Temp: 137 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 2625
+[Dashboard] Speed: 48 km/h
+[Dashboard] Engine Temp: 203 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1794
+[Dashboard] Speed: 25 km/h
+[Dashboard] Engine Temp: 110 C
+[Dashboard] RPM: 1766
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 2312
+[Dashboard] Speed: 24 km/h
+[Dashboard] Engine Temp: 108 C
+[Dashboard] Fuel: 0%
+[Dashboard] Speed: 40 km/h
+[Dashboard] Engine Temp: 137 C
+[Dashboard] RPM: 2334
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1671
+[Dashboard] Speed: 24 km/h
+[Dashboard] Engine Temp: 107 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 2497
+[Dashboard] Speed: 46 km/h
+[Dashboard] Engine Temp: 138 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 2460
+[Dashboard] Speed: 44 km/h
+[Dashboard] Engine Temp: 137 C
+[Dashboard] RPM: 2494
+[Dashboard] Fuel: 0%
+[Dashboard] Speed: 44 km/h
+[Dashboard] Engine Temp: 138 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1618
+[Dashboard] Speed: 22 km/h
+[Dashboard] Engine Temp: 105 C
+[Dashboard] Engine Temp: 138 C
+[Dashboard] RPM: 1671
+[Dashboard] Speed: 24 km/h
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 2438
+[Dashboard] RPM: 1663
+[Dashboard] Speed: 43 km/h
+[Dashboard] Engine Temp: 138 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1598
+[Dashboard] Speed: 22 km/h
+[Dashboard] Engine Temp: 108 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 2285
+[Dashboard] Speed: 39 km/h
+[Dashboard] Engine Temp: 137 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1553
+[Dashboard] Engine Temp: 108 C
+[Dashboard] Speed: 39 km/h
+[Dashboard] Engine Temp: 136 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1457
+[Dashboard] RPM: 2243
+[Dashboard] Speed: 38 km/h
+[Dashboard] Engine Temp: 136 C
+[Dashboard] RPM: 1345
+[Dashboard] Speed: 16 km/h
+[Dashboard] Engine Temp: 107 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 2378
+[Dashboard] Speed: 18 km/h
+[Dashboard] Engine Temp: 107 C
+[Dashboard] Fuel: 0%
+[Dashboard] Speed: 213 km/h
+[Dashboard] RPM: 2139
+[Dashboard] Engine Temp: 137 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1287
+[Dashboard] Speed: 14 km/h
+[Dashboard] Engine Temp: 105 C
+[Dashboard] RPM: 2066
+[Dashboard] Speed: 34 km/h
+[Dashboard] Engine Temp: 136 C
+[Dashboard] Fuel: 0%
+[Dashboard] Speed: 15 km/h
+[Dashboard] RPM: 1892
+[Dashboard] Engine Temp: 104 C
+[Dashboard] Fuel: 0%
+[Dashboard] Speed: 30 km/h
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1892
+[Dashboard] Engine Temp: 135 C
+[Dashboard] RPM: 1996
+[Dashboard] Speed: 32 km/h
+[Dashboard] Engine Temp: 135 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1245
+[Dashboard] Speed: 13 km/h
+[Dashboard] Engine Temp: 103 C
+[Dashboard] Fuel: 0%
+[Dashboard] Speed: 14 km/h
+[Dashboard] Engine Temp: 254 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1278
+[Dashboard] Speed: 14 km/h
+[Dashboard] Engine Temp: 102 C
+[Dashboard] RPM: 2059
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1440
+[Dashboard] Speed: 28 km/h
+[Dashboard] Engine Temp: 136 C
+[Dashboard] Fuel: 0%
+[Dashboard] Speed: 18 km/h
+[Dashboard] Engine Temp: 103 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1505
+[Dashboard] RPM: 1878
+[Dashboard] Speed: 29 km/h
+[Dashboard] Engine Temp: 135 C
+[Dashboard] Fuel: 0%
+[Dashboard] Speed: 20 km/h
+[Dashboard] RPM: 1872
+[Dashboard] Engine Temp: 136 C
+[Dashboard] Engine Temp: 104 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1935
+[Dashboard] Speed: 30 km/h
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 2034
+[Dashboard] Speed: 33 km/h
+[Dashboard] Engine Temp: 136 C
+[Dashboard] RPM: 1537
+[Dashboard] Engine Temp: 104 C
+[Dashboard] Fuel: 0%
+[Dashboard] Speed: 35 km/h
+[Dashboard] RPM: 1422
+[Dashboard] Speed: 18 km/h
+[Dashboard] Engine Temp: 105 C
+[Dashboard] RPM: 1438
+[Dashboard] Speed: 18 km/h
+[Dashboard] Engine Temp: 105 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 2096
+[Dashboard] Speed: 34 km/h
+[Dashboard] Engine Temp: 136 C
+[Dashboard] Fuel: 0%
+[Dashboard] Speed: 21 km/h
+[Dashboard] RPM: 1995
+[Dashboard] Engine Temp: 19 C
+[Dashboard] Fuel: 0%
+[Dashboard] Engine Temp: 104 C
+[Dashboard] RPM: 1918
+[Dashboard] Speed: 30 km/h
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1522
+[Dashboard] Speed: 20 km/h
+[Dashboard] Engine Temp: 106 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1257
+[Dashboard] Speed: 13 km/h
+[Dashboard] Engine Temp: 105 C
+[Dashboard] Speed: 33 km/h
+[Dashboard] Engine Temp: 136 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1272
+[Dashboard] RPM: 1281
+[Dashboard] Speed: 15 km/h
+[Dashboard] Engine Temp: 104 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 2133
+[Dashboard] Speed: 83 km/h
+[Dashboard] Engine Temp: 134 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1332
+[Dashboard] Speed: 15 km/h
+[Dashboard] Engine Temp: 105 C
+[Dashboard] RPM: 1244
+[Dashboard] Engine Temp: 133 C
+[Dashboard] Speed: 34 km/h
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1928
+[Dashboard] Speed: 30 km/h
+[Dashboard] Engine Temp: 132 C
+[Dashboard] Fuel: 0%
+[Dashboard] Speed: 10 km/h
+[Dashboard] Engine Temp: 104 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1036
+[Dashboard] RPM: 1953
+[Dashboard] Speed: 31 km/h
+[Dashboard] Engine Temp: 133 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 2339
+[Dashboard] Speed: 40 km/h
+[Dashboard] Engine Temp: 133 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 883
+[Dashboard] Speed: 4 km/h
+[Dashboard] RPM: 2272
+[Dashboard] Speed: 7 km/h
+[Dashboard] Engine Temp: 102 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 994
+[Dashboard] Speed: 7 km/h
+[Dashboard] Engine Temp: 102 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1045
+[Dashboard] Speed: 8 km/h
+[Dashboard] Engine Temp: 132 C
+[Dashboard] Fuel: 73%
+[Dashboard] Engine Temp: 103 C
+[Dashboard] RPM: 1131
+[Dashboard] Speed: 10 km/h
+[Dashboard] Fuel: 0%
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 2364
+[Dashboard] Speed: 12 km/h
+[Dashboard] Engine Temp: 101 C
+[Dashboard] Speed: 4 km/h
+[Dashboard] Engine Temp: 133 C
+[Dashboard] RPM: 921
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 19316
+[Dashboard] Engine Temp: 102 C
+[Dashboard] Speed: 43 km/h
+[Dashboard] Engine Temp: 133 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 871
+[Dashboard] RPM: 2389
+[Dashboard] Speed: 42 km/h
+[Dashboard] Engine Temp: 132 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 2373
+[Dashboard] Speed: 7 km/h
+[Dashboard] Engine Temp: 102 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 971
+[Dashboard] Speed: 6 km/h
+[Dashboard] RPM: 2502
+[Dashboard] Speed: 45 km/h
+[Dashboard] Engine Temp: 132 C
+[Dashboard] Fuel: 0%
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 925
+[Dashboard] Speed: 46 km/h
+[Dashboard] Engine Temp: 133 C
+[Dashboard] RPM: 2488
+[Dashboard] Engine Temp: 134 C
+[Dashboard] Speed: 5 km/h
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 2494
+[Dashboard] Speed: 44 km/h
+[Dashboard] RPM: 962
+[Dashboard] Engine Temp: 99 C
+[Dashboard] Fuel: 0%
+[Dashboard] Speed: 43 km/h
+[Dashboard] RPM: 2453
+[Dashboard] Speed: 43 km/h
+[Dashboard] Engine Temp: 133 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1141
+[Dashboard] Speed: 42 km/h
+[Dashboard] Engine Temp: 132 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1029
+[Dashboard] Speed: 8 km/h
+[Dashboard] Engine Temp: 101 C
+[Dashboard] RPM: 2336
+[Dashboard] Speed: 8 km/h
+[Dashboard] Engine Temp: 100 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1217
+[Dashboard] Speed: 40 km/h
+[Dashboard] Engine Temp: 131 C
+[Dashboard] Fuel: 0%
+[Dashboard] Speed: 12 km/h
+[Dashboard] RPM: 2330
+[Dashboard] Engine Temp: 100 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1312
+[Dashboard] Speed: 15 km/h
+[Dashboard] Engine Temp: 100 C
+[Dashboard] Fuel: 0%
+[Dashboard] Engine Temp: 131 C
+[Dashboard] RPM: 1267
+[Dashboard] Speed: 14 km/h
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1102
+[Dashboard] Speed: 10 km/h
+[Dashboard] Engine Temp: 133 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 2357
+[Dashboard] Speed: 9 km/h
+[Dashboard] Engine Temp: 97 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 2303
+[Dashboard] Speed: 42 km/h
+[Dashboard] Engine Temp: 61 C
+[Dashboard] RPM: 2516
+[Dashboard] Speed: 45 km/h
+[Dashboard] RPM: 1094
+[Dashboard] Speed: 9 km/h
+[Dashboard] Engine Temp: 99 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1061
+[Dashboard] Speed: 9 km/h
+[Dashboard] Engine Temp: 100 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 923
+[Dashboard] Speed: 5 km/h
+[Dashboard] Engine Temp: 99 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 916
+[Dashboard] Fuel: 0%
+[Dashboard] Speed: 50 km/h
+[Dashboard] Engine Temp: 133 C
+[Dashboard] RPM: 1000
+[Dashboard] Speed: 7 km/h
+[Dashboard] Engine Temp: 98 C
+[Dashboard] Fuel: 0%
+[Dashboard] Speed: 7 km/h
+[Dashboard] Engine Temp: 99 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 2797
+[Dashboard] Engine Temp: 98 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 2924
+[Dashboard] Speed: 55 km/h
+[Dashboard] RPM: 960
+[Dashboard] Speed: 6 km/h
+[Dashboard] Engine Temp: 98 C
+[Dashboard] Fuel: 0%
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 3165
+[Dashboard] Speed: 61 km/h
+[Dashboard] Engine Temp: 135 C
+[Dashboard] RPM: 3288
+[Dashboard] Speed: 64 km/h
+[Dashboard] Engine Temp: 98 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 3227
+[Dashboard] Speed: 63 km/h
+[Dashboard] Engine Temp: 135 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 3379
+[Dashboard] Speed: 5 km/h
+[Dashboard] Engine Temp: 99 C
+[Dashboard] Fuel: 0%
+[Dashboard] Speed: 66 km/h
+[Dashboard] Engine Temp: 134 C
+[Dashboard] RPM: 950
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 3447
+[Dashboard] Speed: 68 km/h
+[Dashboard] Fuel: 0%
+[Dashboard] Engine Temp: 99 C
+[Dashboard] RPM: 823
+[Dashboard] Speed: 3 km/h
+[Dashboard] Engine Temp: 100 C
+[Dashboard] Fuel: 0%
+[Dashboard] Speed: 68 km/h
+[Dashboard] Engine Temp: 135 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 790
+[Dashboard] RPM: 742
+[Dashboard] Speed: 1 km/h
+[Dashboard] Engine Temp: 99 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 32817
+[Dashboard] Speed: 2 km/h
+[Dashboard] Engine Temp: 98 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 902
+[Dashboard] Fuel: 0%
+[Dashboard] Speed: 66 km/h
+[Dashboard] Engine Temp: 133 C
+[Dashboard] RPM: 3349
+[Dashboard] Speed: 241 km/h
+[Dashboard] Engine Temp: 134 C
+[Dashboard] Fuel: 0%
+[Dashboard] Speed: 5 km/h
+[Dashboard] RPM: 3441
+[Dashboard] Engine Temp: 134 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 961
+[Dashboard] Speed: 6 km/h
+[Dashboard] Engine Temp: 59 C
+[Dashboard] RPM: 3299
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 3206
+[Dashboard] Speed: 62 km/h
+[Dashboard] Engine Temp: 153 C
+[Dashboard] Fuel: 0%
+[Dashboard] Engine Temp: 98 C
+[Dashboard] RPM: 3166
+[Dashboard] Speed: 61 km/h
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1045
+[Dashboard] Speed: 60 km/h
+[Dashboard] Engine Temp: 134 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 2958
+[Dashboard] Speed: 56 km/h
+[Dashboard] Engine Temp: 134 C
+[Dashboard] RPM: 983
+[Dashboard] Speed: 7 km/h
+[Dashboard] Engine Temp: 101 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 2891
+[Dashboard] Speed: 54 km/h
+[Dashboard] Engine Temp: 133 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 775
+[Dashboard] Speed: 47 km/h
+[Dashboard] Engine Temp: 102 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 2621
+[Dashboard] Speed: 48 km/h
+[Dashboard] Engine Temp: 133 C
+[Dashboard] RPM: 806
+[Dashboard] Speed: 3 km/h
+[Dashboard] RPM: 700
+[Dashboard] Speed: 0 km/h
+[Dashboard] Engine Temp: 101 C
+[Dashboard] Fuel: 0%
+[Dashboard] Engine Temp: 134 C
+[Dashboard] RPM: 700
+[Dashboard] Speed: 0 km/h
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 2804
+[Dashboard] Speed: 52 km/h
+[Dashboard] Engine Temp: 136 C
+[Dashboard] RPM: 745
+[Dashboard] Speed: 1 km/h
+[Dashboard] Engine Temp: 103 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 770
+[Dashboard] Speed: 2 km/h
+[Dashboard] Engine Temp: 103 C
+[Dashboard] Fuel: 47%
+[Dashboard] RPM: 2499
+[Dashboard] Speed: 44 km/h
+[Dashboard] Engine Temp: 135 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 965
+[Dashboard] Speed: 6 km/h
+[Dashboard] Engine Temp: 134 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 2314
+[Dashboard] Engine Temp: 133 C
+[Dashboard] Fuel: 0%
+[Dashboard] Speed: 5 km/h
+[Dashboard] RPM: 868
+[Dashboard] Speed: 4 km/h
+[Dashboard] Engine Temp: 104 C
+[Dashboard] Fuel: 0%
+[Dashboard] Speed: 39 km/h
+[Dashboard] RPM: 792
+[Dashboard] Engine Temp: 104 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 2138
+[Dashboard] Speed: 35 km/h
+[Dashboard] Engine Temp: 130 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 2036
+[Dashboard] Speed: 33 km/h
+[Dashboard] Engine Temp: 130 C
+[Dashboard] Fuel: 244%
+[Dashboard] RPM: 771
+[Dashboard] Speed: 1 km/h
+[Dashboard] Engine Temp: 105 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1813
+[Dashboard] Speed: 27 km/h
+[Dashboard] Engine Temp: 130 C
+[Dashboard] Fuel: 0%
+[Dashboard] Engine Temp: 104 C
+[Dashboard] RPM: 761
+[Dashboard] Speed: 1 km/h
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1881
+[Dashboard] Speed: 29 km/h
+[Dashboard] Engine Temp: 131 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 700
+[Dashboard] Speed: 0 km/h
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 700
+[Dashboard] Speed: 0 km/h
+[Dashboard] Engine Temp: 102 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 700
+[Dashboard] Speed: 0 km/h
+[Dashboard] Engine Temp: 132 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 701
+[Dashboard] Engine Temp: 101 C
+[Dashboard] Fuel: 0%
+[Dashboard] Speed: 32 km/h
+[Dashboard] RPM: 1900
+[Dashboard] Speed: 30 km/h
+[Dashboard] Engine Temp: 133 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 741
+[Dashboard] Speed: 1 km/h
+[Dashboard] Engine Temp: 134 C
+[Dashboard] Engine Temp: 101 C
+[Dashboard] RPM: 2105
+[Dashboard] Speed: 35 km/h
+[Dashboard] RPM: 756
+[Dashboard] Speed: 1 km/h
+[Dashboard] Engine Temp: 102 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 802
+[Dashboard] Speed: 2 km/h
+[Dashboard] Engine Temp: 134 C
+[Dashboard] Fuel: 0%
+[Dashboard] Speed: 37 km/h
+[Dashboard] RPM: 2174
+[Dashboard] Engine Temp: 134 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 2195
+[Dashboard] Speed: 37 km/h
+[Dashboard] Engine Temp: 135 C
+[Dashboard] RPM: 768
+[Dashboard] Speed: 1 km/h
+[Dashboard] Engine Temp: 103 C
+[Dashboard] Fuel: 0%
+[Dashboard] Speed: 103 km/h
+[Dashboard] Engine Temp: 134 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 857
+[Dashboard] RPM: 2184
+[Dashboard] Speed: 37 km/h
+[Dashboard] Engine Temp: 133 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1968
+[Dashboard] RPM: 774
+[Dashboard] Speed: 1 km/h
+[Dashboard] Engine Temp: 104 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1870
+[Dashboard] Speed: 29 km/h
+[Dashboard] Engine Temp: 133 C
+[Dashboard] Fuel: 0%
+[Dashboard] Engine Temp: 104 C
+[Dashboard] RPM: 700
+[Dashboard] Fuel: 0%
+[Dashboard] Speed: 27 km/h
+[Dashboard] RPM: 1811
+[Dashboard] Speed: 27 km/h
+[Dashboard] Engine Temp: 133 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1730
+[Dashboard] Speed: 25 km/h
+[Dashboard] Engine Temp: 134 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1821
+[Dashboard] Speed: 4 km/h
+[Dashboard] Engine Temp: 106 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1640
+[Dashboard] Speed: 23 km/h
+[Dashboard] Engine Temp: 135 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1682
+[Dashboard] Speed: 24 km/h
+[Dashboard] Engine Temp: 134 C
+[Dashboard] RPM: 700
+[Dashboard] Speed: 0 km/h
+[Dashboard] Engine Temp: 106 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1767
+[Dashboard] Speed: 26 km/h
+[Dashboard] Engine Temp: 134 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1874
+[Dashboard] Speed: 4 km/h
+[Dashboard] Engine Temp: 108 C
+[Dashboard] Fuel: 0%
+[Dashboard] Speed: 29 km/h
+[Dashboard] RPM: 808
+[Dashboard] Engine Temp: 108 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1828
+[Dashboard] Speed: 28 km/h
+[Dashboard] Engine Temp: 134 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 924
+[Dashboard] Speed: 28 km/h
+[Dashboard] Engine Temp: 133 C
+[Dashboard] RPM: 793
+[Dashboard] Engine Temp: 107 C
+[Dashboard] Fuel: 0%
+[Dashboard] Speed: 28 km/h
+[Dashboard] Speed: 27 km/h
+[Dashboard] Engine Temp: 135 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 751
+[Dashboard] Speed: 3 km/h
+[Dashboard] RPM: 1631
+[Dashboard] Engine Temp: 134 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 919
+[Dashboard] Speed: 16 km/h
+[Dashboard] Engine Temp: 106 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 717
+[Dashboard] Speed: 0 km/h
+[Dashboard] Engine Temp: 105 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 728
+[Dashboard] Speed: 0 km/h
+[Dashboard] Engine Temp: 104 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 736
+[Dashboard] Speed: 0 km/h
+[Dashboard] Engine Temp: 105 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 786
+[Dashboard] Fuel: 0%
+[Dashboard] Speed: 115 km/h
+[Dashboard] Engine Temp: 104 C
+[Dashboard] Engine Temp: 137 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1291
+[Dashboard] Speed: 14 km/h
+[Dashboard] RPM: 770
+[Dashboard] Speed: 1 km/h
+[Dashboard] Engine Temp: 105 C
+[Dashboard] Fuel: 0%
+[Dashboard] Speed: 18 km/h
+[Dashboard] RPM: 1382
+[Dashboard] Speed: 14 km/h
+[Dashboard] Fuel: 0%
+[Dashboard] Engine Temp: 104 C
+[Dashboard] RPM: 1275
+[Dashboard] RPM: 700
+[Dashboard] Speed: 0 km/h
+[Dashboard] Engine Temp: 104 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 785
+[Dashboard] Engine Temp: 137 C
+[Dashboard] Speed: 2 km/h
+[Dashboard] Engine Temp: 105 C
+[Dashboard] RPM: 731
+[Dashboard] Fuel: 0%
+[Dashboard] Engine Temp: 105 C
+[Dashboard] RPM: 1265
+[Dashboard] Speed: 14 km/h
+[Dashboard] Fuel: 0%
+[Dashboard] Engine Temp: 106 C
+[Dashboard] RPM: 711
+[Dashboard] Fuel: 0%
+[Dashboard] Speed: 0 km/h
+[Dashboard] Engine Temp: 107 C
+[Dashboard] RPM: 724
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1248
+[Dashboard] Speed: 13 km/h
+[Dashboard] Engine Temp: 137 C
+[Dashboard] Fuel: 153%
+[Dashboard] RPM: 1366
+[Dashboard] Speed: 16 km/h
+[Dashboard] Engine Temp: 108 C
+[Dashboard] Fuel: 0%
+[Dashboard] Engine Temp: 138 C
+[Dashboard] RPM: 1379
+[Dashboard] Speed: 16 km/h
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1399
+[Dashboard] Speed: 8 km/h
+[Dashboard] Engine Temp: 108 C
+[Dashboard] Speed: 17 km/h
+[Dashboard] RPM: 1021
+[Dashboard] Engine Temp: 109 C
+[Dashboard] Fuel: 0%
+[Dashboard] Engine Temp: 139 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1104
+[Dashboard] Speed: 10 km/h
+[Dashboard] Fuel: 0%
+[Dashboard] Engine Temp: 139 C
+[Dashboard] RPM: 1163
+[Dashboard] Speed: 11 km/h
+[Dashboard] RPM: 995
+[Dashboard] Speed: 20 km/h
+[Dashboard] Engine Temp: 140 C
+[Dashboard] Fuel: 0%
+[Dashboard] Speed: 21 km/h
+[Dashboard] RPM: 982
+[Dashboard] Engine Temp: 141 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1524
+[Dashboard] Speed: 20 km/h
+[Dashboard] Engine Temp: 140 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 921
+[Dashboard] Speed: 3 km/h
+[Dashboard] Engine Temp: 106 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 767
+[Dashboard] Speed: 1 km/h
+[Dashboard] Engine Temp: 140 C
+[Dashboard] Fuel: 0%
+[Dashboard] Engine Temp: 106 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1785
+[Dashboard] Speed: 27 km/h
+[Dashboard] RPM: 725
+[Dashboard] Speed: 0 km/h
+[Dashboard] Engine Temp: 139 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 713
+[Dashboard] Speed: 0 km/h
+[Dashboard] Engine Temp: 138 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 2123
+[Dashboard] Engine Temp: 138 C
+[Dashboard] RPM: 2071
+[Dashboard] Speed: 34 km/h
+[Dashboard] Engine Temp: 139 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 700
+[Dashboard] Speed: 0 km/h
+[Dashboard] Engine Temp: 106 C
+[Dashboard] Speed: 38 km/h
+[Dashboard] Engine Temp: 140 C
+[Dashboard] RPM: 751
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 700
+[Dashboard] Speed: 44 km/h
+[Dashboard] Engine Temp: 138 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 700
+[Dashboard] Speed: 0 km/h
+[Dashboard] Engine Temp: 104 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 700
+[Dashboard] Speed: 0 km/h
+[Dashboard] Engine Temp: 105 C
+[Dashboard] Fuel: 0%
+[Dashboard] Speed: 43 km/h
+[Dashboard] Engine Temp: 138 C
+[Dashboard] RPM: 700
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 700
+[Dashboard] Speed: 0 km/h
+[Dashboard] Engine Temp: 106 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 2492
+[Dashboard] Speed: 187 km/h
+[Dashboard] Engine Temp: 106 C
+[Dashboard] Speed: 44 km/h
+[Dashboard] Engine Temp: 136 C
+[Dashboard] RPM: 917
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 886
+[Dashboard] Speed: 162 km/h
+[Dashboard] Engine Temp: 106 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 2432
+[Dashboard] Speed: 43 km/h
+[Dashboard] Engine Temp: 80 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 970
+[Dashboard] Speed: 6 km/h
+[Dashboard] Engine Temp: 106 C
+[Dashboard] Fuel: 0%
+[Dashboard] Engine Temp: 105 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 2541
+[Dashboard] Speed: 46 km/h
+[Dashboard] RPM: 953
+[Dashboard] Engine Temp: 133 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 2616
+[Dashboard] Engine Temp: 107 C
+[Dashboard] Speed: 48 km/h
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 2464
+[Dashboard] Speed: 44 km/h
+[Dashboard] Engine Temp: 134 C
+[Dashboard] Fuel: 0%
+[Dashboard] Speed: 47 km/h
+[Dashboard] RPM: 2516
+[Dashboard] Engine Temp: 108 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1104
+[Dashboard] Speed: 10 km/h
+[Dashboard] Engine Temp: 107 C
+[Dashboard] Fuel: 0%
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1144
+[Dashboard] Speed: 11 km/h
+[Dashboard] Engine Temp: 106 C
+[Dashboard] RPM: 2543
+[Dashboard] Speed: 46 km/h
+[Dashboard] Engine Temp: 135 C
+[Dashboard] Fuel: 0%
+[Dashboard] Engine Temp: 53 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 7179
+[Dashboard] Speed: 14 km/h
+[Dashboard] Engine Temp: 104 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 2611
+[Dashboard] RPM: 1156
+[Dashboard] Speed: 11 km/h
+[Dashboard] Engine Temp: 103 C
+[Dashboard] Fuel: 0%
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1144
+[Dashboard] Speed: 11 km/h
+[Dashboard] Engine Temp: 103 C
+[Dashboard] RPM: 2438
+[Dashboard] Speed: 43 km/h
+[Dashboard] Engine Temp: 135 C
+[Dashboard] RPM: 1156
+[Dashboard] Speed: 11 km/h
+[Dashboard] Engine Temp: 104 C
+[Dashboard] Fuel: 0%
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 2416
+[Dashboard] Speed: 42 km/h
+[Dashboard] Engine Temp: 136 C
+[Dashboard] Speed: 47 km/h
+[Dashboard] Engine Temp: 137 C
+[Dashboard] RPM: 1144
+[Dashboard] RPM: 1095
+[Dashboard] Speed: 9 km/h
+[Dashboard] Fuel: 0%
+[Dashboard] Engine Temp: 137 C
+[Dashboard] RPM: 996
+[Dashboard] Engine Temp: 174 C
+[Dashboard] Speed: 49 km/h
+[Dashboard] RPM: 2652
+[Dashboard] Speed: 48 km/h
+[Dashboard] Engine Temp: 137 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 2634
+[Dashboard] Speed: 48 km/h
+[Dashboard] Engine Temp: 136 C
+[Dashboard] RPM: 1174
+[Dashboard] Speed: 11 km/h
+[Dashboard] Engine Temp: 106 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1225
+[Dashboard] Speed: 46 km/h
+[Dashboard] Engine Temp: 136 C
+[Dashboard] Fuel: 0%
+[Dashboard] Speed: 13 km/h
+[Dashboard] Engine Temp: 107 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 2473
+[Dashboard] RPM: 1234
+[Dashboard] Speed: 13 km/h
+[Dashboard] Engine Temp: 109 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 2750
+[Dashboard] Speed: 51 km/h
+[Dashboard] Engine Temp: 134 C
+[Dashboard] RPM: 2655
+[Dashboard] Speed: 48 km/h
+[Dashboard] Engine Temp: 135 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 2559
+[Dashboard] Engine Temp: 136 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 993
+[Dashboard] Speed: 7 km/h
+[Dashboard] Engine Temp: 109 C
+[Dashboard] RPM: 2640
+[Dashboard] Speed: 48 km/h
+[Dashboard] Engine Temp: 136 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 2575
+[Dashboard] Engine Temp: 137 C
+[Dashboard] Fuel: 0%
+[Dashboard] Speed: 6 km/h
+[Dashboard] RPM: 925
+[Dashboard] Speed: 5 km/h
+[Dashboard] Engine Temp: 108 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 2658
+[Dashboard] Speed: 7 km/h
+[Dashboard] Engine Temp: 107 C
+[Dashboard] Speed: 48 km/h
+[Dashboard] Engine Temp: 137 C
+[Dashboard] RPM: 816
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 983
+[Dashboard] Speed: 7 km/h
+[Dashboard] Engine Temp: 107 C
+[Dashboard] Fuel: 0%
+[Dashboard] Speed: 48 km/h
+[Dashboard] RPM: 1002
+[Dashboard] RPM: 2630
+[Dashboard] Speed: 48 km/h
+[Dashboard] Engine Temp: 139 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 2623
+[Dashboard] Speed: 48 km/h
+[Dashboard] Engine Temp: 140 C
+[Dashboard] Fuel: 0%
+[Dashboard] Speed: 10 km/h
+[Dashboard] Engine Temp: 107 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 2769
+[Dashboard] RPM: 1103
+[Dashboard] Speed: 10 km/h
+[Dashboard] Engine Temp: 159 C
+[Dashboard] Fuel: 0%
+[Dashboard] Fuel: 232%
+[Dashboard] RPM: 1128
+[Dashboard] Speed: 51 km/h
+[Dashboard] Engine Temp: 141 C
+[Dashboard] Speed: 10 km/h
+[Dashboard] Engine Temp: 104 C
+[Dashboard] RPM: 2791
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 2708
+[Dashboard] Speed: 7 km/h
+[Dashboard] Engine Temp: 104 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 926
+[Dashboard] Speed: 50 km/h
+[Dashboard] Engine Temp: 141 C
+[Dashboard] Fuel: 0%
+[Dashboard] Speed: 5 km/h
+[Dashboard] Engine Temp: 105 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 2708
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 910
+[Dashboard] Speed: 5 km/h
+[Dashboard] Engine Temp: 105 C
+[Dashboard] RPM: 2412
+[Dashboard] Speed: 42 km/h
+[Dashboard] Engine Temp: 137 C
+[Dashboard] RPM: 2452
+[Dashboard] Engine Temp: 138 C
+[Dashboard] Fuel: 0%
+[Dashboard] Speed: 3 km/h
+[Dashboard] RPM: 2057
+[Dashboard] Engine Temp: 138 C
+[Dashboard] Speed: 32 km/h
+[Dashboard] Fuel: 0%
+[Dashboard] Engine Temp: 137 C
+[Dashboard] RPM: 2133
+[Dashboard] Speed: 1 km/h
+[Dashboard] RPM: 2216
+[Dashboard] Engine Temp: 138 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 2286
+[Dashboard] Speed: 1 km/h
+[Dashboard] Engine Temp: 105 C
+[Dashboard] Fuel: 169%
+[Dashboard] Speed: 39 km/h
+[Dashboard] Engine Temp: 137 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 700
+[Dashboard] RPM: 700
+[Dashboard] Speed: 0 km/h
+[Dashboard] Engine Temp: 105 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 2303
+[Dashboard] Speed: 40 km/h
+[Dashboard] Engine Temp: 138 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 823
+[Dashboard] Speed: 42 km/h
+[Dashboard] Engine Temp: 137 C
+[Dashboard] Speed: 3 km/h
+[Dashboard] Engine Temp: 104 C
+[Dashboard] RPM: 877
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 951
+[Dashboard] Speed: 6 km/h
+[Dashboard] Engine Temp: 103 C
+[Dashboard] Speed: 39 km/h
+[Dashboard] Engine Temp: 137 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1020
+[Dashboard] Fuel: 129%
+[Dashboard] RPM: 2439
+[Dashboard] Speed: 43 km/h
+[Dashboard] Engine Temp: 137 C
+[Dashboard] Engine Temp: 104 C
+[Dashboard] RPM: 923
+[Dashboard] Speed: 5 km/h
+[Dashboard] Engine Temp: 104 C
+[Dashboard] Fuel: 198%
+[Dashboard] RPM: 2370
+[Dashboard] RPM: 2258
+[Dashboard] Speed: 38 km/h
+[Dashboard] Engine Temp: 136 C
+[Dashboard] RPM: 911
+[Dashboard] Speed: 5 km/h
+[Dashboard] Engine Temp: 104 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 2078
+[Dashboard] Speed: 34 km/h
+[Dashboard] Engine Temp: 135 C
+[Dashboard] Fuel: 154%
+[Dashboard] Speed: 46 km/h
+[Dashboard] Engine Temp: 103 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 2185
+[Dashboard] RPM: 1999
+[Dashboard] Speed: 32 km/h
+[Dashboard] Engine Temp: 135 C
+[Dashboard] RPM: 1920
+[Dashboard] Speed: 30 km/h
+[Dashboard] Engine Temp: 136 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 2060
+[Dashboard] Speed: 34 km/h
+[Dashboard] Engine Temp: 135 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 820
+[Dashboard] Speed: 3 km/h
+[Dashboard] Engine Temp: 103 C
+[Dashboard] RPM: 1971
+[Dashboard] Speed: 31 km/h
+[Dashboard] Engine Temp: 136 C
+[Dashboard] Fuel: 10%
+[Dashboard] RPM: 1960
+[Dashboard] Engine Temp: 135 C
+[Dashboard] Speed: 6 km/h
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 887
+[Dashboard] Speed: 4 km/h
+[Dashboard] Engine Temp: 29 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 2109
+[Dashboard] Speed: 35 km/h
+[Dashboard] Engine Temp: 136 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 959
+[Dashboard] Speed: 35 km/h
+[Dashboard] Engine Temp: 138 C
+[Dashboard] RPM: 918
+[Dashboard] Speed: 5 km/h
+[Dashboard] Fuel: 241%
+[Dashboard] RPM: 967
+[Dashboard] Speed: 6 km/h
+[Dashboard] Engine Temp: 104 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 2260
+[Dashboard] Speed: 39 km/h
+[Dashboard] Engine Temp: 139 C
+[Dashboard] RPM: 871
+[Dashboard] Speed: 4 km/h
+[Dashboard] Engine Temp: 104 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 700
+[Dashboard] Engine Temp: 104 C
+[Dashboard] Speed: 41 km/h
+[Dashboard] Fuel: 0%
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 2332
+[Dashboard] Speed: 0 km/h
+[Dashboard] Engine Temp: 105 C
+[Dashboard] RPM: 2366
+[Dashboard] Speed: 0 km/h
+[Dashboard] Engine Temp: 105 C
+[Dashboard] RPM: 2297
+[Dashboard] Speed: 142 km/h
+[Dashboard] Engine Temp: 140 C
+[Dashboard] Fuel: 0%
+[Dashboard] Engine Temp: 106 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 2262
+[Dashboard] Speed: 38 km/h
+[Dashboard] RPM: 2321
+[Dashboard] Speed: 40 km/h
+[Dashboard] Engine Temp: 139 C
+[Dashboard] Fuel: 0%
+[Dashboard] Speed: 4 km/h
+[Dashboard] RPM: 2383
+[Dashboard] Engine Temp: 138 C
+[Dashboard] Speed: 223 km/h
+[Dashboard] RPM: 2350
+[Dashboard] Engine Temp: 102 C
+[Dashboard] Fuel: 0%
+[Dashboard] Speed: 41 km/h
+[Dashboard] RPM: 862
+[Dashboard] Engine Temp: 102 C
+[Dashboard] Fuel: 0%
+[Dashboard] Engine Temp: 138 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 2318
+[Dashboard] Speed: 40 km/h
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 2532
+[Dashboard] Speed: 45 km/h
+[Dashboard] Engine Temp: 136 C
+[Dashboard] RPM: 710
+[Dashboard] Speed: 0 km/h
+[Dashboard] Engine Temp: 104 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 2348
+[Dashboard] Speed: 0 km/h
+[Dashboard] Engine Temp: 104 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 2380
+[Dashboard] Speed: 42 km/h
+[Dashboard] Engine Temp: 105 C
+[Dashboard] Fuel: 0%
+[Dashboard] Speed: 39 km/h
+[Dashboard] RPM: 790
+[Dashboard] Engine Temp: 104 C
+[Dashboard] Fuel: 0%
+[Dashboard] Speed: 40 km/h
+[Dashboard] Engine Temp: 135 C
+[Dashboard] RPM: 711
+[Dashboard] RPM: 2387
+[Dashboard] Speed: 42 km/h
+[Dashboard] Engine Temp: 136 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 834
+[Dashboard] Speed: 3 km/h
+[Dashboard] Engine Temp: 106 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 735
+[Dashboard] Speed: 0 km/h
+[Dashboard] Engine Temp: 106 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 2634
+[Dashboard] Speed: 48 km/h
+[Dashboard] Engine Temp: 136 C
+[Dashboard] RPM: 2725
+[Dashboard] Speed: 50 km/h
+[Dashboard] Engine Temp: 136 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 876
+[Dashboard] Speed: 4 km/h
+[Dashboard] Engine Temp: 107 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 2710
+[Dashboard] Speed: 50 km/h
+[Dashboard] Engine Temp: 137 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 2713
+[Dashboard] Speed: 50 km/h
+[Dashboard] Engine Temp: 138 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 2743
+[Dashboard] Speed: 243 km/h
+[Dashboard] Speed: 51 km/h
+[Dashboard] Engine Temp: 138 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 822
+[Dashboard] RPM: 2657
+[Dashboard] Engine Temp: 139 C
+[Dashboard] RPM: 754
+[Dashboard] Speed: 49 km/h
+[Dashboard] Engine Temp: 139 C
+[Dashboard] Fuel: 0%
+[Dashboard] Speed: 1 km/h
+[Dashboard] RPM: 2610
+[Dashboard] Engine Temp: 109 C
+[Dashboard] RPM: 2597
+[Dashboard] Speed: 47 km/h
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 2505
+[Dashboard] Speed: 2 km/h
+[Dashboard] Engine Temp: 139 C
+[Dashboard] Fuel: 0%
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 2428
+[Dashboard] Speed: 44 km/h
+[Dashboard] Engine Temp: 186 C
+[Dashboard] RPM: 2386
+[Dashboard] Speed: 42 km/h
+[Dashboard] Engine Temp: 137 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 2285
+[Dashboard] Engine Temp: 138 C
+[Dashboard] Speed: 1 km/h
+[Dashboard] Fuel: 0%
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 2223
+[Dashboard] Speed: 38 km/h
+[Dashboard] Engine Temp: 138 C
+[Dashboard] Speed: 3 km/h
+[Dashboard] Engine Temp: 107 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 843
+[Dashboard] RPM: 791
+[Dashboard] Speed: 2 km/h
+[Dashboard] Engine Temp: 107 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 2224
+[Dashboard] Speed: 38 km/h
+[Dashboard] Engine Temp: 138 C
+[Dashboard] Fuel: 0%
+[Dashboard] Speed: 1 km/h
+[Dashboard] Engine Temp: 108 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 2247
+[Dashboard] RPM: 2289
+[Dashboard] Speed: 39 km/h
+[Dashboard] Engine Temp: 138 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 700
+[Dashboard] Speed: 7 km/h
+[Dashboard] Engine Temp: 109 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 2147
+[Dashboard] RPM: 766
+[Dashboard] Speed: 1 km/h
+[Dashboard] Engine Temp: 109 C
+[Dashboard] Fuel: 0%
+[Dashboard] Fuel: 0%
+[Dashboard] Engine Temp: 138 C
+[Dashboard] RPM: 865
+[Dashboard] Speed: 32 km/h
+[Dashboard] RPM: 794
+[Dashboard] Speed: 2 km/h
+[Dashboard] Engine Temp: 111 C
+[Dashboard] Fuel: 0%
+[Dashboard] Speed: 1 km/h
+[Dashboard] Engine Temp: 111 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1983
+[Dashboard] RPM: 855
+[Dashboard] Speed: 5 km/h
+[Dashboard] Engine Temp: 111 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 919
+[Dashboard] Speed: 5 km/h
+[Dashboard] Engine Temp: 111 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 837
+[Dashboard] Speed: 3 km/h
+[Dashboard] Engine Temp: 111 C
+[Dashboard] Fuel: 0%
+[Dashboard] Speed: 24 km/h
+[Dashboard] Engine Temp: 138 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1683
+[Dashboard] Engine Temp: 106 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 700
+[Dashboard] Speed: 0 km/h
+[Dashboard] RPM: 558
+[Dashboard] Speed: 0 km/h
+[Dashboard] Engine Temp: 111 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1578
+[Dashboard] Speed: 21 km/h
+[Dashboard] Engine Temp: 139 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1586
+[Dashboard] Speed: 22 km/h
+[Dashboard] Engine Temp: 140 C
+[Dashboard] RPM: 1563
+[Dashboard] Speed: 21 km/h
+[Dashboard] Engine Temp: 140 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1546
+[Dashboard] Speed: 0 km/h
+[Dashboard] Engine Temp: 113 C
+[Dashboard] RPM: 700
+[Dashboard] Speed: 0 km/h
+[Dashboard] Engine Temp: 113 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1450
+[Dashboard] Fuel: 0%
+[Dashboard] Speed: 18 km/h
+[Dashboard] Engine Temp: 139 C
+[Dashboard] RPM: 700
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 701
+[Dashboard] Speed: 0 km/h
+[Dashboard] Engine Temp: 114 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 786
+[Dashboard] Speed: 2 km/h
+[Dashboard] Engine Temp: 113 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1498
+[Dashboard] Speed: 19 km/h
+[Dashboard] Engine Temp: 141 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 709
+[Dashboard] Speed: 0 km/h
+[Dashboard] Engine Temp: 113 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 788
+[Dashboard] Speed: 2 km/h
+[Dashboard] Engine Temp: 114 C
+[Dashboard] RPM: 1469
+[Dashboard] Fuel: 0%
+[Dashboard] Speed: 6 km/h
+[Dashboard] Engine Temp: 114 C
+[Dashboard] RPM: 905
+[Dashboard] Speed: 5 km/h
+[Dashboard] Engine Temp: 113 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 927
+[Dashboard] Speed: 3 km/h
+[Dashboard] Engine Temp: 112 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1498
+[Dashboard] Speed: 57 km/h
+[Dashboard] Speed: 2 km/h
+[Dashboard] Engine Temp: 111 C
+[Dashboard] RPM: 906
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1615
+[Dashboard] Speed: 22 km/h
+[Dashboard] Engine Temp: 139 C
+[Dashboard] RPM: 1044
+[Dashboard] Speed: 21 km/h
+[Dashboard] Engine Temp: 138 C
+[Dashboard] Fuel: 0%
+[Dashboard] Speed: 8 km/h
+[Dashboard] Engine Temp: 112 C
+[Dashboard] RPM: 1611
+[Dashboard] Fuel: 0%
+[Dashboard] Speed: 22 km/h
+[Dashboard] Engine Temp: 139 C
+[Dashboard] RPM: 1018
+[Dashboard] RPM: 1660
+[Dashboard] Speed: 24 km/h
+[Dashboard] Engine Temp: 140 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1497
+[Dashboard] Speed: 19 km/h
+[Dashboard] Engine Temp: 114 C
+[Dashboard] RPM: 1049
+[Dashboard] Speed: 8 km/h
+[Dashboard] Engine Temp: 113 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 994
+[Dashboard] Speed: 7 km/h
+[Dashboard] Engine Temp: 114 C
+[Dashboard] RPM: 938
+[Dashboard] Speed: 5 km/h
+[Dashboard] Engine Temp: 113 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1050
+[Dashboard] Speed: 8 km/h
+[Dashboard] Engine Temp: 114 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1295
+[Dashboard] Speed: 14 km/h
+[Dashboard] Engine Temp: 141 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 953
+[Dashboard] Speed: 6 km/h
+[Dashboard] Engine Temp: 115 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1051
+[Dashboard] Speed: 8 km/h
+[Dashboard] Engine Temp: 114 C
+[Dashboard] Fuel: 0%
+[Dashboard] Speed: 8 km/h
+[Dashboard] RPM: 1390
+[Dashboard] Engine Temp: 144 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 954
+[Dashboard] Speed: 6 km/h
+[Dashboard] Engine Temp: 113 C
+[Dashboard] Fuel: 16%
+[Dashboard] RPM: 1079
+[Dashboard] Speed: 9 km/h
+[Dashboard] Engine Temp: 112 C
+[Dashboard] Fuel: 108%
+[Dashboard] RPM: 1269
+[Dashboard] Speed: 14 km/h
+[Dashboard] Engine Temp: 144 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1304
+[Dashboard] Speed: 9 km/h
+[Dashboard] Engine Temp: 144 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 55125
+[Dashboard] Speed: 16 km/h
+[Dashboard] Engine Temp: 200 C
+[Dashboard] Fuel: 0%
+[Dashboard] Speed: 10 km/h
+[Dashboard] Engine Temp: 143 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1441
+[Dashboard] RPM: 1480
+[Dashboard] Speed: 19 km/h
+[Dashboard] Engine Temp: 112 C
+[Dashboard] Speed: 8 km/h
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1473
+[Dashboard] Engine Temp: 143 C
+[Dashboard] RPM: 1080
+[Dashboard] Engine Temp: 144 C
+[Dashboard] RPM: 1168
+[Dashboard] Speed: 11 km/h
+[Dashboard] Engine Temp: 145 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1289
+[Dashboard] Speed: 14 km/h
+[Dashboard] Engine Temp: 111 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1463
+[Dashboard] Speed: 19 km/h
+[Dashboard] Engine Temp: 110 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1031
+[Dashboard] Speed: 8 km/h
+[Dashboard] Engine Temp: 145 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1037
+[Dashboard] Speed: 21 km/h
+[Dashboard] Engine Temp: 110 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 991
+[Dashboard] Speed: 7 km/h
+[Dashboard] Engine Temp: 146 C
+[Dashboard] Fuel: 0%
+[Dashboard] Speed: 21 km/h
+[Dashboard] RPM: 1055
+[Dashboard] Speed: 8 km/h
+[Dashboard] Engine Temp: 146 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1693
+[Dashboard] Engine Temp: 70 C
+[Dashboard] RPM: 1702
+[Dashboard] Speed: 26 km/h
+[Dashboard] Engine Temp: 111 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 912
+[Dashboard] Speed: 25 km/h
+[Dashboard] Engine Temp: 110 C
+[Dashboard] Fuel: 0%
+[Dashboard] Speed: 5 km/h
+[Dashboard] RPM: 914
+[Dashboard] Speed: 24 km/h
+[Dashboard] Engine Temp: 110 C
+[Dashboard] RPM: 904
+[Dashboard] Fuel: 0%
+[Dashboard] Engine Temp: 110 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 978
+[Dashboard] Speed: 6 km/h
+[Dashboard] RPM: 766
+[Dashboard] Speed: 1 km/h
+[Dashboard] Engine Temp: 147 C
+[Dashboard] Fuel: 0%
+[Dashboard] Speed: 28 km/h
+[Dashboard] Engine Temp: 109 C
+[Dashboard] RPM: 700
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1674
+[Dashboard] Engine Temp: 110 C
+[Dashboard] Speed: 24 km/h
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 700
+[Dashboard] Speed: 22 km/h
+[Dashboard] Engine Temp: 111 C
+[Dashboard] Speed: 0 km/h
+[Dashboard] Engine Temp: 148 C
+[Dashboard] Fuel: 59%
+[Dashboard] RPM: 1456
+[Dashboard] RPM: 760
+[Dashboard] Speed: 1 km/h
+[Dashboard] Engine Temp: 150 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 30230
+[Dashboard] Speed: 21 km/h
+[Dashboard] Engine Temp: 110 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1585
+[Dashboard] Speed: 22 km/h
+[Dashboard] Engine Temp: 111 C
+[Dashboard] RPM: 1714
+[Dashboard] Fuel: 0%
+[Dashboard] Speed: 3 km/h
+[Dashboard] RPM: 1684
+[Dashboard] Engine Temp: 113 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1219
+[Dashboard] Speed: 14 km/h
+[Dashboard] RPM: 1373
+[Dashboard] Speed: 16 km/h
+[Dashboard] Engine Temp: 148 C
+[Dashboard] Fuel: 0%
+[Dashboard] Fuel: 35%
+[Dashboard] RPM: 1174
+[Dashboard] Speed: 11 km/h
+[Dashboard] Engine Temp: 148 C
+[Dashboard] RPM: 1747
+[Dashboard] Speed: 26 km/h
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1201
+[Dashboard] Speed: 12 km/h
+[Dashboard] Fuel: 0%
+[Dashboard] Engine Temp: 115 C
+[Dashboard] RPM: 1153
+[Dashboard] Speed: 11 km/h
+[Dashboard] Engine Temp: 147 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 970
+[Dashboard] Speed: 6 km/h
+[Dashboard] Engine Temp: 146 C
+[Dashboard] RPM: 997
+[Dashboard] Speed: 7 km/h
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1122
+[Dashboard] Speed: 10 km/h
+[Dashboard] Engine Temp: 145 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1043
+[Dashboard] Speed: 8 km/h
+[Dashboard] Engine Temp: 144 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1252
+[Dashboard] Speed: 13 km/h
+[Dashboard] Engine Temp: 112 C
+[Dashboard] RPM: 1046
+[Dashboard] Speed: 230 km/h
+[Dashboard] Engine Temp: 112 C
+[Dashboard] Fuel: 0%
+[Dashboard] Speed: 13 km/h
+[Dashboard] RPM: 1104
+[Dashboard] Engine Temp: 145 C
+[Dashboard] Fuel: 165%
+[Dashboard] RPM: 1298
+[Dashboard] Speed: 14 km/h
+[Dashboard] Engine Temp: 146 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1303
+[Dashboard] Speed: 228 km/h
+[Dashboard] Engine Temp: 146 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1274
+[Dashboard] Speed: 14 km/h
+[Dashboard] Engine Temp: 147 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1406
+[Dashboard] Speed: 14 km/h
+[Dashboard] Engine Temp: 147 C
+[Dashboard] Fuel: 239%
+[Dashboard] RPM: 1344
+[Dashboard] Speed: 16 km/h
+[Dashboard] Engine Temp: 145 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1407
+[Dashboard] Speed: 17 km/h
+[Dashboard] Engine Temp: 144 C
+[Dashboard] Fuel: 230%
+[Dashboard] RPM: 32480
+[Dashboard] RPM: 26051
+[Dashboard] Engine Temp: 143 C
+[Dashboard] Speed: 13 km/h
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1194
+[Dashboard] Speed: 12 km/h
+[Dashboard] Fuel: 0%
+[Dashboard] Speed: 19 km/h
+[Dashboard] Engine Temp: 142 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1212
+[Dashboard] Speed: 12 km/h
+[Dashboard] Engine Temp: 112 C
+[Dashboard] Fuel: 156%
+[Dashboard] RPM: 1417
+[Dashboard] Speed: 17 km/h
+[Dashboard] RPM: 1170
+[Dashboard] Speed: 11 km/h
+[Dashboard] Engine Temp: 111 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1133
+[Dashboard] Speed: 10 km/h
+[Dashboard] Engine Temp: 141 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1101
+[Dashboard] Speed: 10 km/h
+[Dashboard] Engine Temp: 112 C
+[Dashboard] RPM: 1322
+[Dashboard] Speed: 11 km/h
+[Dashboard] Engine Temp: 113 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1264
+[Dashboard] Speed: 14 km/h
+[Dashboard] Engine Temp: 114 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1231
+[Dashboard] Speed: 13 km/h
+[Dashboard] Engine Temp: 143 C
+[Dashboard] Fuel: 0%
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1246
+[Dashboard] Speed: 13 km/h
+[Dashboard] Engine Temp: 143 C
+[Dashboard] RPM: 1283
+[Dashboard] Speed: 14 km/h
+[Dashboard] Engine Temp: 112 C
+[Dashboard] Fuel: 0%
+[Dashboard] Speed: 14 km/h
+[Dashboard] Engine Temp: 142 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1182
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1100
+[Dashboard] Speed: 14 km/h
+[Dashboard] Engine Temp: 141 C
+[Dashboard] Speed: 10 km/h
+[Dashboard] Engine Temp: 239 C
+[Dashboard] RPM: 1416
+[Dashboard] Fuel: 0%
+[Dashboard] Speed: 15 km/h
+[Dashboard] RPM: 1074
+[Dashboard] Engine Temp: 139 C
+[Dashboard] RPM: 981
+[Dashboard] Speed: 7 km/h
+[Dashboard] Engine Temp: 114 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1276
+[Dashboard] Speed: 14 km/h
+[Dashboard] Engine Temp: 141 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1330
+[Dashboard] Speed: 14 km/h
+[Dashboard] Engine Temp: 116 C
+[Dashboard] Fuel: 0%
+[Dashboard] Engine Temp: 141 C
+[Dashboard] RPM: 700
+[Dashboard] Speed: 0 km/h
+[Dashboard] Engine Temp: 115 C
+[Dashboard] Speed: 13 km/h
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1461
+[Dashboard] RPM: 1339
+[Dashboard] Speed: 1 km/h
+[Dashboard] Engine Temp: 114 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1263
+[Dashboard] Speed: 14 km/h
+[Dashboard] Engine Temp: 140 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1323
+[Dashboard] Speed: 15 km/h
+[Dashboard] Engine Temp: 139 C
+[Dashboard] RPM: 1334
+[Dashboard] RPM: 1203
+[Dashboard] Speed: 12 km/h
+[Dashboard] Engine Temp: 140 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 902
+[Dashboard] Speed: 5 km/h
+[Dashboard] Engine Temp: 118 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 858
+[Dashboard] Speed: 11 km/h
+[Dashboard] Engine Temp: 142 C
+[Dashboard] Speed: 3 km/h
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 791
+[Dashboard] Engine Temp: 141 C
+[Dashboard] Engine Temp: 119 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1190
+[Dashboard] Speed: 12 km/h
+[Dashboard] RPM: 1223
+[Dashboard] Speed: 13 km/h
+[Dashboard] Engine Temp: 141 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1196
+[Dashboard] Speed: 14 km/h
+[Dashboard] Engine Temp: 140 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1324
+[Dashboard] Speed: 15 km/h
+[Dashboard] Engine Temp: 139 C
+[Dashboard] RPM: 783
+[Dashboard] Speed: 2 km/h
+[Dashboard] Engine Temp: 118 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1416
+[Dashboard] Speed: 17 km/h
+[Dashboard] Engine Temp: 139 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 812
+[Dashboard] Speed: 2 km/h
+[Dashboard] Engine Temp: 117 C
+[Dashboard] Fuel: 0%
+[Dashboard] Speed: 17 km/h
+[Dashboard] Engine Temp: 139 C
+[Dashboard] RPM: 700
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1328
+[Dashboard] Speed: 15 km/h
+[Dashboard] Engine Temp: 138 C
+[Dashboard] RPM: 710
+[Dashboard] Speed: 0 km/h
+[Dashboard] Engine Temp: 115 C
+[Dashboard] Fuel: 229%
+[Dashboard] RPM: 744
+[Dashboard] Speed: 1 km/h
+[Dashboard] Engine Temp: 115 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 806
+[Dashboard] Speed: 3 km/h
+[Dashboard] Engine Temp: 115 C
+[Dashboard] RPM: 736
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1663
+[Dashboard] Speed: 24 km/h
+[Dashboard] Engine Temp: 137 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1752
+[Dashboard] Speed: 26 km/h
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 721
+[Dashboard] Speed: 0 km/h
+[Dashboard] RPM: 1763
+[Dashboard] Speed: 26 km/h
+[Dashboard] Engine Temp: 137 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1832
+[Dashboard] Speed: 28 km/h
+[Dashboard] Engine Temp: 114 C
+[Dashboard] RPM: 1827
+[Dashboard] Speed: 28 km/h
+[Dashboard] Fuel: 0%
+[Dashboard] Speed: 0 km/h
+[Dashboard] RPM: 1860
+[Dashboard] Engine Temp: 138 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1817
+[Dashboard] Speed: 27 km/h
+[Dashboard] Engine Temp: 137 C
+[Dashboard] RPM: 742
+[Dashboard] Speed: 1 km/h
+[Dashboard] Engine Temp: 113 C
+[Dashboard] Fuel: 0%
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 777
+[Dashboard] Speed: 1 km/h
+[Dashboard] Engine Temp: 114 C
+[Dashboard] RPM: 848
+[Dashboard] Speed: 4 km/h
+[Dashboard] Engine Temp: 113 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 886
+[Dashboard] Speed: 4 km/h
+[Dashboard] Engine Temp: 114 C
+[Dashboard] Speed: 15 km/h
+[Dashboard] Engine Temp: 138 C
+[Dashboard] RPM: 1401
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1007
+[Dashboard] Speed: 7 km/h
+[Dashboard] Engine Temp: 112 C
+[Dashboard] Fuel: 0%
+[Dashboard] Speed: 33 km/h
+[Dashboard] Engine Temp: 113 C
+[Dashboard] RPM: 1022
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1198
+[Dashboard] Speed: 12 km/h
+[Dashboard] Engine Temp: 137 C
+[Dashboard] RPM: 1267
+[Dashboard] Speed: 1 km/h
+[Dashboard] Engine Temp: 113 C
+[Dashboard] Fuel: 0%
+[Dashboard] Engine Temp: 136 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 713
+[Dashboard] Speed: 14 km/h
+[Dashboard] Engine Temp: 137 C
+[Dashboard] Fuel: 0%
+[Dashboard] Speed: 0 km/h
+[Dashboard] RPM: 1331
+[Dashboard] RPM: 802
+[Dashboard] Speed: 15 km/h
+[Dashboard] Engine Temp: 137 C
+[Dashboard] Fuel: 0%
+[Dashboard] Speed: 2 km/h
+[Dashboard] Engine Temp: 115 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1391
+[Dashboard] Engine Temp: 137 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1306
+[Dashboard] Speed: 15 km/h
+[Dashboard] RPM: 1459
+[Dashboard] Speed: 80 km/h
+[Dashboard] Engine Temp: 137 C
+[Dashboard] Fuel: 0%
+[Dashboard] Engine Temp: 116 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1409
+[Dashboard] Speed: 72 km/h
+[Dashboard] RPM: 1439
+[Dashboard] Engine Temp: 138 C
+[Dashboard] Speed: 4 km/h
+[Dashboard] Fuel: 0%
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 771
+[Dashboard] Speed: 138 km/h
+[Dashboard] Engine Temp: 117 C
+[Dashboard] RPM: 751
+[Dashboard] Speed: 1 km/h
+[Dashboard] Engine Temp: 117 C
+[Dashboard] Fuel: 0%
+[Dashboard] Speed: 16 km/h
+[Dashboard] Engine Temp: 139 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 700
+[Dashboard] Speed: 17 km/h
+[Dashboard] Engine Temp: 138 C
+[Dashboard] RPM: 700
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 736
+[Dashboard] Speed: 0 km/h
+[Dashboard] Engine Temp: 117 C
+[Dashboard] Fuel: 0%
+[Dashboard] Speed: 2 km/h
+[Dashboard] RPM: 1720
+[Dashboard] Engine Temp: 140 C
+[Dashboard] Fuel: 0%
+[Dashboard] Speed: 3 km/h
+[Dashboard] Engine Temp: 118 C
+[Dashboard] RPM: 1883
+[Dashboard] Fuel: 0%
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1949
+[Dashboard] Speed: 109 km/h
+[Dashboard] Engine Temp: 138 C
+[Dashboard] RPM: 740
+[Dashboard] Speed: 1 km/h
+[Dashboard] Fuel: 0%
+[Dashboard] Engine Temp: 137 C
+[Dashboard] RPM: 1906
+[Dashboard] Speed: 30 km/h
+[Dashboard] Engine Temp: 136 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 717
+[Dashboard] Speed: 0 km/h
+[Dashboard] Engine Temp: 116 C
+[Dashboard] RPM: 49734
+[Dashboard] Speed: 3 km/h
+[Dashboard] Engine Temp: 98 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 763
+[Dashboard] Speed: 1 km/h
+[Dashboard] Engine Temp: 116 C
+[Dashboard] Fuel: 0%
+[Dashboard] Speed: 26 km/h
+[Dashboard] RPM: 1816
+[Dashboard] Engine Temp: 137 C
+[Dashboard] RPM: 700
+[Dashboard] Speed: 0 km/h
+[Dashboard] Engine Temp: 116 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 2025
+[Dashboard] Speed: 33 km/h
+[Dashboard] Engine Temp: 137 C
+[Dashboard] RPM: 803
+[Dashboard] Speed: 2 km/h
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1970
+[Dashboard] Speed: 31 km/h
+[Dashboard] Engine Temp: 115 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 2198
+[Dashboard] Speed: 0 km/h
+[Dashboard] Engine Temp: 116 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 757
+[Dashboard] Speed: 1 km/h
+[Dashboard] Engine Temp: 115 C
+[Dashboard] RPM: 2235
+[Dashboard] Speed: 38 km/h
+[Dashboard] Engine Temp: 137 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 728
+[Dashboard] Speed: 2 km/h
+[Dashboard] Engine Temp: 115 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 2326
+[Dashboard] Speed: 40 km/h
+[Dashboard] Engine Temp: 139 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 2307
+[Dashboard] Speed: 40 km/h
+[Dashboard] Engine Temp: 139 C
+[Dashboard] Fuel: 0%
+[Dashboard] Speed: 41 km/h
+[Dashboard] RPM: 833
+[Dashboard] Engine Temp: 112 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 2187
+[Dashboard] Speed: 37 km/h
+[Dashboard] Engine Temp: 138 C
+[Dashboard] Fuel: 0%
+[Dashboard] Speed: 10 km/h
+[Dashboard] RPM: 2046
+[Dashboard] Engine Temp: 113 C
+[Dashboard] Fuel: 0%
+[Dashboard] Speed: 33 km/h
+[Dashboard] RPM: 838
+[Dashboard] Engine Temp: 113 C
+[Dashboard] Engine Temp: 138 C
+[Dashboard] RPM: 716
+[Dashboard] Speed: 0 km/h
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 799
+[Dashboard] Speed: 2 km/h
+[Dashboard] Engine Temp: 112 C
+[Dashboard] RPM: 2060
+[Dashboard] Speed: 34 km/h
+[Dashboard] Engine Temp: 139 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 2105
+[Dashboard] Speed: 0 km/h
+[Dashboard] Engine Temp: 111 C
+[Dashboard] RPM: 700
+[Dashboard] Speed: 0 km/h
+[Dashboard] Engine Temp: 112 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1978
+[Dashboard] Speed: 31 km/h
+[Dashboard] Engine Temp: 113 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 2054
+[Dashboard] Speed: 33 km/h
+[Dashboard] Engine Temp: 141 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 784
+[Dashboard] Speed: 2 km/h
+[Dashboard] Engine Temp: 114 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1811
+[Dashboard] Speed: 27 km/h
+[Dashboard] Engine Temp: 141 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 798
+[Dashboard] Speed: 3 km/h
+[Dashboard] Engine Temp: 142 C
+[Dashboard] RPM: 2007
+[Dashboard] Speed: 28 km/h
+[Dashboard] Engine Temp: 142 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1736
+[Dashboard] Speed: 25 km/h
+[Dashboard] Engine Temp: 143 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 700
+[Dashboard] Speed: 0 km/h
+[Dashboard] Engine Temp: 113 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1968
+[Dashboard] Speed: 31 km/h
+[Dashboard] Engine Temp: 144 C
+[Dashboard] RPM: 1931
+[Dashboard] Speed: 30 km/h
+[Dashboard] Engine Temp: 144 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1865
+[Dashboard] Speed: 27 km/h
+[Dashboard] Engine Temp: 144 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 770
+[Dashboard] Speed: 1 km/h
+[Dashboard] Engine Temp: 113 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 855
+[Dashboard] Speed: 3 km/h
+[Dashboard] Engine Temp: 113 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1993
+[Dashboard] Speed: 32 km/h
+[Dashboard] Engine Temp: 144 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1974
+[Dashboard] Fuel: 0%
+[Dashboard] Speed: 30 km/h
+[Dashboard] Engine Temp: 144 C
+[Dashboard] RPM: 894
+[Dashboard] Speed: 26 km/h
+[Dashboard] Fuel: 0%
+[Dashboard] Engine Temp: 116 C
+[Dashboard] RPM: 1633
+[Dashboard] Speed: 23 km/h
+[Dashboard] RPM: 1574
+[Dashboard] Speed: 21 km/h
+[Dashboard] Fuel: 95%
+[Dashboard] Engine Temp: 116 C
+[Dashboard] RPM: 1595
+[Dashboard] Engine Temp: 142 C
+[Dashboard] Fuel: 0%
+[Dashboard] Speed: 7 km/h
+[Dashboard] RPM: 1038
+[Dashboard] Speed: 22 km/h
+[Dashboard] Engine Temp: 143 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1086
+[Dashboard] Speed: 9 km/h
+[Dashboard] Engine Temp: 144 C
+[Dashboard] Engine Temp: 116 C
+[Dashboard] RPM: 1597
+[Dashboard] Speed: 181 km/h
+[Dashboard] Fuel: 0%
+[Dashboard] Engine Temp: 117 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1522
+[Dashboard] RPM: 969
+[Dashboard] Speed: 6 km/h
+[Dashboard] Engine Temp: 144 C
+[Dashboard] Engine Temp: 117 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1050
+[Dashboard] Speed: 8 km/h
+[Dashboard] Engine Temp: 117 C
+[Dashboard] Fuel: 0%
+[Dashboard] Engine Temp: 145 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 912
+[Dashboard] Speed: 5 km/h
+[Dashboard] RPM: 894
+[Dashboard] Engine Temp: 119 C
+[Dashboard] Fuel: 0%
+[Dashboard] Speed: 4 km/h
+[Dashboard] RPM: 1651
+[Dashboard] Speed: 3 km/h
+[Dashboard] Engine Temp: 120 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1712
+[Dashboard] Speed: 25 km/h
+[Dashboard] Engine Temp: 146 C
+[Dashboard] Fuel: 0%
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 993
+[Dashboard] Speed: 7 km/h
+[Dashboard] Engine Temp: 147 C
+[Dashboard] RPM: 1649
+[Dashboard] Speed: 193 km/h
+[Dashboard] Engine Temp: 147 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1593
+[Dashboard] Speed: 22 km/h
+[Dashboard] Engine Temp: 146 C
+[Dashboard] Speed: 7 km/h
+[Dashboard] RPM: 1551
+[Dashboard] Engine Temp: 147 C
+[Dashboard] Fuel: 0%
+[Dashboard] Fuel: 0%
+[Dashboard] Speed: 19 km/h
+[Dashboard] Engine Temp: 148 C
+[Dashboard] RPM: 1409
+[Dashboard] RPM: 876
+[Dashboard] Speed: 18 km/h
+[Dashboard] Engine Temp: 148 C
+[Dashboard] Fuel: 0%
+[Dashboard] Speed: 4 km/h
+[Dashboard] Engine Temp: 123 C
+[Dashboard] Fuel: 171%
+[Dashboard] RPM: 808
+[Dashboard] RPM: 1632
+[Dashboard] Speed: 23 km/h
+[Dashboard] Engine Temp: 148 C
+[Dashboard] RPM: 734
+[Dashboard] Speed: 0 km/h
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 700
+[Dashboard] Speed: 27 km/h
+[Dashboard] Engine Temp: 150 C
+[Dashboard] Fuel: 0%
+[Dashboard] Speed: 0 km/h
+[Dashboard] Engine Temp: 121 C
+[Dashboard] RPM: 1688
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 721
+[Dashboard] Speed: 0 km/h
+[Dashboard] Engine Temp: 120 C
+[Dashboard] RPM: 766
+[Dashboard] Fuel: 0%
+[Dashboard] Engine Temp: 152 C
+[Dashboard] RPM: 1670
+[Dashboard] Speed: 24 km/h
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1714
+[Dashboard] Speed: 24 km/h
+[Dashboard] Engine Temp: 152 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 848
+[Dashboard] Speed: 3 km/h
+[Dashboard] Engine Temp: 117 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 841
+[Dashboard] Speed: 3 km/h
+[Dashboard] Engine Temp: 250 C
+[Dashboard] Fuel: 0%
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1827
+[Dashboard] Speed: 28 km/h
+[Dashboard] Engine Temp: 151 C
+[Dashboard] RPM: 813
+[Dashboard] Speed: 2 km/h
+[Dashboard] Engine Temp: 118 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1645
+[Dashboard] Speed: 126 km/h
+[Dashboard] Engine Temp: 117 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 827
+[Dashboard] Fuel: 0%
+[Dashboard] Speed: 25 km/h
+[Dashboard] Engine Temp: 149 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 818
+[Dashboard] Speed: 3 km/h
+[Dashboard] Engine Temp: 238 C
+[Dashboard] RPM: 1643
+[Dashboard] Speed: 23 km/h
+[Dashboard] Engine Temp: 119 C
+[Dashboard] Fuel: 0%
+[Dashboard] Engine Temp: 150 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 898
+[Dashboard] Speed: 4 km/h
+[Dashboard] RPM: 1672
+[Dashboard] Speed: 24 km/h
+[Dashboard] Engine Temp: 151 C
+[Dashboard] Fuel: 0%
+[Dashboard] Speed: 20 km/h
+[Dashboard] RPM: 1574
+[Dashboard] Engine Temp: 151 C
+[Dashboard] RPM: 1626
+[Dashboard] Engine Temp: 152 C
+[Dashboard] Fuel: 0%
+[Dashboard] Speed: 8 km/h
+[Dashboard] RPM: 1585
+[Dashboard] Speed: 22 km/h
+[Dashboard] Engine Temp: 152 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1130
+[Dashboard] Speed: 10 km/h
+[Dashboard] Engine Temp: 116 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1224
+[Dashboard] Speed: 13 km/h
+[Dashboard] Engine Temp: 117 C
+[Dashboard] Fuel: 0%
+[Dashboard] Engine Temp: 150 C
+[Dashboard] RPM: 1317
+[Dashboard] Speed: 192 km/h
+[Dashboard] RPM: 1577
+[Dashboard] Speed: 117 km/h
+[Dashboard] Engine Temp: 149 C
+[Dashboard] Fuel: 0%
+[Dashboard] Speed: 23 km/h
+[Dashboard] RPM: 1680
+[Dashboard] Engine Temp: 148 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1400
+[Dashboard] Speed: 17 km/h
+[Dashboard] Engine Temp: 117 C
+[Dashboard] Engine Temp: 118 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 2034
+[Dashboard] Speed: 33 km/h
+[Dashboard] Speed: 31 km/h
+[Dashboard] Engine Temp: 147 C
+[Dashboard] RPM: 1333
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1864
+[Dashboard] Speed: 15 km/h
+[Dashboard] Engine Temp: 117 C
+[Dashboard] Fuel: 0%
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1959
+[Dashboard] Speed: 31 km/h
+[Dashboard] Engine Temp: 148 C
+[Dashboard] RPM: 1334
+[Dashboard] Speed: 16 km/h
+[Dashboard] Engine Temp: 118 C
+[Dashboard] RPM: 2263
+[Dashboard] Speed: 39 km/h
+[Dashboard] Engine Temp: 148 C
+[Dashboard] Fuel: 0%
+[Dashboard] Speed: 40 km/h
+[Dashboard] Engine Temp: 149 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 2367
+[Dashboard] RPM: 1470
+[Dashboard] Speed: 39 km/h
+[Dashboard] Engine Temp: 116 C
+[Dashboard] Fuel: 0%
+[Dashboard] Speed: 41 km/h
+[Dashboard] RPM: 2363
+[Dashboard] Speed: 41 km/h
+[Dashboard] Engine Temp: 134 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 2451
+[Dashboard] Speed: 20 km/h
+[Dashboard] Engine Temp: 117 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1652
+[Dashboard] Fuel: 0%
+[Dashboard] Speed: 40 km/h
+[Dashboard] Speed: 23 km/h
+[Dashboard] Engine Temp: 116 C
+[Dashboard] Fuel: 5%
+[Dashboard] RPM: 1680
+[Dashboard] RPM: 2300
+[Dashboard] Speed: 40 km/h
+[Dashboard] Engine Temp: 147 C
+[Dashboard] Fuel: 0%
+[Dashboard] Engine Temp: 146 C
+[Dashboard] Speed: 43 km/h
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1818
+[Dashboard] Engine Temp: 115 C
+[Dashboard] RPM: 2387
+[Dashboard] Speed: 42 km/h
+[Dashboard] Fuel: 0%
+[Dashboard] Engine Temp: 148 C
+[Dashboard] RPM: 2010
+[Dashboard] Speed: 41 km/h
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 2277
+[Dashboard] Speed: 39 km/h
+[Dashboard] Engine Temp: 55 C
+[Dashboard] RPM: 9237
+[Dashboard] Speed: 27 km/h
+[Dashboard] Engine Temp: 115 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 2406
+[Dashboard] Speed: 42 km/h
+[Dashboard] Engine Temp: 148 C
+[Dashboard] RPM: 2013
+[Dashboard] Engine Temp: 113 C
+[Dashboard] Speed: 44 km/h
+[Dashboard] RPM: 2608
+[Dashboard] Speed: 47 km/h
+[Dashboard] Engine Temp: 190 C
+[Dashboard] RPM: 1849
+[Dashboard] Speed: 28 km/h
+[Dashboard] Engine Temp: 114 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 2431
+[Dashboard] Speed: 43 km/h
+[Dashboard] Engine Temp: 113 C
+[Dashboard] Fuel: 0%
+[Dashboard] Engine Temp: 114 C
+[Dashboard] RPM: 2407
+[Dashboard] RPM: 1737
+[Dashboard] Speed: 25 km/h
+[Dashboard] Engine Temp: 115 C
+[Dashboard] Fuel: 0%
+[Dashboard] Speed: 43 km/h
+[Dashboard] Engine Temp: 41 C
+[Dashboard] RPM: 2448
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 2504
+[Dashboard] Speed: 45 km/h
+[Dashboard] Engine Temp: 149 C
+[Dashboard] RPM: 1717
+[Dashboard] Speed: 25 km/h
+[Dashboard] Engine Temp: 114 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 2492
+[Dashboard] Speed: 26 km/h
+[Dashboard] Engine Temp: 147 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1765
+[Dashboard] Speed: 26 km/h
+[Dashboard] Engine Temp: 116 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 1988
+[Dashboard] Speed: 32 km/h
+[Dashboard] Engine Temp: 115 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 2345
+[Dashboard] Speed: 41 km/h
+[Dashboard] Engine Temp: 146 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 2401
+[Dashboard] Speed: 42 km/h
+[Dashboard] Engine Temp: 147 C
+[Dashboard] Fuel: 0%
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 2062
+[Dashboard] Speed: 34 km/h
+[Dashboard] Engine Temp: 146 C
+[Dashboard] RPM: 2482
+[Dashboard] Engine Temp: 116 C
+[Dashboard] Speed: 34 km/h
+[Dashboard] Fuel: 0%
+[Dashboard] Engine Temp: 145 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 2617
+[Dashboard] Speed: 47 km/h
+[Dashboard] RPM: 2147
+[Dashboard] Speed: 36 km/h
+[Dashboard] Engine Temp: 116 C
+[Dashboard] RPM: 2050
+[Dashboard] Speed: 33 km/h
+[Dashboard] Engine Temp: 116 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 2104
+[Dashboard] Speed: 35 km/h
+[Dashboard] Fuel: 0%
+[Dashboard] Engine Temp: 118 C
+[Dashboard] RPM: 2300
+[Dashboard] Speed: 40 km/h
+[Dashboard] Engine Temp: 119 C
+[Dashboard] RPM: 2307
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 2132
+[Dashboard] Speed: 35 km/h
+[Dashboard] Engine Temp: 118 C
+[Dashboard] Speed: 36 km/h
+[Dashboard] Engine Temp: 118 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 2075
+[Dashboard] RPM: 2125
+[Dashboard] Speed: 35 km/h
+[Dashboard] Engine Temp: 118 C
+[Dashboard] RPM: 2095
+[Dashboard] Speed: 34 km/h
+[Dashboard] Engine Temp: 117 C
+[Dashboard] Fuel: 164%
+[Dashboard] RPM: 2160
+[Dashboard] Speed: 36 km/h
+[Dashboard] Engine Temp: 116 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 2239
+[Dashboard] Speed: 38 km/h
+[Dashboard] Engine Temp: 115 C
+[Dashboard] RPM: 2236
+[Dashboard] Speed: 38 km/h
+[Dashboard] Engine Temp: 115 C
+[Dashboard] RPM: 2237
+[Dashboard] Speed: 38 km/h
+[Dashboard] Engine Temp: 116 C
+[Dashboard] RPM: 2284
+[Dashboard] Speed: 39 km/h
+[Dashboard] Engine Temp: 116 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 2298
+[Dashboard] Speed: 39 km/h
+[Dashboard] Engine Temp: 115 C
+[Dashboard] RPM: 2263
+[Dashboard] Speed: 39 km/h
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 2357
+[Dashboard] RPM: 2268
+[Dashboard] Speed: 39 km/h
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 2317
+[Dashboard] Speed: 40 km/h
+[Dashboard] Engine Temp: 118 C
+[Dashboard] RPM: 2398
+[Dashboard] Engine Temp: 118 C
+[Dashboard] Fuel: 0%
+[Dashboard] Speed: 44 km/h
+[Dashboard] Engine Temp: 117 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 2505
+[Dashboard] Speed: 45 km/h
+[Dashboard] Engine Temp: 117 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 2594
+[Dashboard] Speed: 49 km/h
+[Dashboard] Speed: 48 km/h
+[Dashboard] Engine Temp: 118 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 2703
+[Dashboard] Speed: 50 km/h
+[Dashboard] RPM: 2734
+[Dashboard] Speed: 50 km/h
+[Dashboard] Engine Temp: 118 C
+[Dashboard] RPM: 2713
+[Dashboard] Speed: 50 km/h
+[Dashboard] Engine Temp: 118 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 2799
+[Dashboard] Speed: 52 km/h
+[Dashboard] Engine Temp: 119 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 2557
+[Dashboard] Speed: 46 km/h
+[Dashboard] Engine Temp: 119 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 2520
+[Dashboard] Speed: 45 km/h
+[Dashboard] Engine Temp: 120 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 2600
+[Dashboard] Speed: 47 km/h
+[Dashboard] Engine Temp: 120 C
+[Dashboard] Fuel: 0%
+[Dashboard] RPM: 2676
+[Dashboard] Speed: 49 km

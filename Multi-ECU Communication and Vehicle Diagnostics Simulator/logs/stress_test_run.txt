@@ -1,0 +1,11 @@
+=== CAN Bus Simulator Stress Test ===
+Duration: 1800s
+Fault injection: ENABLED
+
+Starting ECUs...
+PIDs: engine=104906 dashboard=104907 lighting=104908 brake=104909 direction=104910
+
+Recording memory usage every 30s to logs/stress_memory.csv
+
+Stress test duration complete. Stopping all ECUs...
+Done. Check logs/stress_memory.csv and logs/*.log for results.

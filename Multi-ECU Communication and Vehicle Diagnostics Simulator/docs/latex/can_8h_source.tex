@@ -1,0 +1,34 @@
+\doxysection{can.\+h}
+\hypertarget{can_8h_source}{}\label{can_8h_source}\index{include/can.h@{include/can.h}}
+
+\begin{DoxyCode}{0}
+\DoxyCodeLine{00001\ \textcolor{preprocessor}{\#ifndef\ CAN\_H}}
+\DoxyCodeLine{00002\ \textcolor{preprocessor}{\#define\ CAN\_H}}
+\DoxyCodeLine{00003\ }
+\DoxyCodeLine{00004\ \textcolor{preprocessor}{\#include\ <linux/can.h>}}
+\DoxyCodeLine{00005\ }
+\DoxyCodeLine{00011\ \textcolor{keywordtype}{int}\ can\_init(\textcolor{keyword}{const}\ \textcolor{keywordtype}{char}\ *interface\_name);}
+\DoxyCodeLine{00012\ }
+\DoxyCodeLine{00021\ \textcolor{keywordtype}{int}\ can\_send(\textcolor{keywordtype}{int}\ socket\_fd,\ \textcolor{keywordtype}{unsigned}\ \textcolor{keywordtype}{int}\ \textcolor{keywordtype}{id},\ \textcolor{keywordtype}{unsigned}\ \textcolor{keywordtype}{char}\ *data,\ \textcolor{keywordtype}{unsigned}\ \textcolor{keywordtype}{char}\ len);}
+\DoxyCodeLine{00022\ }
+\DoxyCodeLine{00029\ \textcolor{keywordtype}{int}\ can\_receive(\textcolor{keywordtype}{int}\ socket\_fd,\ \textcolor{keyword}{struct}\ can\_frame\ *frame);}
+\DoxyCodeLine{00030\ }
+\DoxyCodeLine{00036\ \textcolor{keywordtype}{int}\ can\_set\_nonblocking(\textcolor{keywordtype}{int}\ socket\_fd);}
+\DoxyCodeLine{00037\ }
+\DoxyCodeLine{00044\ \textcolor{keywordtype}{int}\ can\_receive\_nonblocking(\textcolor{keywordtype}{int}\ socket\_fd,\ \textcolor{keyword}{struct}\ can\_frame\ *frame);}
+\DoxyCodeLine{00045\ }
+\DoxyCodeLine{00047\ \textcolor{keywordtype}{void}\ can\_close(\textcolor{keywordtype}{int}\ socket\_fd);}
+\DoxyCodeLine{00048\ }
+\DoxyCodeLine{00054\ \textcolor{keywordtype}{void}\ can\_encode\_uint16(\textcolor{keywordtype}{int}\ value,\ \textcolor{keywordtype}{unsigned}\ \textcolor{keywordtype}{char}\ *data);}
+\DoxyCodeLine{00055\ }
+\DoxyCodeLine{00061\ \textcolor{keywordtype}{int}\ can\_decode\_uint16(\textcolor{keyword}{const}\ \textcolor{keywordtype}{unsigned}\ \textcolor{keywordtype}{char}\ *data);}
+\DoxyCodeLine{00062\ }
+\DoxyCodeLine{00068\ \textcolor{keywordtype}{void}\ can\_encode\_uint8(\textcolor{keywordtype}{int}\ value,\ \textcolor{keywordtype}{unsigned}\ \textcolor{keywordtype}{char}\ *data);}
+\DoxyCodeLine{00069\ }
+\DoxyCodeLine{00075\ \textcolor{keywordtype}{int}\ can\_decode\_uint8(\textcolor{keyword}{const}\ \textcolor{keywordtype}{unsigned}\ \textcolor{keywordtype}{char}\ *data);}
+\DoxyCodeLine{00076\ }
+\DoxyCodeLine{00082\ \textcolor{keywordtype}{int}\ can\_validate\_dlc(\textcolor{keywordtype}{unsigned}\ \textcolor{keywordtype}{char}\ len);}
+\DoxyCodeLine{00083\ }
+\DoxyCodeLine{00084\ \textcolor{preprocessor}{\#endif}}
+
+\end{DoxyCode}
